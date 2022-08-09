@@ -1,0 +1,110 @@
+[16:47:26] [ServerMain/INFO]: Building unoptimized datafixer
+[16:47:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:47:33] [ServerMain/INFO]: Loaded 7 recipes
+[16:47:35] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[16:47:35] [Server thread/INFO]: Loading properties
+[16:47:35] [Server thread/INFO]: Default game type: SURVIVAL
+[16:47:35] [Server thread/INFO]: Generating keypair
+[16:47:35] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[16:47:35] [Server thread/INFO]: Using epoll channel type
+[16:47:35] [Server thread/INFO]: This server is running CraftBukkit version 3566-Bukkit-c379a6b (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT)
+[16:47:36] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.0
+[16:47:36] [Server thread/INFO]: Preparing level "The-Wall-master"
+[16:47:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:49] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[16:47:50] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[16:47:50] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[16:47:52] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[16:47:52] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[16:47:52] [Worker-Main-2/INFO]: Preparing spawn area: 70%
+[16:47:52] [Server thread/INFO]: Time elapsed: 14705 ms
+[16:47:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:47:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:48:06] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[16:48:06] [Server thread/INFO]: Time elapsed: 13821 ms
+[16:48:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:48:11] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[16:48:11] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[16:48:11] [Server thread/INFO]: Time elapsed: 5226 ms
+[16:48:11] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.0
+[16:48:11] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[16:48:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:48:11] [Server thread/INFO]: Done (35.241s)! For help, type "help"
+[16:48:11] [Server thread/INFO]: Starting GS4 status listener
+[16:48:11] [Server thread/INFO]: Thread Query Listener started
+[16:48:11] [Query Listener #1/INFO]: Query running on 192.168.1.200:25565
+[16:48:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
+[16:48:32] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@1c4a1acb[id=<null>,name=Dallinator_X,properties={},legacy=false] (/192.168.1.2:47000): Authentication servers are down. Please try again later, sorry!
+[16:48:32] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[16:48:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c4a1acb[id=<null>,name=Dallinator_X,properties={},legacy=false] (/192.168.1.2:47000) lost connection: Authentication servers are down. Please try again later, sorry!
+[16:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8019ms or 160 ticks behind
+[16:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[16:50:05] [User Authenticator #2/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[16:50:06] [Server thread/INFO]: Dallinator_X joined the game
+[16:50:06] [Server thread/INFO]: Dallinator_X[/192.168.1.2:47004] logged in with entity id 1167 at ([The-Wall-master]2606.9273284864944, -44.56645691682056, 178.13925842884757)
+[16:50:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15096ms or 301 ticks behind
+[16:50:36] [Server thread/INFO]: Dallinator_X issued server command: /gamemode adventure
+[16:50:36] [Server thread/INFO]: [Dallinator_X: Set own game mode to Adventure Mode]
+[16:50:41] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[16:50:41] [Server thread/INFO]: Dallinator_X left the game
+[16:51:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6756ms or 135 ticks behind
+[16:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
