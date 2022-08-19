@@ -1426,6 +1426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-08-18 20:49:47 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2021-08-10 14:04:52 -0600"
@@ -2648,6 +2654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2022-08-18 18:04:45 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2022-01-16 15:24:40 -0700"
@@ -3275,6 +3287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-08-18 20:54:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2020-05-11 22:42:35 -0600"
@@ -3344,6 +3362,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2022-01-15 18:55:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2022-08-18 22:02:41 -0600"
     },
     "done": true
   },
@@ -3878,12 +3902,14 @@
       "bread": "2021-08-01 18:08:33 -0600",
       "rotten_flesh": "2020-05-11 20:29:10 -0600",
       "suspicious_stew": "2020-05-11 22:18:01 -0600",
+      "glow_berries": "2022-08-18 18:41:52 -0600",
       "melon_slice": "2021-07-31 13:14:21 -0600",
       "cooked_rabbit": "2020-05-12 16:05:19 -0600",
       "cooked_chicken": "2019-05-18 00:18:36 -0600",
       "mushroom_stew": "2022-01-20 15:42:44 -0700",
       "cod": "2020-05-11 23:03:29 -0600",
-      "cooked_salmon": "2021-07-30 16:47:51 -0600"
+      "cooked_salmon": "2021-07-30 16:47:51 -0600",
+      "carrot": "2022-08-18 20:31:46 -0600"
     },
     "done": false
   },
