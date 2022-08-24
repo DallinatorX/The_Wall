@@ -1,81 +1,156 @@
-[00:11:12] [User Authenticator #48/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[00:11:12] [Server thread/INFO]: Dallinator_X joined the game
-[00:11:12] [Server thread/INFO]: Dallinator_X[/192.168.1.2:58618] logged in with entity id 304981 at ([The-Wall-master]2590.8666929637707, -1.0, 197.69332135892307)
-[00:13:55] [User Authenticator #49/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[00:13:56] [Server thread/INFO]: KROD_DA_KROD joined the game
-[00:13:56] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.3:51374] logged in with entity id 307206 at ([The-Wall-master]2669.520736096053, -33.0, -8.699999988079071)
-[00:15:26] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[00:15:26] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[00:17:51] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[00:17:51] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[00:33:28] [Server thread/INFO]: Dallinator_X fell from a high place
-[00:52:03] [Server thread/INFO]: Dallinator_X was shot by Skeleton
-[00:57:02] [Server thread/INFO]: Villager EntityVillager['Villager'/305046, l='ServerLevel[The-Wall-master]', x=2605.70, y=28.00, z=155.70] died, message: 'Villager was slain by Zombie'
-[01:01:42] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[01:01:42] [Server thread/INFO]: Dallinator_X left the game
-[01:01:45] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[01:01:45] [Server thread/INFO]: KROD_DA_KROD left the game
-[19:34:41] [User Authenticator #50/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[19:34:41] [Server thread/INFO]: KROD_DA_KROD joined the game
-[19:34:41] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.3:39980] logged in with entity id 324218 at ([The-Wall-master]2569.4780535003338, -1.0, 231.30000001192093)
-[19:36:31] [User Authenticator #51/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[19:36:31] [Server thread/INFO]: Dallinator_X joined the game
-[19:36:32] [Server thread/INFO]: Dallinator_X[/192.168.1.2:34338] logged in with entity id 325975 at ([The-Wall-master]2571.4508212040755, -2.0, 227.61904166146573)
-[19:37:57] [Server thread/INFO]: Villager EntityVillager['Farmer'/324415, l='ServerLevel[The-Wall-master]', x=2580.30, y=34.00, z=125.30] died, message: 'Farmer was slain by Zombie'
-[19:40:24] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[19:40:24] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[19:41:40] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[19:41:40] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[19:43:07] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[19:43:07] [Server thread/INFO]: Dallinator_X left the game
-[19:48:19] [User Authenticator #52/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[19:48:19] [Server thread/INFO]: Dallinator_X joined the game
-[19:48:19] [Server thread/INFO]: Dallinator_X[/192.168.1.2:34342] logged in with entity id 329679 at ([The-Wall-master]2533.412262929414, 26.0, 150.30327477673782)
-[19:50:05] [Server thread/INFO]: KROD_DA_KROD was blown up by Creeper
-[19:52:28] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[19:52:28] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[19:53:17] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[19:53:17] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[19:54:15] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[19:54:15] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[19:54:28] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[19:54:28] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[19:55:04] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[19:55:04] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[19:55:15] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[19:55:15] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[19:58:21] [Server thread/INFO]: Dallinator_X was shot by Skeleton
-[20:01:33] [Server thread/INFO]: Dallinator_X issued server command: /gamerule randomTickSpeed 3
-[20:01:33] [Server thread/INFO]: [Dallinator_X: Gamerule randomTickSpeed is now set to: 3]
-[20:07:00] [Server thread/INFO]: Dallinator_X issued server command: /time set day
-[20:07:00] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
-[20:07:32] [Server thread/INFO]: Dallinator_X issued server command: /time set noon
-[20:07:32] [Server thread/INFO]: [Dallinator_X: Set the time to 6000]
-[20:16:26] [Server thread/INFO]: KROD_DA_KROD was blown up by Creeper
-[20:22:38] [Server thread/INFO]: KROD_DA_KROD was shot by Skeleton
-[20:27:29] [Server thread/INFO]: Villager EntityVillager['Farmer'/324416, l='ServerLevel[The-Wall-master]', x=2564.49, y=75.00, z=157.04] died, message: 'Farmer was slain by Zombie'
-[20:30:27] [Server thread/INFO]: Dallinator_X issued server command: /gamemode creative
-[20:30:27] [Server thread/INFO]: [Dallinator_X: Set own game mode to Creative Mode]
-[20:30:33] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[20:30:33] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[20:30:44] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[20:30:44] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[20:33:38] [Server thread/INFO]: KROD_DA_KROD was shot by Skeleton
-[20:36:02] [Server thread/INFO]: KROD_DA_KROD was shot by Skeleton
-[20:45:31] [Server thread/INFO]: KROD_DA_KROD burned to death
-[20:50:17] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
-[21:01:11] [Server thread/INFO]: Dallinator_X was shot by Skeleton
-[21:09:29] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[21:09:29] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[21:09:35] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[21:09:35] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[21:10:11] [Server thread/INFO]: Dallinator_X hit the ground too hard
-[21:10:25] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[21:10:25] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[21:13:04] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[21:13:04] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[21:20:50] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[21:20:50] [Server thread/INFO]: KROD_DA_KROD left the game
-[21:20:58] [Server thread/INFO]: Dallinator_X was blown up by Creeper
-[21:21:20] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[21:21:20] [Server thread/INFO]: Dallinator_X left the game
+[16:22:13] [ServerMain/INFO]: Building unoptimized datafixer
+[16:22:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:22:16] [ServerMain/INFO]: Loaded 7 recipes
+[16:22:17] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[16:22:17] [Server thread/INFO]: Loading properties
+[16:22:17] [Server thread/INFO]: This server is running CraftBukkit version 3566-Spigot-584b459-c379a6b (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT)
+[16:22:17] [Server thread/INFO]: Debug logging is disabled
+[16:22:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:22:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:22:17] [Server thread/INFO]: Default game type: SURVIVAL
+[16:22:17] [Server thread/INFO]: Generating keypair
+[16:22:17] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[16:22:17] [Server thread/INFO]: Using epoll channel type
+[16:22:18] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.3
+[16:22:18] [Server thread/INFO]: Preparing level "The-Wall-master"
+[16:22:18] [Server thread/INFO]: -------- World Settings For [The-Wall-master] --------
+[16:22:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[16:22:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:22:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[16:22:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:22:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:22:18] [Server thread/INFO]: Mob Spawn Range: 6
+[16:22:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Max TNT Explosions: 100
+[16:22:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:22:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:22:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:22:18] [Server thread/INFO]: View Distance: 32
+[16:22:18] [Server thread/INFO]: Simulation Distance: 10
+[16:22:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:22:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:22:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:22:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:22:18] [Server thread/INFO]: -------- World Settings For [The-Wall-master_nether] --------
+[16:22:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[16:22:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:22:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[16:22:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:22:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:22:18] [Server thread/INFO]: Mob Spawn Range: 6
+[16:22:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Max TNT Explosions: 100
+[16:22:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:22:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:22:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:22:18] [Server thread/INFO]: View Distance: 32
+[16:22:18] [Server thread/INFO]: Simulation Distance: 10
+[16:22:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:22:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:22:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:22:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:22:18] [Server thread/INFO]: -------- World Settings For [The-Wall-master_the_end] --------
+[16:22:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[16:22:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:22:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[16:22:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:22:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:22:18] [Server thread/INFO]: Mob Spawn Range: 6
+[16:22:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:22:18] [Server thread/INFO]: Max TNT Explosions: 100
+[16:22:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:22:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:22:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:22:18] [Server thread/INFO]: View Distance: 32
+[16:22:18] [Server thread/INFO]: Simulation Distance: 10
+[16:22:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:22:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:22:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:22:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:22:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:22:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:23] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[16:22:24] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[16:22:25] [Server thread/INFO]: Time elapsed: 6242 ms
+[16:22:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:22:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:30] [Worker-Main-2/INFO]: Preparing spawn area: 14%
+[16:22:30] [Server thread/INFO]: Time elapsed: 5247 ms
+[16:22:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:22:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:32] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[16:22:32] [Worker-Main-2/INFO]: Preparing spawn area: 94%
+[16:22:32] [Server thread/INFO]: Time elapsed: 2516 ms
+[16:22:32] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
+[16:22:32] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[16:22:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:22:33] [Server thread/INFO]: Done (14.653s)! For help, type "help"
+[16:22:33] [Server thread/INFO]: Starting GS4 status listener
+[16:22:33] [Server thread/INFO]: Thread Query Listener started
+[16:22:33] [Query Listener #1/INFO]: Query running on 192.168.1.200:25565
