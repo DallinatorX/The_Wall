@@ -1,76 +1,16 @@
-[17:24:27] [User Authenticator #1/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[17:24:28] [Server thread/INFO]: KROD_DA_KROD joined the game
-[17:24:28] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.3:36398] logged in with entity id 5698 at ([The-Wall-master]2568.5024984769066, 28.0, 237.65994389456247)
-[17:31:18] [User Authenticator #2/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[17:31:18] [Server thread/INFO]: Dallinator_X joined the game
-[17:31:19] [Server thread/INFO]: Dallinator_X[/192.168.1.2:33080] logged in with entity id 8350 at ([The-Wall-master]2593.4648977948664, 0.0, 188.8961356840751)
-[17:33:12] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[17:33:12] [Server thread/INFO]: Dallinator_X left the game
-[18:15:44] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
-[18:16:29] [Server thread/INFO]: Villager EntityVillager['Villager'/18253, l='ServerLevel[The-Wall-master]', x=2561.30, y=59.00, z=146.70] died, message: 'Villager was slain by Zombie'
-[18:19:22] [Server thread/INFO]: Villager EntityVillager['Villager'/18252, l='ServerLevel[The-Wall-master]', x=2563.48, y=51.00, z=143.55] died, message: 'Villager was slain by Zombie'
-[18:25:18] [Server thread/INFO]: KROD_DA_KROD went up in flames
-[18:30:17] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[18:30:17] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[18:31:55] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[18:31:55] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[18:35:15] [User Authenticator #3/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[18:35:15] [Server thread/INFO]: Dallinator_X joined the game
-[18:35:16] [Server thread/INFO]: Dallinator_X[/192.168.1.2:33092] logged in with entity id 25020 at ([The-Wall-master]2589.1140521050556, 4.5625, 164.62333453490325)
-[18:41:16] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
-[18:47:37] [Server thread/INFO]: KROD_DA_KROD drowned
-[18:47:58] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[18:47:58] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[18:48:17] [Server thread/INFO]: Dallinator_X issued server command: /tp KROD_DA_KROD Dallinator_X
-[18:48:17] [Server thread/INFO]: [Dallinator_X: Teleported KROD_DA_KROD to Dallinator_X]
-[18:49:25] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[18:49:25] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[18:51:30] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[18:51:30] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[18:52:04] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[18:52:04] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[18:53:11] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[18:53:11] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[18:53:36] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[18:53:36] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[18:54:37] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[18:54:37] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[18:54:54] [Server thread/INFO]: Dallinator_X was shot by Skeleton
-[18:54:59] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[18:54:59] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[18:56:56] [Server thread/INFO]: Villager EntityVillager['Villager'/21879, l='ServerLevel[The-Wall-master]', x=2583.55, y=66.94, z=110.82] died, message: 'Villager was slain by Zombie'
-[18:58:58] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[18:58:58] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[18:59:19] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[18:59:19] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[19:00:15] [Server thread/INFO]: Dallinator_X drowned
-[19:02:08] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[19:02:08] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[19:02:36] [Server thread/INFO]: Villager EntityVillager['Fisherman'/21864, l='ServerLevel[The-Wall-master]', x=2580.55, y=66.00, z=109.64] died, message: 'Fisherman was slain by Zombie'
-[19:03:48] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[19:03:48] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[19:04:11] [Server thread/INFO]: Villager EntityVillager['Fisherman'/21847, l='ServerLevel[The-Wall-master]', x=2594.15, y=66.00, z=115.30] died, message: 'Fisherman was slain by Zombie'
-[19:04:23] [Server thread/INFO]: Villager EntityVillager['Fisherman'/21862, l='ServerLevel[The-Wall-master]', x=2591.48, y=68.00, z=149.12] died, message: 'Fisherman was slain by Zombie'
-[19:04:38] [Server thread/INFO]: Villager EntityVillager['Villager'/21721, l='ServerLevel[The-Wall-master]', x=2581.70, y=69.54, z=150.38] died, message: 'Villager was slain by Zombie Villager'
-[19:04:54] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[19:04:54] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[19:05:41] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[19:05:41] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[19:08:22] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[19:08:22] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[19:08:46] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[19:08:46] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[19:12:11] [Server thread/INFO]: Dallinator_X issued server command: /time set night
-[19:12:11] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
-[19:22:40] [Server thread/INFO]: Dallinator_X issued server command: /time set night
-[19:22:40] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
-[19:47:51] [Server thread/INFO]: Villager EntityVillager['Fisherman'/21844, l='ServerLevel[The-Wall-master]', x=2587.25, y=66.00, z=98.51] died, message: 'Fisherman was slain by Zombie'
-[19:48:00] [Server thread/INFO]: Villager EntityVillager['Fisherman'/21842, l='ServerLevel[The-Wall-master]', x=2566.29, y=71.00, z=128.59] died, message: 'Fisherman was slain by Zombie'
-[19:48:05] [Server thread/INFO]: Villager EntityVillager['Villager'/21634, l='ServerLevel[The-Wall-master]', x=2574.70, y=70.00, z=141.30] died, message: 'Villager was slain by Zombie'
-[19:49:53] [Server thread/INFO]: Dallinator_X issued server command: /time set day
-[19:49:53] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
-[19:52:19] [Server thread/INFO]: Dallinator_X drowned
-[19:52:22] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[19:52:22] [Server thread/INFO]: Dallinator_X left the game
-[19:53:10] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[19:53:10] [Server thread/INFO]: KROD_DA_KROD left the game
+[19:26:22] [User Authenticator #4/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[19:26:22] [Server thread/INFO]: Dallinator_X joined the game
+[19:26:22] [Server thread/INFO]: Dallinator_X[/192.168.1.2:60436] logged in with entity id 54991 at ([The-Wall-master]2670.820608513639, 60.0, 178.69999998807907)
+[19:26:37] [Server thread/INFO]: Dallinator_X issued server command: /op KingJuliqn
+[19:26:37] [Server thread/INFO]: [Dallinator_X: Made KingJuliqn a server operator]
+[19:26:46] [Server thread/INFO]: Dallinator_X issued server command: /gamemode creative
+[19:26:46] [Server thread/INFO]: [Dallinator_X: Set own game mode to Creative Mode]
+[19:26:58] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[19:26:58] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[19:27:03] [Server thread/INFO]: Dallinator_X issued server command: /gamerule sendCommandFeedback true
+[19:27:03] [Server thread/INFO]: [Dallinator_X: Gamerule sendCommandFeedback is now set to: true]
+[19:27:08] [Server thread/INFO]: Dallinator_X issued server command: /op KingJuliqn
+[19:27:19] [Server thread/INFO]: Dallinator_X issued server command: /gamerule sendCommandFeedback false
+[19:27:19] [Server thread/INFO]: [Dallinator_X: Gamerule sendCommandFeedback is now set to: false]
+[19:27:31] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[19:27:31] [Server thread/INFO]: Dallinator_X left the game
