@@ -1,16 +1,16 @@
-[19:26:22] [User Authenticator #4/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[19:26:22] [Server thread/INFO]: Dallinator_X joined the game
-[19:26:22] [Server thread/INFO]: Dallinator_X[/192.168.1.2:60436] logged in with entity id 54991 at ([The-Wall-master]2670.820608513639, 60.0, 178.69999998807907)
-[19:26:37] [Server thread/INFO]: Dallinator_X issued server command: /op KingJuliqn
-[19:26:37] [Server thread/INFO]: [Dallinator_X: Made KingJuliqn a server operator]
-[19:26:46] [Server thread/INFO]: Dallinator_X issued server command: /gamemode creative
-[19:26:46] [Server thread/INFO]: [Dallinator_X: Set own game mode to Creative Mode]
-[19:26:58] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[19:26:58] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[19:27:03] [Server thread/INFO]: Dallinator_X issued server command: /gamerule sendCommandFeedback true
-[19:27:03] [Server thread/INFO]: [Dallinator_X: Gamerule sendCommandFeedback is now set to: true]
-[19:27:08] [Server thread/INFO]: Dallinator_X issued server command: /op KingJuliqn
-[19:27:19] [Server thread/INFO]: Dallinator_X issued server command: /gamerule sendCommandFeedback false
-[19:27:19] [Server thread/INFO]: [Dallinator_X: Gamerule sendCommandFeedback is now set to: false]
-[19:27:31] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[19:27:31] [Server thread/INFO]: Dallinator_X left the game
+[01:36:05] [User Authenticator #6/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[01:36:05] [Server thread/INFO]: KROD_DA_KROD joined the game
+[01:36:05] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.2:34940] logged in with entity id 85557 at ([The-Wall-master]2566.3727860307354, -1.0, 236.30998888103665)
+[01:42:09] [Server thread/INFO]: KROD_DA_KROD was slain by The Gardener
+[01:42:59] [Server thread/INFO]: KROD_DA_KROD was slain by The Gardener
+[01:52:21] [Server thread/INFO]: KROD_DA_KROD was slain by Zombified Piglin
+[01:55:23] [Server thread/INFO]: KROD_DA_KROD was slain by Zombified Piglin
+[02:03:51] [Server thread/INFO]: KROD_DA_KROD was slain by Zombified Piglin
+[02:15:14] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
+[02:15:16] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[02:15:16] [Server thread/INFO]: KROD_DA_KROD left the game
+[02:18:18] [User Authenticator #7/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[02:18:18] [Server thread/INFO]: KROD_DA_KROD joined the game
+[02:18:18] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.3:49344] logged in with entity id 100252 at ([The-Wall-master_nether]519.3000000119209, 29.683423953526102, 99.9154275515805)
+[02:18:50] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[02:18:50] [Server thread/INFO]: KROD_DA_KROD left the game

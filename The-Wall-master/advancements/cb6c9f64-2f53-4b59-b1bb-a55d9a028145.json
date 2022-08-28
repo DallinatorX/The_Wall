@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-08-28 02:10:46 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-05-11 20:02:26 -0600"
@@ -2897,6 +2903,7 @@
       "minecraft:hoglin": "2021-07-30 17:19:12 -0600",
       "minecraft:guardian": "2020-05-11 22:59:57 -0600",
       "minecraft:vindicator": "2020-06-10 17:24:06 -0600",
+      "minecraft:magma_cube": "2022-08-28 02:10:32 -0600",
       "minecraft:spider": "2020-05-11 20:59:29 -0600",
       "minecraft:creeper": "2020-05-11 20:59:54 -0600",
       "minecraft:slime": "2020-05-14 02:03:37 -0600",
@@ -3961,6 +3968,7 @@
       "cooked_cod": "2020-05-13 20:27:10 -0600",
       "mutton": "2022-08-05 20:25:46 -0600",
       "bread": "2021-08-01 18:08:33 -0600",
+      "golden_apple": "2022-08-28 02:02:12 -0600",
       "rotten_flesh": "2020-05-11 20:29:10 -0600",
       "suspicious_stew": "2020-05-11 22:18:01 -0600",
       "glow_berries": "2022-08-18 18:41:52 -0600",
@@ -4427,6 +4435,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-05-15 17:39:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2022-08-27 22:56:10 -0600"
     },
     "done": true
   },
