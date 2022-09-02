@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-09-01 17:06:11 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2018-11-17 19:08:19 -0700"
@@ -3616,6 +3622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2022-09-01 16:40:51 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2021-08-23 02:34:32 -0600"
@@ -3813,6 +3825,7 @@
       "bread": "2019-11-16 00:12:15 -0700",
       "golden_apple": "2020-04-25 18:18:39 -0600",
       "rotten_flesh": "2020-04-25 17:50:14 -0600",
+      "glow_berries": "2022-09-01 16:35:07 -0600",
       "melon_slice": "2020-04-27 19:50:02 -0600",
       "beetroot": "2019-03-30 00:04:01 -0600",
       "cooked_rabbit": "2020-04-25 17:49:09 -0600",

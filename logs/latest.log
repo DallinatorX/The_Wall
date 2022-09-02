@@ -1,27 +1,32 @@
-[14:45:54] [User Authenticator #1/INFO]: UUID of player KingJuliqn is 614e1af5-042b-4bf7-bbc7-33f6336893de
-[14:45:55] [Server thread/INFO]: KingJuliqn joined the game
-[14:45:55] [Server thread/INFO]: KingJuliqn[/24.117.62.252:51809] logged in with entity id 4801 at ([The-Wall-master]2579.0970241596165, -1.0, 263.9227497943714)
-[14:46:44] [Server thread/INFO]: KingJuliqn lost connection: Timed out
-[14:46:44] [Server thread/INFO]: KingJuliqn left the game.
-[14:49:37] [User Authenticator #2/INFO]: UUID of player KingJuliqn is 614e1af5-042b-4bf7-bbc7-33f6336893de
-[14:49:37] [Server thread/INFO]: KingJuliqn joined the game
-[14:49:37] [Server thread/INFO]: KingJuliqn[/24.117.62.252:51841] logged in with entity id 6323 at ([The-Wall-master]2579.0970241596165, -1.0, 263.9227497943714)
-[14:50:27] [Server thread/INFO]: KingJuliqn lost connection: Timed out
-[14:50:27] [Server thread/INFO]: KingJuliqn left the game.
-[17:55:50] [User Authenticator #3/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[17:55:50] [Server thread/INFO]: Dallinator_X joined the game
-[17:55:50] [Server thread/INFO]: Dallinator_X[/192.168.1.2:40320] logged in with entity id 8150 at ([The-Wall-master]2592.527152197465, 0.0, 188.92578254791076)
-[17:56:10] [Server thread/INFO]: Villager EntityVillager['Villager'/8360, l='ServerLevel[The-Wall-master]', x=2584.60, y=66.94, z=116.37] died, message: 'Villager was slain by Zombie'
-[17:56:33] [Server thread/INFO]: Villager EntityVillager['Villager'/8341, l='ServerLevel[The-Wall-master]', x=2562.46, y=69.00, z=98.51] died, message: 'Villager was slain by Zombie'
-[17:56:35] [Server thread/INFO]: Dallinator_X was slain by The Gardener
-[17:57:35] [Server thread/INFO]: Villager EntityVillager['Villager'/9863, l='ServerLevel[The-Wall-master]', x=2621.94, y=68.00, z=173.78] died, message: 'Villager was slain by Zombie Villager'
-[17:58:43] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[17:58:43] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[17:59:22] [Server thread/INFO]: Dallinator_X issued server command: /tp Dallinator_X 0 0 0
-[17:59:22] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 0.500000, 0.000000, 0.500000]
-[18:04:43] [Server thread/INFO]: Dallinator_X issued server command: /tp Dallinator_X 2000 ~ ~
-[18:04:44] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 2000.500000, 13.766960, 276.373849]
-[18:06:11] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[18:06:11] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[18:06:34] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[18:06:34] [Server thread/INFO]: Dallinator_X left the game
+[14:39:05] [User Authenticator #4/INFO]: UUID of player KingJuliqn is 614e1af5-042b-4bf7-bbc7-33f6336893de
+[14:39:05] [Server thread/INFO]: KingJuliqn joined the game
+[14:39:05] [Server thread/INFO]: KingJuliqn[/24.117.62.252:62256] logged in with entity id 24420 at ([The-Wall-master]2579.0970241596165, -1.0, 263.9227497943714)
+[14:39:55] [Server thread/INFO]: KingJuliqn lost connection: Timed out
+[14:39:55] [Server thread/INFO]: KingJuliqn left the game.
+[14:40:33] [User Authenticator #5/INFO]: UUID of player KingJuliqn is 614e1af5-042b-4bf7-bbc7-33f6336893de
+[14:40:33] [Server thread/INFO]: KingJuliqn joined the game
+[14:40:33] [Server thread/INFO]: KingJuliqn[/24.117.62.252:62266] logged in with entity id 25982 at ([The-Wall-master]2579.0970241596165, -1.0, 263.9227497943714)
+[14:41:23] [Server thread/INFO]: KingJuliqn lost connection: Timed out
+[14:41:23] [Server thread/INFO]: KingJuliqn left the game.
+[16:34:08] [User Authenticator #6/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[16:34:08] [Server thread/INFO]: Dallinator_X joined the game
+[16:34:08] [Server thread/INFO]: Dallinator_X[/192.168.1.2:43050] logged in with entity id 27714 at ([The-Wall-master]2592.0436826289397, -3.0, 191.43420506815275)
+[16:37:59] [Server thread/INFO]: Villager EntityVillager['Fisherman'/27837, l='ServerLevel[The-Wall-master]', x=2603.41, y=66.00, z=96.24] died, message: 'Fisherman was slain by Zombie'
+[16:49:46] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[16:49:53] [Server thread/INFO]: Dallinator_X fell from a high place
+[16:50:00] [Server thread/INFO]: Dallinator_X fell from a high place
+[16:50:28] [Server thread/INFO]: Dallinator_X was slain by Zombie
+[16:53:35] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[16:53:51] [Server thread/INFO]: Dallinator_X issued server command: /weather clear
+[16:53:51] [Server thread/INFO]: [Dallinator_X: Set the weather to clear]
+[16:56:39] [Server thread/INFO]: Dallinator_X issued server command: /gamerule doWeatherCycle false
+[16:56:39] [Server thread/INFO]: [Dallinator_X: Gamerule doWeatherCycle is now set to: false]
+[16:58:46] [Server thread/INFO]: Dallinator_X fell from a high place
+[17:06:11] [Server thread/INFO]: Dallinator_X has made the advancement [Not Today, Thank You]
+[17:38:29] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[17:38:29] [Server thread/INFO]: Dallinator_X left the game
+[17:38:34] [User Authenticator #7/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[17:38:34] [Server thread/INFO]: Dallinator_X joined the game
+[17:38:34] [Server thread/INFO]: Dallinator_X[/192.168.1.2:57904] logged in with entity id 52667 at ([The-Wall-master]3092.49843136673, 7.0, -28.645872902852354)
+[17:49:37] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[17:49:37] [Server thread/INFO]: Dallinator_X left the game
