@@ -3150,6 +3150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2022-09-02 22:40:05 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2020-05-15 17:39:05 -0600"
@@ -4552,6 +4558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-09-02 22:40:05 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-05-11 20:32:19 -0600"
@@ -4645,6 +4657,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-15 18:48:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-09-02 22:40:05 -0600"
     },
     "done": true
   },
