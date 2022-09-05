@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-09-04 19:42:35 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2018-11-16 21:11:32 -0700"
@@ -563,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2022-09-04 19:04:19 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-08-01 17:04:53 -0600"
@@ -869,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-09-04 19:00:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2018-11-21 09:20:37 -0700"
@@ -1079,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-09-04 19:42:35 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2021-07-30 16:52:44 -0600"
@@ -1205,6 +1229,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2022-08-07 22:17:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-09-04 15:03:23 -0600"
     },
     "done": true
   },
@@ -2646,6 +2676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-09-04 15:03:23 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2021-08-05 13:04:08 -0600"
@@ -2709,6 +2745,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2022-06-20 13:38:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-09-04 19:06:13 -0600"
     },
     "done": true
   },
@@ -2837,6 +2879,7 @@
       "minecraft:magma_cube": "2018-12-21 15:46:14 -0700",
       "minecraft:spider": "2018-11-21 09:27:26 -0700",
       "minecraft:creeper": "2018-11-21 11:08:17 -0700",
+      "minecraft:wither": "2022-09-04 18:03:48 -0600",
       "minecraft:slime": "2018-11-21 11:19:02 -0700",
       "minecraft:phantom": "2021-08-02 13:26:55 -0600",
       "minecraft:zombified_piglin": "2018-11-21 16:31:01 -0700",
@@ -3010,9 +3053,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-09-04 19:02:09 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2019-07-06 23:20:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-09-04 15:03:23 -0600"
     },
     "done": true
   },
@@ -3232,6 +3287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-09-04 18:04:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2018-11-17 20:09:06 -0700"
@@ -3295,6 +3356,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2022-08-07 22:17:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-09-04 15:03:23 -0600"
     },
     "done": true
   },
@@ -3402,11 +3469,14 @@
       "minecraft:swamp": "2018-11-17 16:55:37 -0700",
       "minecraft:cold_ocean": "2021-08-04 19:53:30 -0600",
       "minecraft:forest": "2018-11-17 16:54:29 -0700",
+      "minecraft:lush_caves": "2022-09-04 21:42:42 -0600",
       "minecraft:deep_cold_ocean": "2021-08-04 19:53:46 -0600",
+      "minecraft:frozen_ocean": "2022-09-04 19:14:43 -0600",
       "minecraft:desert": "2018-11-17 17:37:36 -0700",
       "minecraft:deep_frozen_ocean": "2021-08-04 19:53:33 -0600",
       "minecraft:windswept_forest": "2019-01-11 11:51:25 -0700",
       "minecraft:jungle": "2019-02-15 23:20:52 -0700",
+      "minecraft:ocean": "2022-09-04 19:09:17 -0600",
       "minecraft:warm_ocean": "2019-01-13 00:15:16 -0700",
       "minecraft:deep_lukewarm_ocean": "2018-11-23 03:16:07 -0700",
       "minecraft:flower_forest": "2022-08-05 20:29:44 -0600",
@@ -3529,6 +3599,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2018-11-17 19:52:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-09-04 20:10:16 -0600"
     },
     "done": true
   },
@@ -3778,6 +3854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-09-04 19:00:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2018-12-21 17:44:29 -0700"
@@ -3826,6 +3908,7 @@
       "golden_apple": "2020-04-25 18:18:39 -0600",
       "rotten_flesh": "2020-04-25 17:50:14 -0600",
       "glow_berries": "2022-09-01 16:35:07 -0600",
+      "salmon": "2022-09-04 18:40:37 -0600",
       "melon_slice": "2020-04-27 19:50:02 -0600",
       "beetroot": "2019-03-30 00:04:01 -0600",
       "cooked_rabbit": "2020-04-25 17:49:09 -0600",
@@ -3838,6 +3921,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2019-01-21 23:08:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-09-04 19:02:09 -0600"
     },
     "done": true
   },
@@ -4345,6 +4434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-09-04 20:10:16 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-17 18:24:42 -0700"
@@ -4459,6 +4554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-09-04 16:01:17 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2018-11-21 12:04:41 -0700"
@@ -4552,6 +4653,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2018-11-16 21:11:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-09-04 19:06:13 -0600"
     },
     "done": true
   },
@@ -4672,6 +4779,12 @@
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2019-01-13 17:05:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2022-09-04 19:04:19 -0600"
     },
     "done": true
   },
