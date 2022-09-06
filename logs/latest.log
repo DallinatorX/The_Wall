@@ -107,3 +107,105 @@
 [04:02:12] [Server thread/INFO]: KROD_DA_KROD fell from a high place
 [04:02:20] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
 [04:02:20] [Server thread/INFO]: KROD_DA_KROD left the game
+[04:40:19] [User Authenticator #41/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[04:40:19] [Server thread/INFO]: KROD_DA_KROD joined the game
+[04:40:19] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.33:33392] logged in with entity id 639322 at ([The-Wall-master]3525.699999988079, -5.0, 2646.300000011921)
+[04:40:59] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[04:40:59] [Server thread/INFO]: KROD_DA_KROD left the game
+[04:41:06] [User Authenticator #42/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[04:41:06] [Server thread/INFO]: KROD_DA_KROD joined the game
+[04:41:06] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.33:33394] logged in with entity id 639959 at ([The-Wall-master]3526.5, 65.5625, 2649.5)
+[04:41:56] [Server thread/INFO]: KROD_DA_KROD lost connection: Timed out
+[04:41:56] [Server thread/INFO]: KROD_DA_KROD left the game.
+[13:46:22] [User Authenticator #43/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[13:46:22] [Server thread/INFO]: Dallinator_X joined the game
+[13:46:22] [Server thread/INFO]: Dallinator_X[/192.168.1.2:53730] logged in with entity id 641707 at ([The-Wall-master]3525.57287754612, 39.36528469730555, 2566.7862368670876)
+[13:46:59] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[13:46:59] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[13:47:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@686f539c[id=<null>,name=KROD_DA_KROD,properties={},legacy=false] (/192.168.1.172:63272) lost connection: Disconnected
+[13:47:32] [User Authenticator #44/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[13:47:32] [Server thread/INFO]: KROD_DA_KROD joined the game
+[13:47:33] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.172:63276] logged in with entity id 642535 at ([The-Wall-master]3505.917847343668, 62.1592101268059, 2640.6412895446465)
+[13:47:54] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[13:47:54] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[13:48:35] [Server thread/INFO]: KROD_DA_KROD was blown up by Creeper
+[13:55:12] [Server thread/INFO]: Dallinator_X was slain by Zombie
+[14:00:28] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[14:01:04] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[14:01:04] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[14:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[14:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[14:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5578ms or 111 ticks behind
+[14:11:02] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[14:11:02] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[14:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[14:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[14:12:13] [Server thread/INFO]: Dallinator_X issued server command: /gamerule doFireTick false
+[14:12:13] [Server thread/INFO]: [Dallinator_X: Gamerule doFireTick is now set to: false]
+[14:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[14:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[14:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[14:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[14:20:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[14:20:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[14:21:12] [Server thread/INFO]: Dallinator_X issued server command: /gamerule doFireTick falsea
+[14:21:16] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[14:21:16] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[14:21:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7226ms or 144 ticks behind
+[14:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[14:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7924ms or 158 ticks behind
+[14:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5051ms or 101 ticks behind
+[14:23:52] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[14:23:52] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[14:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[14:24:28] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[14:24:28] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[14:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[14:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[14:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[14:26:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[14:27:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[14:28:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[14:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8405ms or 168 ticks behind
+[14:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5397ms or 107 ticks behind
+[14:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[14:30:06] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[14:30:06] [Server thread/INFO]: KROD_DA_KROD left the game
+[14:30:14] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[14:30:14] [Server thread/INFO]: Dallinator_X left the game
+[18:49:40] [User Authenticator #45/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[18:49:40] [Server thread/INFO]: KROD_DA_KROD joined the game
+[18:49:40] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.172:63920] logged in with entity id 662974 at ([The-Wall-master]3622.300834048859, -23.0, 2577.7393737255666)
+[18:58:35] [Server thread/INFO]: KROD_DA_KROD was slain by Zombie
+[19:17:04] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[19:17:04] [Server thread/INFO]: KROD_DA_KROD left the game
+[19:40:40] [User Authenticator #46/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[19:40:41] [Server thread/INFO]: Dallinator_X joined the game
+[19:40:41] [Server thread/INFO]: Dallinator_X[/192.168.1.2:60500] logged in with entity id 669153 at ([The-Wall-master]4080.5721196687314, 72.0, 3762.4198409621513)
+[19:43:22] [Server thread/INFO]: Dallinator_X fell from a high place
+[20:41:05] [Server thread/INFO]: Villager EntityVillager['Villager'/127593, l='ServerLevel[The-Wall-master]', x=-249.75, y=11.00, z=204.57] died, message: 'Villager hit the ground too hard'
+[21:01:43] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[21:01:43] [Server thread/INFO]: Dallinator_X left the game
+[21:02:22] [User Authenticator #47/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[21:02:22] [Server thread/INFO]: KROD_DA_KROD joined the game
+[21:02:22] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.172:64196] logged in with entity id 691216 at ([The-Wall-master]3520.161122195777, 65.0, 2644.423843228473)
+[21:05:17] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[21:05:17] [Server thread/INFO]: KROD_DA_KROD left the game
+[21:05:27] [User Authenticator #48/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[21:05:27] [Server thread/INFO]: Dallinator_X joined the game
+[21:05:27] [Server thread/INFO]: Dallinator_X[/192.168.1.2:35062] logged in with entity id 692557 at ([The-Wall-master]3538.3403882647945, 63.875, 2632.604235740877)
+[21:05:34] [Server thread/INFO]: Dallinator_X issued server command: /gamemode creative
+[21:05:34] [Server thread/INFO]: [Dallinator_X: Set own game mode to Creative Mode]
+[21:05:50] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[21:05:50] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[21:07:30] [Server thread/INFO]: Dallinator_X issued server command: /gamemode creative
+[21:07:30] [Server thread/INFO]: [Dallinator_X: Set own game mode to Creative Mode]
+[21:07:45] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[21:07:45] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[21:10:00] [Server thread/INFO]: Dallinator_X was blown up by Creeper
+[21:10:25] [Server thread/INFO]: Dallinator_X was blown up by Creeper
+[21:10:32] [Server thread/INFO]: Dallinator_X was blown up by Creeper
+[21:10:49] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[21:10:49] [Server thread/INFO]: Dallinator_X left the game
+[23:26:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[23:28:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
