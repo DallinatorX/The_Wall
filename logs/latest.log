@@ -1,1 +1,10 @@
-[04:43:41] [Server thread/INFO]: Villager EntityVillager['Villager'/238, l='ServerLevel[The-Wall-master]', x=-247.43, y=11.00, z=205.46] died, message: 'Villager hit the ground too hard'
+[03:40:45] [User Authenticator #7/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[03:40:45] [Server thread/INFO]: KROD_DA_KROD joined the game
+[03:40:45] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.40:65162] logged in with entity id 80493 at ([The-Wall-master]3534.898956684748, 63.0, 2645.8791747057553)
+[03:41:35] [Server thread/INFO]: KROD_DA_KROD lost connection: Timed out
+[03:41:35] [Server thread/INFO]: KROD_DA_KROD left the game.
+[03:45:22] [User Authenticator #8/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[03:45:23] [Server thread/INFO]: KROD_DA_KROD joined the game
+[03:45:23] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.40:26642] logged in with entity id 81124 at ([The-Wall-master]3534.898956684748, 63.0, 2645.8791747057553)
+[03:46:13] [Server thread/INFO]: KROD_DA_KROD lost connection: Timed out
+[03:46:13] [Server thread/INFO]: KROD_DA_KROD left the game.
