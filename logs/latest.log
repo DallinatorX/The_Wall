@@ -1,10 +1,24 @@
-[03:40:45] [User Authenticator #7/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[03:40:45] [Server thread/INFO]: KROD_DA_KROD joined the game
-[03:40:45] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.40:65162] logged in with entity id 80493 at ([The-Wall-master]3534.898956684748, 63.0, 2645.8791747057553)
-[03:41:35] [Server thread/INFO]: KROD_DA_KROD lost connection: Timed out
-[03:41:35] [Server thread/INFO]: KROD_DA_KROD left the game.
-[03:45:22] [User Authenticator #8/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[03:45:23] [Server thread/INFO]: KROD_DA_KROD joined the game
-[03:45:23] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.40:26642] logged in with entity id 81124 at ([The-Wall-master]3534.898956684748, 63.0, 2645.8791747057553)
-[03:46:13] [Server thread/INFO]: KROD_DA_KROD lost connection: Timed out
-[03:46:13] [Server thread/INFO]: KROD_DA_KROD left the game.
+[13:04:28] [User Authenticator #9/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[13:04:28] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[13:04:28] [Server thread/INFO]: 855_FOR_TRUTH[/157.201.98.1:35247] logged in with entity id 85735 at ([The-Wall-master]2549.394091745426, -2.0, 217.1316233810053)
+[13:05:18] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[13:05:18] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[13:06:08] [User Authenticator #10/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[13:06:08] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[13:06:08] [Server thread/INFO]: 855_FOR_TRUTH[/157.201.98.1:12717] logged in with entity id 86450 at ([The-Wall-master]2559.571338760907, -2.0, 221.0672589504376)
+[13:06:37] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp 0 80 0
+[13:06:37] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to 0.500000, 80.000000, 0.500000]
+[13:07:23] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[13:07:23] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[13:07:56] [User Authenticator #11/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[13:07:56] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[13:07:56] [Server thread/INFO]: 855_FOR_TRUTH[/157.201.98.1:35312] logged in with entity id 87253 at ([The-Wall-master]0.5, 76.07999622355526, 0.5)
+[13:08:12] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[13:08:12] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[13:08:46] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[13:08:46] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[13:09:23] [User Authenticator #12/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[13:09:23] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[13:09:23] [Server thread/INFO]: 855_FOR_TRUTH[/157.201.98.1:5441] logged in with entity id 88803 at ([The-Wall-master]0.5, 73.38543467530647, 0.5)
+[13:09:51] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[13:09:51] [Server thread/INFO]: 855_FOR_TRUTH left the game
