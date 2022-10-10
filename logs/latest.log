@@ -1,6 +1,6 @@
-[02:54:54] [User Authenticator #13/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[02:54:54] [Server thread/INFO]: KROD_DA_KROD joined the game
-[02:54:54] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.40:19591] logged in with entity id 99786 at ([The-Wall-master]3534.898956684748, 63.0, 2645.8791747057553)
-[02:55:06] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
-[02:55:26] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[02:55:26] [Server thread/INFO]: KROD_DA_KROD left the game
+[06:53:04] [User Authenticator #14/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[06:53:04] [Server thread/INFO]: KROD_DA_KROD joined the game
+[06:53:04] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.37:16239] logged in with entity id 119951 at ([The-Wall-master]3541.6343435093145, 63.0, 2639.3113120135795)
+[06:53:33] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[06:53:54] [Server thread/INFO]: KROD_DA_KROD lost connection: Timed out
+[06:53:54] [Server thread/INFO]: KROD_DA_KROD left the game.
