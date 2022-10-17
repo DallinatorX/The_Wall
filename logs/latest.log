@@ -1,6 +1,10 @@
-[06:53:04] [User Authenticator #14/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[06:53:04] [Server thread/INFO]: KROD_DA_KROD joined the game
-[06:53:04] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.37:16239] logged in with entity id 119951 at ([The-Wall-master]3541.6343435093145, 63.0, 2639.3113120135795)
-[06:53:33] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
-[06:53:54] [Server thread/INFO]: KROD_DA_KROD lost connection: Timed out
-[06:53:54] [Server thread/INFO]: KROD_DA_KROD left the game.
+[09:55:12] [User Authenticator #15/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[09:55:12] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[09:55:12] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.37:8917] logged in with entity id 140033 at ([The-Wall-master]0.5, 73.38543467530647, 0.5)
+[09:56:02] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[09:56:02] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[09:56:40] [User Authenticator #16/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[09:56:40] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[09:56:40] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.37:13744] logged in with entity id 141572 at ([The-Wall-master]0.5, 73.38543467530647, 0.5)
+[09:57:30] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[09:57:30] [Server thread/INFO]: 855_FOR_TRUTH left the game.
