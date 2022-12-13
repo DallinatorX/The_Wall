@@ -1,8 +1,1 @@
-[16:45:53] [User Authenticator #1/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[16:45:53] [Server thread/ERROR]: Unable to parse Stat data from ./The-Wall-master/stats/cc451e9c-6e62-4f2b-b7a6-45ea7305d961.json
-[16:45:53] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[16:45:54] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Stone Age]
-[16:45:54] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Acquire Hardware]
-[16:45:54] [Server thread/INFO]: 855_FOR_TRUTH[/192.168.1.2:36540] logged in with entity id 3406 at ([The-Wall-master]-3.6409480146008164, 98.86872833146077, -16.4409801228538)
-[16:47:43] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
-[16:47:43] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[13:13:23] [Server thread/INFO]: Villager EntityVillager['Villager'/927, l='ServerLevel[The-Wall-master]', x=-246.46, y=12.00, z=211.28] died, message: 'Villager hit the ground too hard'
