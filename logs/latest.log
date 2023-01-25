@@ -1,6 +1,464 @@
-[23:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
-[23:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
-[23:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14246ms or 284 ticks behind
-[23:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15725ms or 314 ticks behind
-[23:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11417ms or 228 ticks behind
-[23:11:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12907ms or 258 ticks behind
+[07:29:03] [Server thread/INFO]: /216.131.118.24:62950 lost connection: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+[22:33:03] [User Authenticator #8/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:33:03] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:33:03] [Server thread/INFO]: 855_FOR_TRUTH[/169.150.196.135:35360] logged in with entity id 68938 at ([The-Wall-master]2566.9135901683508, -2.0, 220.73480275798119)
+[22:34:21] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[22:34:21] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[22:47:17] [User Authenticator #9/INFO]: UUID of player Wester_Island is 06c16ebf-c76c-4d32-965c-764e79956ad0
+[22:47:17] [Server thread/INFO]: Wester_Island joined the game
+[22:47:17] [Server thread/INFO]: Wester_Island[/169.150.196.135:42270] logged in with entity id 69615 at ([The-Wall-master]-3138.7438538943557, 92.0, 949.6740405218038)
+[22:47:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6312ms or 126 ticks behind
+[22:47:43] [IO-Worker-11787/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11787/ERROR]: External chunk path ./The-Wall-master/region/c.-167.67.mcc is not file
+[22:47:43] [IO-Worker-11787/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11787/ERROR]: External chunk path ./The-Wall-master/region/c.-163.68.mcc is not file
+[22:47:43] [IO-Worker-11779/ERROR]: Chunk [-167, 72] stream is truncated: expected 1987799395 but read 8187
+[22:47:43] [IO-Worker-11787/ERROR]: Chunk [-166, 72] stream is truncated: expected 635732862 but read 8187
+[22:47:43] [IO-Worker-11779/WARN]: Failed to bulk scan chunk [-165, 73]
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:245) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:213) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(SourceFile:68) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.NBTTagLongArray$1.a(SourceFile:47) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:109) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:270) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:112) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.b(SourceFile:223) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:236) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[22:47:43] [Worker-Main-11786/WARN]: Failed to scan chunk [-165, 73]
+java.util.concurrent.CompletionException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.concurrent.CompletableFuture.reportJoin(CompletableFuture.java:413) ~[?:?]
+	at java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2118) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:143) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.ChunkCoordIntPair$1.tryAdvance(SourceFile:203) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.c(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:245) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:213) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(SourceFile:68) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.NBTTagLongArray$1.a(SourceFile:47) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:109) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:270) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:112) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.b(SourceFile:223) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:236) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-166, 77] stream is truncated: expected 1921899764 but read 8187
+[22:47:43] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-165.77.mcc is not file
+[22:47:43] [IO-Worker-11788/ERROR]: Declared size -1290051871 of chunk [-164, 77] is negative
+[22:47:43] [IO-Worker-11788/WARN]: Failed to bulk scan chunk [-162, 80]
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:245) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:213) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(SourceFile:68) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.NBTTagString.a(SourceFile:57) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:135) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagType$b.a(SourceFile:50) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagList$1.a(SourceFile:92) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:109) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:270) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:112) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.b(SourceFile:223) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:236) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[22:47:43] [Worker-Main-11786/WARN]: Failed to scan chunk [-162, 80]
+java.util.concurrent.CompletionException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.concurrent.CompletableFuture.reportJoin(CompletableFuture.java:413) ~[?:?]
+	at java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2118) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:143) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.ChunkCoordIntPair$1.tryAdvance(SourceFile:203) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.c(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:245) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:213) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(SourceFile:68) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.NBTTagString.a(SourceFile:57) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:135) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagType$b.a(SourceFile:50) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagList$1.a(SourceFile:92) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:109) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:270) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:112) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.b(SourceFile:223) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:236) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-191, 81] stream is truncated: expected 1121881311 but read 4091
+[22:47:43] [IO-Worker-11770/ERROR]: Chunk [-190, 81] stream is truncated: expected 4173 but read 4091
+[22:47:43] [IO-Worker-11770/ERROR]: Declared size -1519177800 of chunk [-188, 81] is negative
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-187.81.mcc is not file
+[22:47:43] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-186.81.mcc is not file
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-192, 82] stream is truncated: expected 4746 but read 4091
+[22:47:43] [IO-Worker-11787/ERROR]: Declared size -1754595769 of chunk [-191, 82] is negative
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-187, 82] stream is truncated: expected 4159 but read 4091
+[22:47:43] [IO-Worker-11787/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11787/ERROR]: External chunk path ./The-Wall-master/region/c.-181.82.mcc is not file
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-162.82.mcc is not file
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-192.83.mcc is not file
+[22:47:43] [IO-Worker-11787/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11787/ERROR]: External chunk path ./The-Wall-master/region/c.-191.83.mcc is not file
+[22:47:43] [IO-Worker-11787/ERROR]: Chunk [-189, 83] stream is truncated: expected 4397 but read 4091
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-188, 83] stream is truncated: expected 781118159 but read 4091
+[22:47:43] [IO-Worker-11770/ERROR]: Chunk [-187, 83] stream is truncated: expected 4260 but read 4091
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-182.83.mcc is not file
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-181.83.mcc is not file
+[22:47:43] [IO-Worker-11788/ERROR]: Declared size -1242066502 of chunk [-191, 84] is negative
+[22:47:43] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-190.84.mcc is not file
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-189.84.mcc is not file
+[22:47:43] [IO-Worker-11770/ERROR]: Declared size -611370374 of chunk [-184, 84] is negative
+[22:47:43] [IO-Worker-11770/WARN]: Failed to bulk scan chunk [-169, 84]
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:245) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:213) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(SourceFile:68) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.NBTTagString.a(SourceFile:57) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:135) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagType$b.a(SourceFile:50) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagList$1.a(SourceFile:92) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:109) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:270) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:112) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.b(SourceFile:223) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:236) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[22:47:43] [Worker-Main-11786/WARN]: Failed to scan chunk [-169, 84]
+java.util.concurrent.CompletionException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.concurrent.CompletableFuture.reportJoin(CompletableFuture.java:413) ~[?:?]
+	at java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2118) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:143) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.ChunkCoordIntPair$1.tryAdvance(SourceFile:203) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.c(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:245) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:213) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(SourceFile:68) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.NBTTagString.a(SourceFile:57) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:135) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagType$b.a(SourceFile:50) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagList$1.a(SourceFile:92) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:109) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:270) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:112) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.b(SourceFile:223) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:236) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-191, 85] stream is truncated: expected 4446 but read 4091
+[22:47:43] [IO-Worker-11770/ERROR]: Chunk [-184, 86] stream is truncated: expected 102720125 but read 4091
+[22:47:43] [IO-Worker-11770/ERROR]: Chunk [-169, 86] stream is truncated: expected 1923160567 but read 8187
+[22:47:43] [IO-Worker-11787/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11787/ERROR]: External chunk path ./The-Wall-master/region/c.-192.88.mcc is not file
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-191, 88] stream is truncated: expected 4240 but read 4091
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-190, 88] stream is truncated: expected 4677 but read 4091
+[22:47:43] [IO-Worker-11787/ERROR]: Chunk [-189, 88] stream is truncated: expected 1909093978 but read 4091
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-188.88.mcc is not file
+[22:47:43] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-183.88.mcc is not file
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-182, 88] stream is truncated: expected 4239 but read 4091
+[22:47:43] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-181.88.mcc is not file
+[22:47:43] [IO-Worker-11788/ERROR]: Declared size -588825563 of chunk [-180, 88] is negative
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-192.89.mcc is not file
+[22:47:43] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-191.89.mcc is not file
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-190, 89] stream is truncated: expected 4307 but read 4091
+[22:47:43] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-187.89.mcc is not file
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-186, 89] stream is truncated: expected 4153 but read 4091
+[22:47:43] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-185.89.mcc is not file
+[22:47:43] [IO-Worker-11770/ERROR]: Chunk [-183, 89] stream is truncated: expected 4386 but read 4091
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-182, 89] stream is truncated: expected 5780 but read 4091
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-192, 90] stream is truncated: expected 4615 but read 4091
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-190, 90] stream is truncated: expected 4713 but read 4091
+[22:47:43] [IO-Worker-11788/WARN]: Chunk [-188, 90] is allocated, but stream is missing
+[22:47:43] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-187.90.mcc is not file
+[22:47:43] [IO-Worker-11788/ERROR]: Chunk [-186, 90] stream is truncated: expected 1819553377 but read 4091
+[22:47:43] [IO-Worker-11770/ERROR]: Declared size -1143092726 of chunk [-185, 90] is negative
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-184.90.mcc is not file
+[22:47:43] [IO-Worker-11770/ERROR]: Chunk [-183, 90] stream is truncated: expected 4311 but read 4091
+[22:47:43] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:43] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-182.90.mcc is not file
+[22:47:43] [IO-Worker-11770/ERROR]: Chunk [-181, 90] stream is truncated: expected 4447 but read 4091
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-192, 91] stream is truncated: expected 4852 but read 4091
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-190, 91] stream is truncated: expected 4218 but read 4091
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-189.91.mcc is not file
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-187, 91] stream is truncated: expected 1799735651 but read 4091
+[22:47:44] [IO-Worker-11788/ERROR]: Chunk [-186, 91] stream is truncated: expected 4613 but read 4091
+[22:47:44] [IO-Worker-11788/ERROR]: Chunk [-185, 91] stream is truncated: expected 4375 but read 4091
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-183, 91] stream is truncated: expected 4429 but read 4091
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-182.91.mcc is not file
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-181, 91] stream is truncated: expected 4611 but read 4091
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-180.91.mcc is not file
+[22:47:44] [IO-Worker-11788/ERROR]: Chunk [-192, 92] stream is truncated: expected 4219 but read 4091
+[22:47:44] [IO-Worker-11788/ERROR]: Chunk [-190, 92] stream is truncated: expected 4532 but read 4091
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-189.92.mcc is not file
+[22:47:44] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-188.92.mcc is not file
+[22:47:44] [IO-Worker-11788/ERROR]: Declared size -2047389950 of chunk [-187, 92] is negative
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-185.92.mcc is not file
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-184.92.mcc is not file
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-183.92.mcc is not file
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-182, 92] stream is truncated: expected 4783 but read 4091
+[22:47:44] [IO-Worker-11788/ERROR]: Declared size -969285144 of chunk [-192, 93] is negative
+[22:47:44] [IO-Worker-11770/ERROR]: Declared size -75586626 of chunk [-191, 93] is negative
+[22:47:44] [IO-Worker-11788/ERROR]: Declared size -955738919 of chunk [-190, 93] is negative
+[22:47:44] [IO-Worker-11770/ERROR]: Declared size -90227319 of chunk [-188, 93] is negative
+[22:47:44] [IO-Worker-11788/ERROR]: Chunk [-187, 93] stream is truncated: expected 4133 but read 4091
+[22:47:44] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-186.93.mcc is not file
+[22:47:44] [IO-Worker-11788/ERROR]: Chunk [-185, 93] stream is truncated: expected 4657 but read 4091
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-184, 93] stream is truncated: expected 544160322 but read 4091
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-182, 93] stream is truncated: expected 5091 but read 4091
+[22:47:44] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-191.94.mcc is not file
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-189.94.mcc is not file
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-187, 94] stream is truncated: expected 5001 but read 4091
+[22:47:44] [IO-Worker-11788/ERROR]: Chunk [-186, 94] stream is truncated: expected 4593 but read 4091
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-185, 94] stream is truncated: expected 5145 but read 4091
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-184.94.mcc is not file
+[22:47:44] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-182.94.mcc is not file
+[22:47:44] [IO-Worker-11770/ERROR]: Chunk [-181, 94] stream is truncated: expected 912505867 but read 8187
+[22:47:44] [IO-Worker-11778/WARN]: Failed to bulk scan chunk [-167, 94]
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:245) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:213) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(SourceFile:68) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.NBTTagString.a(SourceFile:57) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:95) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:270) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:112) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.b(SourceFile:223) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:236) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) [spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[22:47:44] [Worker-Main-11786/WARN]: Failed to scan chunk [-167, 94]
+java.util.concurrent.CompletionException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.concurrent.CompletableFuture.reportJoin(CompletableFuture.java:413) ~[?:?]
+	at java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2118) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:143) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.ChunkCoordIntPair$1.tryAdvance(SourceFile:203) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.c(SourceFile:136) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:245) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:213) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(SourceFile:68) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.NBTTagString.a(SourceFile:57) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTTagCompound$1.a(SourceFile:95) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:270) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:112) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.b(SourceFile:223) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:236) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) ~[spigot-1.19.2-R0.1-SNAPSHOT.jar:3566-Spigot-584b459-c379a6b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[22:47:44] [IO-Worker-11788/ERROR]: Chunk [-192, 95] stream is truncated: expected 4753 but read 4091
+[22:47:44] [IO-Worker-11778/ERROR]: Declared size -1728369764 of chunk [-191, 95] is negative
+[22:47:44] [IO-Worker-11778/ERROR]: Chunk [-190, 95] stream is truncated: expected 4259 but read 4091
+[22:47:44] [IO-Worker-11778/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11778/ERROR]: External chunk path ./The-Wall-master/region/c.-187.95.mcc is not file
+[22:47:44] [IO-Worker-11778/ERROR]: Chunk [-186, 95] stream is truncated: expected 2072934733 but read 4091
+[22:47:44] [IO-Worker-11788/ERROR]: Chunk [-185, 95] stream is truncated: expected 347572669 but read 4091
+[22:47:44] [IO-Worker-11778/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11778/ERROR]: External chunk path ./The-Wall-master/region/c.-184.95.mcc is not file
+[22:47:44] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:44] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-183.95.mcc is not file
+[22:47:44] [IO-Worker-11778/ERROR]: Chunk [-182, 95] stream is truncated: expected 4526 but read 4091
+[22:47:50] [IO-Worker-11788/ERROR]: Chunk [-191, 81] stream is truncated: expected 1121881311 but read 4091
+[22:47:50] [IO-Worker-11770/ERROR]: Chunk [-190, 81] stream is truncated: expected 4173 but read 4091
+[22:47:50] [IO-Worker-11770/ERROR]: Declared size -1519177800 of chunk [-188, 81] is negative
+[22:47:50] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:47:50] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-187.81.mcc is not file
+[22:47:50] [IO-Worker-11770/WARN]: Chunk has both internal and external streams
+[22:47:50] [IO-Worker-11770/ERROR]: External chunk path ./The-Wall-master/region/c.-186.81.mcc is not file
+[22:47:50] [Server thread/ERROR]: Chunk file at [-182, 81] is in the wrong location; relocating. (Expected [-182, 81], got [-166, 95])
+[22:47:50] [Server thread/WARN]: Found invalid structure reference [ minecraft:mineshaft @ [-172, 98] ] for chunk [-182, 81].
+[22:47:50] [Server thread/WARN]: Found invalid structure reference [ minecraft:mineshaft @ [-162, 103] ] for chunk [-182, 81].
+[22:47:50] [Server thread/ERROR]: Chunk file at [-183, 81] is in the wrong location; relocating. (Expected [-183, 81], got [-162, 91])
+[22:47:50] [Server thread/WARN]: Found invalid structure reference [ minecraft:mineshaft @ [-162, 83] ] for chunk [-183, 81].
+[22:47:50] [Server thread/WARN]: Found invalid structure reference [ minecraft:mineshaft @ [-154, 85] ] for chunk [-183, 81].
+[22:47:52] [IO-Worker-11770/ERROR]: Chunk [-192, 82] stream is truncated: expected 4746 but read 4091
+[22:47:52] [IO-Worker-11778/ERROR]: Declared size -1754595769 of chunk [-191, 82] is negative
+[22:47:52] [IO-Worker-11778/ERROR]: Chunk [-187, 82] stream is truncated: expected 4159 but read 4091
+[22:47:52] [IO-Worker-11778/WARN]: Chunk has both internal and external streams
+[22:47:52] [IO-Worker-11778/ERROR]: External chunk path ./The-Wall-master/region/c.-181.82.mcc is not file
+[22:50:04] [IO-Worker-11778/WARN]: Chunk has both internal and external streams
+[22:50:04] [IO-Worker-11778/ERROR]: External chunk path ./The-Wall-master/region/c.-192.83.mcc is not file
+[22:50:04] [IO-Worker-11793/WARN]: Chunk has both internal and external streams
+[22:50:04] [IO-Worker-11793/ERROR]: External chunk path ./The-Wall-master/region/c.-191.83.mcc is not file
+[22:50:04] [IO-Worker-11793/ERROR]: Chunk [-189, 83] stream is truncated: expected 4397 but read 4091
+[22:50:04] [IO-Worker-11778/ERROR]: Declared size -157549944 of chunk [-188, 83] is negative
+[22:50:04] [IO-Worker-11794/ERROR]: Chunk [-187, 83] stream is truncated: expected 4260 but read 4091
+[22:50:04] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:50:04] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-182.83.mcc is not file
+[22:50:04] [IO-Worker-11794/WARN]: Chunk has both internal and external streams
+[22:50:04] [IO-Worker-11794/ERROR]: External chunk path ./The-Wall-master/region/c.-181.83.mcc is not file
+[22:50:04] [Server thread/ERROR]: Chunk file at [-186, 83] is in the wrong location; relocating. (Expected [-186, 83], got [-166, 90])
+[22:50:04] [Server thread/WARN]: Found invalid structure reference [ minecraft:mineshaft @ [-172, 98] ] for chunk [-186, 83].
+[22:50:04] [Server thread/WARN]: Found invalid structure reference [ minecraft:mineshaft @ [-162, 83] ] for chunk [-186, 83].
+[22:50:14] [Async Chat Thread - #2/INFO]: <Wester_Island> dank
+[22:53:05] [IO-Worker-11797/ERROR]: Declared size -1242066502 of chunk [-191, 84] is negative
+[22:53:05] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:53:05] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-190.84.mcc is not file
+[22:53:05] [IO-Worker-11797/WARN]: Chunk has both internal and external streams
+[22:53:05] [IO-Worker-11797/ERROR]: External chunk path ./The-Wall-master/region/c.-189.84.mcc is not file
+[22:53:05] [IO-Worker-11788/WARN]: Chunk has both internal and external streams
+[22:53:05] [IO-Worker-11788/ERROR]: External chunk path ./The-Wall-master/region/c.-184.84.mcc is not file
+[22:53:26] [IO-Worker-11778/ERROR]: Chunk [-191, 85] stream is truncated: expected 4446 but read 4091
+[22:53:27] [Server thread/ERROR]: Chunk file at [-192, 85] is in the wrong location; relocating. (Expected [-192, 85], got [-166, 93])
+[22:53:27] [Server thread/WARN]: Found invalid structure reference [ minecraft:mineshaft @ [-172, 98] ] for chunk [-192, 85].
+[22:53:47] [Server thread/INFO]: Wester_Island lost connection: Disconnected
+[22:53:47] [Server thread/INFO]: Wester_Island left the game
+[22:54:51] [User Authenticator #10/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[22:54:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file ./The-Wall-master/advancements/24e0a04c-e2e4-4be2-8f37-92875a2a1add.json - it doesn't exist anymore?
+[22:54:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[22:54:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[22:54:52] [Server thread/INFO]: N7fty joined the game
+[22:54:52] [Server thread/INFO]: N7fty[/169.150.196.135:35966] logged in with entity id 70798 at ([The-Wall-master]-216.78338846981723, 124.0, 247.84946003248072)
+[22:55:25] [Async Chat Thread - #4/INFO]: <N7fty> dank
+[22:55:42] [Server thread/INFO]: N7fty lost connection: Timed out
+[22:55:42] [Server thread/INFO]: N7fty left the game.
+[22:55:59] [User Authenticator #11/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[22:55:59] [Server thread/INFO]: N7fty joined the game
+[22:55:59] [Server thread/INFO]: N7fty[/169.150.196.135:59928] logged in with entity id 70951 at ([The-Wall-master]-216.78338846981723, 124.0, 247.84946003248072)
+[22:56:49] [Server thread/INFO]: N7fty lost connection: Timed out
+[22:56:49] [Server thread/INFO]: N7fty left the game.
+[22:57:31] [User Authenticator #12/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[22:57:31] [Server thread/INFO]: N7fty joined the game
+[22:57:31] [Server thread/INFO]: N7fty[/169.150.196.135:57200] logged in with entity id 71082 at ([The-Wall-master]-216.78338846981723, 124.0, 247.84946003248072)
+[22:58:21] [Server thread/INFO]: N7fty lost connection: Timed out
+[22:58:21] [Server thread/INFO]: N7fty left the game.
+[22:58:38] [User Authenticator #13/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[22:58:38] [Server thread/INFO]: N7fty joined the game
+[22:58:38] [Server thread/INFO]: N7fty[/169.150.196.135:40922] logged in with entity id 71215 at ([The-Wall-master]-216.78338846981723, 124.0, 247.84946003248072)
+[22:59:28] [Server thread/INFO]: N7fty lost connection: Timed out
+[22:59:28] [Server thread/INFO]: N7fty left the game.

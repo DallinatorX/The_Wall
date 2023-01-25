@@ -53,15 +53,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2021-07-30 17:30:39 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2021-07-30 17:30:39 -0600"
     },
     "done": true
   },
@@ -91,15 +91,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna_plateau": "2021-07-30 17:30:46 -0600"
+      "minecraft:savanna_plateau": "2021-07-30 17:30:46 -0600",
+      "minecraft:river": "2023-01-23 22:53:18 -0700",
+      "minecraft:desert": "2023-01-23 22:53:20 -0700",
+      "minecraft:savanna": "2023-01-23 22:50:19 -0700"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2021-07-30 17:30:39 -0600"
-    },
-    "done": true
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
@@ -110,6 +107,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2021-07-30 17:30:39 -0600"
     },
     "done": true
   },
@@ -149,9 +152,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_cobblestone": "2021-07-30 17:30:39 -0600"
+      "in_water": "2023-01-23 22:53:13 -0700"
     },
     "done": true
   },
@@ -161,7 +164,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-01-23 22:53:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2021-07-30 17:30:39 -0600"
     },
@@ -170,12 +191,6 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-07-30 17:30:39 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2021-07-30 17:30:39 -0600"
     },
     "done": true
   },
@@ -197,19 +212,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-01-23 22:53:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-07-30 17:30:39 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_trapdoor": {
+  "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2021-07-30 17:30:39 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
+  "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-07-30 17:30:39 -0600"
     },
@@ -245,9 +266,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-01-23 22:53:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-01-23 22:53:13 -0700"
     },
     "done": true
   },
@@ -257,15 +290,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2021-07-30 17:30:39 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2021-07-30 17:30:39 -0600"
     },
     "done": true
   },
@@ -284,6 +317,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-01-23 22:53:13 -0700"
     },
     "done": true
   },
@@ -317,15 +356,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2021-07-30 17:30:39 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2021-07-30 17:30:39 -0600"
     },
     "done": true
   },
@@ -389,21 +428,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2021-07-30 17:30:39 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2021-07-30 17:30:39 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_iron_ingot": "2021-07-30 17:30:39 -0600"
+      "has_snowball": "2021-07-30 17:30:39 -0600"
     },
     "done": true
   },
@@ -413,9 +446,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-01-23 22:53:13 -0700"
     },
     "done": true
   },
@@ -455,5 +500,5 @@
     },
     "done": true
   },
-  "DataVersion": 2730
+  "DataVersion": 3120
 }
