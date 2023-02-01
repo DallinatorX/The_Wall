@@ -1,15 +1,1 @@
-[11:57:44] [User Authenticator #15/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[11:57:44] [Server thread/INFO]: KROD_DA_KROD joined the game
-[11:57:44] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.2:42106] logged in with entity id 125592 at ([The-Wall-master]-297.3814906062268, 66.0, 368.4409523425099)
-[12:00:18] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[12:00:32] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[12:01:51] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[12:02:09] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[12:02:13] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[12:04:35] [Server thread/INFO]: KROD_DA_KROD was slain by Zombie
-[12:04:42] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[12:04:54] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[12:05:00] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[12:05:18] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[12:06:44] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[12:06:44] [Server thread/INFO]: KROD_DA_KROD left the game
+[13:21:00] [Server thread/INFO]: Villager EntityVillager['Villager'/670, l='ServerLevel[The-Wall-master]', x=-250.62, y=11.00, z=203.06] died, message: 'Villager hit the ground too hard'
