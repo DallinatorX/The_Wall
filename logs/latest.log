@@ -1,3 +1,9 @@
-[10:30:13] [User Authenticator #17/INFO]: Disconnecting /86.94.221.29:56320: Failed to verify username!
-[10:30:13] [User Authenticator #17/ERROR]: Username 'shepan' tried to join with an invalid session
-[10:30:13] [Server thread/INFO]: /86.94.221.29:56320 lost connection: Failed to verify username!
+[09:06:16] [User Authenticator #18/INFO]: Disconnecting /86.94.221.29:39846: Failed to verify username!
+[09:06:16] [User Authenticator #18/ERROR]: Username 'shepan' tried to join with an invalid session
+[09:06:16] [Server thread/INFO]: /86.94.221.29:39846 lost connection: Failed to verify username!
+[15:58:13] [User Authenticator #19/INFO]: Disconnecting /86.94.221.29:58360: Failed to verify username!
+[15:58:13] [User Authenticator #19/ERROR]: Username 'shepan' tried to join with an invalid session
+[15:58:13] [Server thread/INFO]: /86.94.221.29:58360 lost connection: Failed to verify username!
+[22:04:22] [User Authenticator #20/INFO]: Disconnecting /86.94.221.29:35334: Failed to verify username!
+[22:04:22] [User Authenticator #20/ERROR]: Username 'shepan' tried to join with an invalid session
+[22:04:22] [Server thread/INFO]: /86.94.221.29:35334 lost connection: Failed to verify username!
