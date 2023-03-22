@@ -1,9 +1,1 @@
-[09:06:16] [User Authenticator #18/INFO]: Disconnecting /86.94.221.29:39846: Failed to verify username!
-[09:06:16] [User Authenticator #18/ERROR]: Username 'shepan' tried to join with an invalid session
-[09:06:16] [Server thread/INFO]: /86.94.221.29:39846 lost connection: Failed to verify username!
-[15:58:13] [User Authenticator #19/INFO]: Disconnecting /86.94.221.29:58360: Failed to verify username!
-[15:58:13] [User Authenticator #19/ERROR]: Username 'shepan' tried to join with an invalid session
-[15:58:13] [Server thread/INFO]: /86.94.221.29:58360 lost connection: Failed to verify username!
-[22:04:22] [User Authenticator #20/INFO]: Disconnecting /86.94.221.29:35334: Failed to verify username!
-[22:04:22] [User Authenticator #20/ERROR]: Username 'shepan' tried to join with an invalid session
-[22:04:22] [Server thread/INFO]: /86.94.221.29:35334 lost connection: Failed to verify username!
+[22:28:04] [Server thread/INFO]: Villager EntityVillager['Villager'/189, l='ServerLevel[The-Wall-master]', x=-250.57, y=44.00, z=211.14] died, message: 'Villager hit the ground too hard'
