@@ -1,1 +1,5 @@
-[17:11:20] [Server thread/INFO]: /132.145.71.44:40404 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(26) + length(18) exceeds writerIndex(33): PooledUnsafeDirectByteBuf(ridx: 26, widx: 33, cap: 33)
+[15:56:53] [User Authenticator #1/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[15:56:53] [Server thread/INFO]: N7fty joined the game
+[15:56:53] [Server thread/INFO]: N7fty[/63.243.196.49:42617] logged in with entity id 28318 at ([The-Wall-master]-216.78338846981723, 124.0, 247.84946003248072)
+[16:01:42] [Server thread/INFO]: N7fty lost connection: Disconnected
+[16:01:42] [Server thread/INFO]: N7fty left the game
