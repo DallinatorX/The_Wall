@@ -10,3 +10,28 @@
 [01:51:35] [Server thread/INFO]: /149.102.143.151:50830 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: ByteArray with size 1210849 is bigger than allowed 512
 [02:20:50] [Server thread/INFO]: /149.102.143.151:51218 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: ByteArray with size 1210849 is bigger than allowed 512
 [02:33:54] [Server thread/INFO]: /149.102.143.151:43622 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: ByteArray with size 1210849 is bigger than allowed 512
+[06:35:34] [Server thread/INFO]: /149.102.143.151:35044 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: ByteArray with size 1210849 is bigger than allowed 512
+[09:17:46] [Server thread/INFO]: /132.145.71.44:51280 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: ByteArray with size 133264 is bigger than allowed 512
+[09:48:36] [Server thread/INFO]: /132.145.71.44:35482 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: ByteArray with size 133264 is bigger than allowed 512
+[10:30:19] [Server thread/INFO]: /132.145.71.44:47940 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: ByteArray with size 133264 is bigger than allowed 512
+[11:41:33] [Server thread/INFO]: /132.145.71.44:56194 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: ByteArray with size 133264 is bigger than allowed 512
+[12:54:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@227fd362[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:33190) lost connection: Disconnected
+[13:24:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@8d2b5db[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:42096) lost connection: Disconnected
+[13:50:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@759dfcbd[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:58398) lost connection: Disconnected
+[14:19:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c43a346[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:41998) lost connection: Disconnected
+[14:50:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@e721d4c[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:35922) lost connection: Disconnected
+[15:25:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f14b26a[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:54882) lost connection: Disconnected
+[16:03:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@38526c05[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:58598) lost connection: Disconnected
+[16:52:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@2cb77ea2[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:40558) lost connection: Disconnected
+[17:12:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@10e319b2[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:54694) lost connection: Disconnected
+[17:40:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@671244e0[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:38064) lost connection: Disconnected
+[18:10:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@f9bdd2[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:52776) lost connection: Disconnected
+[18:44:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@38f05d98[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:49962) lost connection: Disconnected
+[19:16:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@23a8bbf0[id=<null>,name=shepan,properties={},legacy=false] (/193.35.18.165:54038) lost connection: Disconnected
+[19:23:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a39a2b4[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:36162) lost connection: Disconnected
+[19:51:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@5785747b[id=<null>,name=schesser,properties={},legacy=false] (/193.35.18.165:35260) lost connection: Disconnected
+[20:07:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fc23bbb[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:33776) lost connection: Disconnected
+[20:13:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@544e4f9[id=<null>,name=schesser,properties={},legacy=false] (/193.35.18.165:47402) lost connection: Disconnected
+[21:00:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d44096d[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:46174) lost connection: Disconnected
+[22:04:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e82ea56[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:35872) lost connection: Disconnected
+[23:29:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@26ed17b1[id=<null>,name=ServerOverflow,properties={},legacy=false] (/132.145.71.44:58188) lost connection: Disconnected
