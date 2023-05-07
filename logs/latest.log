@@ -1,2 +1,5 @@
-[16:48:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@76f5b448[id=<null>,name=scanny,properties={},legacy=false] (/193.35.18.63:45254) lost connection: Disconnected
-[16:52:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fc36934[id=<null>,name=scanny,properties={},legacy=false] (/193.35.18.63:50404) lost connection: Disconnected
+[04:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
+[04:09:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7861ms or 157 ticks behind
+[04:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10868ms or 217 ticks behind
+[04:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9989ms or 199 ticks behind
+[04:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8059ms or 161 ticks behind
