@@ -1,1 +1,2 @@
-[07:00:15] [Server thread/INFO]: Villager EntityVillager['Farmer'/782, l='ServerLevel[The-Wall-master]', x=-250.70, y=54.41, z=187.48] died, message: 'Farmer drowned'
+[10:26:11] [Server thread/INFO]: /109.123.240.84:38774 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(15) + length(1) exceeds writerIndex(15): PooledUnsafeDirectByteBuf(ridx: 15, widx: 15, cap: 15)
+[11:16:15] [Server thread/INFO]: /109.123.240.84:33748 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(15) + length(1) exceeds writerIndex(15): PooledUnsafeDirectByteBuf(ridx: 15, widx: 15, cap: 15)
