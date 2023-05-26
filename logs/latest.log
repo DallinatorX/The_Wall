@@ -1,1 +1,1 @@
-[00:00:25] [Server thread/INFO]: /193.35.18.115:59790 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(11) + length(1) exceeds writerIndex(11): PooledUnsafeDirectByteBuf(ridx: 11, widx: 11, cap: 11)
+[23:19:26] [Server thread/INFO]: Villager EntityVillager['Villager'/213, l='ServerLevel[The-Wall-master]', x=-246.34, y=12.00, z=210.82] died, message: 'Villager hit the ground too hard'
