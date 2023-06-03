@@ -1,5 +1,12 @@
-[12:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
-[12:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
-[12:18:54] [Server thread/INFO]: Villager EntityVillager['Villager'/775, l='ServerLevel[The-Wall-master]', x=-250.39, y=11.00, z=204.86] died, message: 'Villager hit the ground too hard'
-[12:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
-[12:51:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[20:36:56] [User Authenticator #2/INFO]: UUID of player Wester_Island is 06c16ebf-c76c-4d32-965c-764e79956ad0
+[20:36:56] [Server thread/INFO]: Wester_Island joined the game
+[20:36:56] [Server thread/INFO]: Wester_Island[/104.173.88.15:45348] logged in with entity id 104556 at ([The-Wall-master]-3319.8198635555327, 68.0, 983.0213424552624)
+[20:39:13] [Server thread/INFO]: Wester_Island fell from a high place
+[20:39:51] [Server thread/INFO]: Wester_Island lost connection: Timed out
+[20:39:51] [Server thread/INFO]: Wester_Island left the game.
+[20:40:11] [User Authenticator #3/INFO]: UUID of player Wester_Island is 06c16ebf-c76c-4d32-965c-764e79956ad0
+[20:40:11] [Server thread/INFO]: Wester_Island joined the game
+[20:40:11] [Server thread/INFO]: Wester_Island[/104.173.88.15:56382] logged in with entity id 105770 at ([The-Wall-master]-3164.3539987576223, 87.0, 959.5039265293191)
+[20:40:20] [Server thread/INFO]: Wester_Island tried to swim in lava
+[20:43:06] [Server thread/INFO]: Wester_Island lost connection: Disconnected
+[20:43:06] [Server thread/INFO]: Wester_Island left the game

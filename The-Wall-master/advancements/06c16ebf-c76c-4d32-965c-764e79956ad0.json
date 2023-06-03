@@ -91,8 +91,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2023-06-02 20:41:41 -0600",
       "minecraft:savanna_plateau": "2021-07-30 17:30:46 -0600",
       "minecraft:river": "2023-01-23 22:53:18 -0700",
+      "minecraft:forest": "2023-06-02 20:40:47 -0600",
       "minecraft:desert": "2023-01-23 22:53:20 -0700",
       "minecraft:savanna": "2023-01-23 22:50:19 -0700"
     },
@@ -239,6 +241,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2021-07-30 17:30:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-06-02 20:41:53 -0600"
     },
     "done": true
   },
