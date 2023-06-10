@@ -729,6 +729,7 @@
       "minecraft:creeper": "2020-04-03 22:26:15 -0600",
       "minecraft:slime": "2019-11-15 23:48:50 -0700",
       "minecraft:shulker": "2020-04-03 21:39:26 -0600",
+      "minecraft:cave_spider": "2023-06-09 23:01:19 -0600",
       "minecraft:piglin": "2023-01-13 22:09:59 -0700",
       "minecraft:enderman": "2019-11-16 00:15:21 -0700",
       "minecraft:silverfish": "2022-08-05 20:35:45 -0600",
@@ -759,6 +760,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2022-08-05 20:21:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-06-09 22:52:14 -0600"
     },
     "done": true
   },
