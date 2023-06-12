@@ -1,9 +1,1 @@
-[00:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6795ms or 135 ticks behind
-[00:01:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5294ms or 105 ticks behind
-[00:01:16] [Server thread/INFO]: JellyJolley lost connection: Disconnected
-[00:01:16] [Server thread/INFO]: JellyJolley left the game
-[00:01:16] [Server thread/INFO]: KingJuliqn lost connection: Disconnected
-[00:01:16] [Server thread/INFO]: KingJuliqn left the game
-[00:01:45] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
-[00:01:45] [Server thread/INFO]: 855_FOR_TRUTH left the game
-[06:06:07] [Server thread/INFO]: /52.201.244.136:50538 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(9) + length(1) exceeds writerIndex(9): PooledUnsafeDirectByteBuf(ridx: 9, widx: 9, cap: 9)
+[01:47:51] [Server thread/INFO]: /54.147.193.207:47992 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(9) + length(1) exceeds writerIndex(9): PooledUnsafeDirectByteBuf(ridx: 9, widx: 9, cap: 9)
