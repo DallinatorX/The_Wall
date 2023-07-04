@@ -1,1 +1,1 @@
-[09:19:59] [Server thread/INFO]: /129.159.158.214:36408 lost connection: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+[08:18:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@34a60efc[id=<null>,name=Bunger,properties={},legacy=false] (/3.77.92.129:43376) lost connection: Disconnected
