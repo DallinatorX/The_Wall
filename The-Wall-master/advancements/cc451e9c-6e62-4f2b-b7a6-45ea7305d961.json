@@ -530,6 +530,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-06-09 22:56:25 -0600",
+      "minecraft:spider": "2023-07-04 18:13:50 -0600",
       "minecraft:slime": "2023-01-14 15:17:27 -0700",
       "minecraft:cave_spider": "2023-01-27 17:40:25 -0700",
       "minecraft:zombie": "2023-01-13 23:47:10 -0700"
@@ -569,6 +570,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2023-01-27 17:37:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2023-07-04 18:16:00 -0600"
     },
     "done": true
   },
@@ -1277,6 +1284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2023-07-04 18:16:00 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-11-27 16:45:54 -0700"
@@ -1573,7 +1586,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "glow_berries": "2023-06-09 22:50:37 -0600"
+      "poisonous_potato": "2023-07-04 18:06:04 -0600",
+      "glow_berries": "2023-06-09 22:50:37 -0600",
+      "cooked_chicken": "2023-07-04 18:16:18 -0600",
+      "carrot": "2023-07-04 18:06:39 -0600"
     },
     "done": false
   },
@@ -1682,6 +1698,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2023-01-27 17:38:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2023-07-04 18:16:00 -0600"
     },
     "done": true
   },
@@ -2385,6 +2407,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2023-01-13 22:12:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-07-04 18:06:34 -0600"
     },
     "done": true
   },
