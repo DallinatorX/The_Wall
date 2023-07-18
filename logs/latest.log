@@ -1,8 +1,1 @@
-[03:11:19] [User Authenticator #15/INFO]: UUID of player lannman88 is d1fc2692-0b0b-4119-9ba0-7b7c510e8302
-[03:11:19] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
-This server requires secure profiles.
-[03:11:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@222287cb[id=d1fc2692-0b0b-4119-9ba0-7b7c510e8302,name=lannman88,properties={textures=[com.mojang.authlib.properties.Property@733995c0]},legacy=false] (/84.54.51.253:39060): Missing profile public key.
-This server requires secure profiles.
-[03:11:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@222287cb[id=d1fc2692-0b0b-4119-9ba0-7b7c510e8302,name=lannman88,properties={textures=[com.mojang.authlib.properties.Property@733995c0]},legacy=false] (/84.54.51.253:39060) lost connection: Missing profile public key.
-This server requires secure profiles.
-[10:00:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@44071bf7[id=<null>,name=Bunger,properties={},legacy=false] (/3.78.248.23:54668) lost connection: Disconnected
+[03:38:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@2dcd2f4c[id=<null>,name=Bunger,properties={},legacy=false] (/3.124.188.152:45334) lost connection: Disconnected
