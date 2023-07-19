@@ -1,1 +1,8 @@
 [03:38:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@2dcd2f4c[id=<null>,name=Bunger,properties={},legacy=false] (/3.124.188.152:45334) lost connection: Disconnected
+[21:00:40] [User Authenticator #17/INFO]: UUID of player Trent210 is 1461a9c6-c129-42aa-8d24-8d84f3462d36
+[21:00:40] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
+This server requires secure profiles.
+[21:00:40] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@355c666f[id=1461a9c6-c129-42aa-8d24-8d84f3462d36,name=Trent210,properties={textures=[com.mojang.authlib.properties.Property@2fdbb0f4]},legacy=false] (/84.54.51.253:32810): Missing profile public key.
+This server requires secure profiles.
+[21:00:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@355c666f[id=1461a9c6-c129-42aa-8d24-8d84f3462d36,name=Trent210,properties={textures=[com.mojang.authlib.properties.Property@2fdbb0f4]},legacy=false] (/84.54.51.253:32810) lost connection: Missing profile public key.
+This server requires secure profiles.
