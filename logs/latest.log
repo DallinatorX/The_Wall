@@ -1,8 +1,16 @@
-[03:38:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@2dcd2f4c[id=<null>,name=Bunger,properties={},legacy=false] (/3.124.188.152:45334) lost connection: Disconnected
-[21:00:40] [User Authenticator #17/INFO]: UUID of player Trent210 is 1461a9c6-c129-42aa-8d24-8d84f3462d36
-[21:00:40] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
+[05:07:40] [User Authenticator #18/INFO]: UUID of player mmyLeNOIRE is 8d9d426a-a85b-4bdc-b1f5-a157b6dbfc2f
+[05:07:40] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
 This server requires secure profiles.
-[21:00:40] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@355c666f[id=1461a9c6-c129-42aa-8d24-8d84f3462d36,name=Trent210,properties={textures=[com.mojang.authlib.properties.Property@2fdbb0f4]},legacy=false] (/84.54.51.253:32810): Missing profile public key.
+[05:07:40] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@30e49051[id=8d9d426a-a85b-4bdc-b1f5-a157b6dbfc2f,name=mmyLeNOIRE,properties={textures=[com.mojang.authlib.properties.Property@13e10adc]},legacy=false] (/84.54.51.253:33252): Missing profile public key.
 This server requires secure profiles.
-[21:00:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@355c666f[id=1461a9c6-c129-42aa-8d24-8d84f3462d36,name=Trent210,properties={textures=[com.mojang.authlib.properties.Property@2fdbb0f4]},legacy=false] (/84.54.51.253:32810) lost connection: Missing profile public key.
+[05:07:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@30e49051[id=8d9d426a-a85b-4bdc-b1f5-a157b6dbfc2f,name=mmyLeNOIRE,properties={textures=[com.mojang.authlib.properties.Property@13e10adc]},legacy=false] (/84.54.51.253:33252) lost connection: Missing profile public key.
 This server requires secure profiles.
+[13:02:51] [User Authenticator #19/INFO]: UUID of player titanmenace is 54df9b31-ffe8-4e34-a036-98815843b595
+[13:02:51] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
+This server requires secure profiles.
+[13:02:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1e3d040e[id=54df9b31-ffe8-4e34-a036-98815843b595,name=titanmenace,properties={textures=[com.mojang.authlib.properties.Property@992d64a]},legacy=false] (/84.54.51.253:52882): Missing profile public key.
+This server requires secure profiles.
+[13:02:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e3d040e[id=54df9b31-ffe8-4e34-a036-98815843b595,name=titanmenace,properties={textures=[com.mojang.authlib.properties.Property@992d64a]},legacy=false] (/84.54.51.253:52882) lost connection: Missing profile public key.
+This server requires secure profiles.
+[17:08:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@390a982b[id=<null>,name=Reselleh,properties={},legacy=false] (/84.54.51.253:45606) lost connection: Disconnected
+[23:13:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@60e6a880[id=<null>,name=mmyLeNOIRE,properties={},legacy=false] (/84.54.51.253:40842) lost connection: Disconnected
