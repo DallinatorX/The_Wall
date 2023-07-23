@@ -1,9 +1,1 @@
-[01:53:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@1064c9c6[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:52158) lost connection: Disconnected
-[14:46:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@70c293ea[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:36244) lost connection: Disconnected
-[22:51:10] [User Authenticator #20/INFO]: UUID of player GreenDodge1 is e11c3b9f-382c-42eb-9ec2-2a963eea52af
-[22:51:10] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
-This server requires secure profiles.
-[22:51:10] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3077b433[id=e11c3b9f-382c-42eb-9ec2-2a963eea52af,name=GreenDodge1,properties={textures=[com.mojang.authlib.properties.Property@2c8e718c]},legacy=false] (/84.54.51.253:43010): Missing profile public key.
-This server requires secure profiles.
-[22:51:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@3077b433[id=e11c3b9f-382c-42eb-9ec2-2a963eea52af,name=GreenDodge1,properties={textures=[com.mojang.authlib.properties.Property@2c8e718c]},legacy=false] (/84.54.51.253:43010) lost connection: Missing profile public key.
-This server requires secure profiles.
+[02:35:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@613b9b75[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:40542) lost connection: Disconnected
