@@ -1,1 +1,16 @@
 [02:35:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@613b9b75[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:40542) lost connection: Disconnected
+[04:14:17] [User Authenticator #29/INFO]: UUID of player cxduzyt is bed46f13-c0ae-4a30-8f06-97a287b55ca4
+[04:14:17] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
+This server requires secure profiles.
+[04:14:17] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7bc29459[id=bed46f13-c0ae-4a30-8f06-97a287b55ca4,name=cxduzyt,properties={textures=[com.mojang.authlib.properties.Property@44dee87c]},legacy=false] (/84.54.51.253:39568): Missing profile public key.
+This server requires secure profiles.
+[04:14:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bc29459[id=bed46f13-c0ae-4a30-8f06-97a287b55ca4,name=cxduzyt,properties={textures=[com.mojang.authlib.properties.Property@44dee87c]},legacy=false] (/84.54.51.253:39568) lost connection: Missing profile public key.
+This server requires secure profiles.
+[12:44:47] [User Authenticator #30/INFO]: UUID of player YmirSukuna is 792a0ece-07d5-49f6-abb2-9e97f39710ca
+[12:44:47] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
+This server requires secure profiles.
+[12:44:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7e3186af[id=792a0ece-07d5-49f6-abb2-9e97f39710ca,name=YmirSukuna,properties={textures=[com.mojang.authlib.properties.Property@46cef13d]},legacy=false] (/84.54.51.253:53704): Missing profile public key.
+This server requires secure profiles.
+[12:44:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e3186af[id=792a0ece-07d5-49f6-abb2-9e97f39710ca,name=YmirSukuna,properties={textures=[com.mojang.authlib.properties.Property@46cef13d]},legacy=false] (/84.54.51.253:53704) lost connection: Missing profile public key.
+This server requires secure profiles.
+[16:03:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b93aae7[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:48648) lost connection: Disconnected
