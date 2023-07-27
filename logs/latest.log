@@ -1,7 +1,8 @@
-[01:26:42] [User Authenticator #31/INFO]: UUID of player mielosiker is 385c73c6-163d-4b91-9aa6-140c584cc655
-[01:26:42] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
+[01:56:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@6542c26[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:58770) lost connection: Disconnected
+[07:04:34] [User Authenticator #34/INFO]: UUID of player OneSockSloane is b2ffb23f-7c47-4695-93a6-ef0740df5990
+[07:04:34] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
 This server requires secure profiles.
-[01:26:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f6acf66[id=385c73c6-163d-4b91-9aa6-140c584cc655,name=mielosiker,properties={textures=[com.mojang.authlib.properties.Property@4490cda6]},legacy=false] (/84.54.51.253:58418): Missing profile public key.
+[07:04:34] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4bf11438[id=b2ffb23f-7c47-4695-93a6-ef0740df5990,name=OneSockSloane,properties={textures=[com.mojang.authlib.properties.Property@2f3048b4]},legacy=false] (/94.103.124.169:41862): Missing profile public key.
 This server requires secure profiles.
-[01:26:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f6acf66[id=385c73c6-163d-4b91-9aa6-140c584cc655,name=mielosiker,properties={textures=[com.mojang.authlib.properties.Property@4490cda6]},legacy=false] (/84.54.51.253:58418) lost connection: Missing profile public key.
+[07:04:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@4bf11438[id=b2ffb23f-7c47-4695-93a6-ef0740df5990,name=OneSockSloane,properties={textures=[com.mojang.authlib.properties.Property@2f3048b4]},legacy=false] (/94.103.124.169:41862) lost connection: Missing profile public key.
 This server requires secure profiles.
