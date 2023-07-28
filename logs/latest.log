@@ -1,8 +1,1 @@
-[01:56:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@6542c26[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:58770) lost connection: Disconnected
-[07:04:34] [User Authenticator #34/INFO]: UUID of player OneSockSloane is b2ffb23f-7c47-4695-93a6-ef0740df5990
-[07:04:34] [Server thread/ERROR]: Failed to validate profile key: Missing profile public key.
-This server requires secure profiles.
-[07:04:34] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4bf11438[id=b2ffb23f-7c47-4695-93a6-ef0740df5990,name=OneSockSloane,properties={textures=[com.mojang.authlib.properties.Property@2f3048b4]},legacy=false] (/94.103.124.169:41862): Missing profile public key.
-This server requires secure profiles.
-[07:04:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@4bf11438[id=b2ffb23f-7c47-4695-93a6-ef0740df5990,name=OneSockSloane,properties={textures=[com.mojang.authlib.properties.Property@2f3048b4]},legacy=false] (/94.103.124.169:41862) lost connection: Missing profile public key.
-This server requires secure profiles.
+[12:46:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@746926c4[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:35408) lost connection: Disconnected
