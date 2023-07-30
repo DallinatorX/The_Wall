@@ -1,1 +1,1 @@
-[05:31:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c24d6b6[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:55722) lost connection: Disconnected
+[12:25:41] [Server thread/INFO]: Villager EntityVillager['Villager'/574, l='ServerLevel[The-Wall-master]', x=-246.52, y=12.50, z=202.68] died, message: 'Villager hit the ground too hard'
