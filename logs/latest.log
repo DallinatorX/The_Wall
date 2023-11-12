@@ -1,4 +1,1 @@
-[03:47:52] [Server thread/INFO]: Villager EntityVillager['Villager'/323, l='ServerLevel[The-Wall-master]', x=-250.55, y=36.00, z=211.00] died, message: 'Villager hit the ground too hard'
-[15:38:32] [Server thread/INFO]: /84.54.51.93:56400 lost connection: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
-[15:38:38] [Server thread/INFO]: /84.54.51.93:56406 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(14) + length(1) exceeds writerIndex(14): PooledUnsafeDirectByteBuf(ridx: 14, widx: 14, cap: 14)
-[15:38:46] [Server thread/INFO]: /84.54.51.93:38446 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(14) + length(1) exceeds writerIndex(14): PooledUnsafeDirectByteBuf(ridx: 14, widx: 14, cap: 14)
+[00:08:19] [Server thread/INFO]: Villager EntityVillager['Farmer'/364, l='ServerLevel[The-Wall-master]', x=-249.12, y=13.82, z=187.70] died, message: 'Farmer drowned'
