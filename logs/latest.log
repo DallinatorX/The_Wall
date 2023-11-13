@@ -1,1 +1,32 @@
 [00:08:19] [Server thread/INFO]: Villager EntityVillager['Farmer'/364, l='ServerLevel[The-Wall-master]', x=-249.12, y=13.82, z=187.70] died, message: 'Farmer drowned'
+[17:55:02] [User Authenticator #4/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[17:55:02] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[17:55:02] [Server thread/INFO]: 855_FOR_TRUTH[/192.168.1.49:54970] logged in with entity id 273230 at ([The-Wall-master]2570.418030135241, 28.0, 236.66559552692146)
+[17:56:00] [User Authenticator #5/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[17:56:00] [Server thread/INFO]: KROD_DA_KROD joined the game
+[17:56:00] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.2:59294] logged in with entity id 273918 at ([The-Wall-master]-254.90839598739893, 66.0, 445.48203951288957)
+[17:56:47] [User Authenticator #6/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[17:56:48] [Server thread/INFO]: Dallinator_X joined the game
+[17:56:48] [Server thread/INFO]: Dallinator_X[/174.204.0.215:11466] logged in with entity id 274275 at ([The-Wall-master]2559.413016636306, -2.0, 218.32244986252607)
+[17:57:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[17:57:59] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /help
+[17:58:06] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[17:58:08] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[17:58:08] [Server thread/INFO]: Dallinator_X left the game
+[17:58:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8064ms or 161 ticks behind
+[17:58:32] [User Authenticator #7/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[17:58:32] [Server thread/INFO]: Dallinator_X joined the game
+[17:58:32] [Server thread/INFO]: Dallinator_X[/192.168.1.35:43198] logged in with entity id 274998 at ([The-Wall-master]2587.354449547347, 4.0, 171.29250410558106)
+[17:58:32] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[17:59:02] [Server thread/INFO]: Dallinator_X issued server command: /gamemode
+[17:59:07] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[17:59:07] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[17:59:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10132ms or 202 ticks behind
+[17:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11039ms or 220 ticks behind
+[18:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10014ms or 200 ticks behind
+[18:00:34] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[18:00:34] [Server thread/INFO]: KROD_DA_KROD left the game
+[18:00:39] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[18:00:39] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[18:09:28] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[18:09:28] [Server thread/INFO]: Dallinator_X left the game
