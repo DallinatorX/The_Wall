@@ -1,35 +1,3 @@
-[11:40:10] [User Authenticator #8/INFO]: UUID of player NAB42 is 7e759d3c-f92e-4509-a4a7-e5bd828518c1
-[11:40:10] [Server thread/INFO]: NAB42 joined the game
-[11:40:10] [Server thread/INFO]: NAB42[/192.225.189.118:35199] logged in with entity id 296198 at ([The-Wall-master]-214.5, 74.0, 255.5)
-[11:41:00] [Server thread/INFO]: NAB42 lost connection: Timed out
-[11:41:00] [Server thread/INFO]: NAB42 left the game.
-[11:41:12] [User Authenticator #9/INFO]: UUID of player NAB42 is 7e759d3c-f92e-4509-a4a7-e5bd828518c1
-[11:41:12] [Server thread/INFO]: NAB42 joined the game
-[11:41:12] [Server thread/INFO]: NAB42[/192.225.189.118:19097] logged in with entity id 296403 at ([The-Wall-master]-214.5, 74.0, 255.5)
-[11:41:45] [Server thread/INFO]: NAB42 lost connection: Disconnected
-[11:41:45] [Server thread/INFO]: NAB42 left the game
-[11:42:03] [User Authenticator #10/INFO]: UUID of player NAB42 is 7e759d3c-f92e-4509-a4a7-e5bd828518c1
-[11:42:03] [Server thread/INFO]: NAB42 joined the game
-[11:42:03] [Server thread/INFO]: NAB42[/192.225.189.118:18140] logged in with entity id 296513 at ([The-Wall-master]-214.5, 74.0, 255.5)
-[11:42:22] [Server thread/INFO]: NAB42 issued server command: /seed
-[11:42:28] [Server thread/INFO]: NAB42 issued server command: /kill @a
-[11:42:39] [Server thread/INFO]: NAB42 issued server command: /seed
-[11:43:34] [Server thread/INFO]: NAB42 lost connection: Disconnected
-[11:43:34] [Server thread/INFO]: NAB42 left the game
-[11:44:44] [User Authenticator #11/INFO]: UUID of player NAB42 is 7e759d3c-f92e-4509-a4a7-e5bd828518c1
-[11:44:44] [Server thread/INFO]: NAB42 joined the game
-[11:44:44] [Server thread/INFO]: NAB42[/192.225.189.118:20268] logged in with entity id 296761 at ([The-Wall-master]-224.20345771910632, 76.0, 261.433653159931)
-[11:45:34] [Server thread/INFO]: NAB42 lost connection: Timed out
-[11:45:34] [Server thread/INFO]: NAB42 left the game.
-[11:45:34] [Server thread/WARN]: handleDisconnection() called twice
-[11:45:43] [User Authenticator #12/INFO]: UUID of player NAB42 is 7e759d3c-f92e-4509-a4a7-e5bd828518c1
-[11:45:43] [Server thread/INFO]: NAB42 joined the game
-[11:45:43] [Server thread/INFO]: NAB42[/192.225.189.118:55499] logged in with entity id 296925 at ([The-Wall-master]-224.20345771910632, 76.0, 261.433653159931)
-[11:46:33] [Server thread/INFO]: NAB42 lost connection: Timed out
-[11:46:33] [Server thread/INFO]: NAB42 left the game.
-[11:48:03] [User Authenticator #13/INFO]: UUID of player NAB42 is 7e759d3c-f92e-4509-a4a7-e5bd828518c1
-[11:48:03] [Server thread/INFO]: NAB42 joined the game
-[11:48:03] [Server thread/INFO]: NAB42[/192.225.189.118:52000] logged in with entity id 297065 at ([The-Wall-master]-224.20345771910632, 76.0, 261.433653159931)
-[11:50:36] [Server thread/INFO]: NAB42 fell from a high place
-[11:51:24] [Server thread/INFO]: NAB42 lost connection: Timed out
-[11:51:24] [Server thread/INFO]: NAB42 left the game.
+[12:04:50] [User Authenticator #14/INFO]: Disconnecting /34.28.191.79:52548: Failed to verify username!
+[12:04:50] [User Authenticator #14/ERROR]: Username 'MojangEULAVer' tried to join with an invalid session
+[12:04:50] [Server thread/INFO]: /34.28.191.79:52548 lost connection: Failed to verify username!
