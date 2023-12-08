@@ -1,40 +1,4 @@
-[05:25:36] [Server thread/INFO]: Villager EntityVillager['Farmer'/198, l='ServerLevel[The-Wall-master]', x=-247.93, y=48.05, z=187.04] died, message: 'Farmer drowned'
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: java.net.SocketException: Network is unreachable
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send0(Native Method)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.sendFromNativeBuffer(DatagramChannelImpl.java:901)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:863)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:821)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.blockingSend(DatagramChannelImpl.java:853)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramSocketAdaptor.send(DatagramSocketAdaptor.java:218)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:665)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.broadcast(LANBroadcaster.java:54)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.run(LANBroadcaster.java:43)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftTask.run(CraftTask.java:77)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
-[17:08:18] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
-[17:08:28] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
-[17:08:38] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: java.net.SocketException: Network is unreachable
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send0(Native Method)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.sendFromNativeBuffer(DatagramChannelImpl.java:901)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:863)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:821)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.blockingSend(DatagramChannelImpl.java:853)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramSocketAdaptor.send(DatagramSocketAdaptor.java:218)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:665)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.broadcast(LANBroadcaster.java:54)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.run(LANBroadcaster.java:43)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftTask.run(CraftTask.java:77)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
-[17:12:51] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
-[17:13:01] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
-[17:13:11] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
-[17:13:21] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
-[17:13:31] [Craft Scheduler Thread - 0/ERROR]: [LANBroadcaster] Broadcasting will not work until the network is fixed. Warnings disabled.
-[21:03:49] [Server thread/INFO]: Villager EntityVillager['Farmer'/186, l='ServerLevel[The-Wall-master]', x=-246.39, y=60.02, z=187.06] died, message: 'Farmer drowned'
+[06:30:21] [Server thread/INFO]: Villager EntityVillager['Villager'/164, l='ServerLevel[The-Wall-master]', x=-250.70, y=56.00, z=213.98] died, message: 'Villager hit the ground too hard'
+[07:07:14] [Server thread/INFO]: Villager EntityVillager['Farmer'/549, l='ServerLevel[The-Wall-master]', x=-249.99, y=39.97, z=187.79] died, message: 'Farmer drowned'
+[17:06:09] [Server thread/INFO]: Villager EntityVillager['Villager'/237, l='ServerLevel[The-Wall-master]', x=-271.69, y=4.00, z=186.45] died, message: 'Villager hit the ground too hard'
+[20:48:19] [Server thread/INFO]: Villager EntityVillager['Villager'/542, l='ServerLevel[The-Wall-master]', x=-271.71, y=5.00, z=186.45] died, message: 'Villager hit the ground too hard'
