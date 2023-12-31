@@ -1,57 +1,61 @@
-[02:04:48] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:04:50] [ServerMain/INFO]: Loaded 7 recipes
-[02:04:50] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[02:04:50] [Server thread/INFO]: Loading properties
-[02:04:50] [Server thread/INFO]: Default game type: SURVIVAL
-[02:04:50] [Server thread/INFO]: Generating keypair
-[02:04:50] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
-[02:04:50] [Server thread/INFO]: Using epoll channel type
-[02:04:50] [Server thread/INFO]: This server is running CraftBukkit version 3945-Bukkit-0478e04 (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT)
-[02:04:51] [Server thread/INFO]: [LANBroadcaster] Loading LANBroadcaster v1.6.2
-[02:04:51] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.3
-[02:04:51] [Server thread/INFO]: Preparing level "The-Wall-master"
-[02:04:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:04:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:04:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:04:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:04:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:04:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:04:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:04:58] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[02:04:59] [Worker-Main-2/INFO]: Preparing spawn area: 84%
-[02:04:59] [Server thread/INFO]: Time elapsed: 5861 ms
-[02:04:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:05:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:05:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:05:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:05:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:05:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 11%
-[02:05:04] [Worker-Main-1/INFO]: Preparing spawn area: 55%
-[02:05:04] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[02:05:04] [Server thread/INFO]: Time elapsed: 5234 ms
-[02:05:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:09] [Worker-Main-3/INFO]: Preparing spawn area: 61%
-[02:05:09] [Server thread/INFO]: Time elapsed: 4730 ms
-[02:05:09] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
-[02:05:09] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
-[02:05:09] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
-[02:05:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:05:09] [Server thread/INFO]: Done (18.358s)! For help, type "help"
-[02:05:09] [Craft Scheduler Thread - 0/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
+[00:04:21] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /time set day
+[00:04:21] [Server thread/INFO]: [855_FOR_TRUTH: Set the time to 1000]
+[00:12:56] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[00:12:56] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[00:13:18] [User Authenticator #5/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[00:13:25] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[00:13:25] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:21589] logged in with entity id 21194 at ([The-Wall-master]-202.5229469976362, 124.0361253090856, -1748.300000011921)
+[00:14:28] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /time set day
+[00:14:28] [Server thread/INFO]: [855_FOR_TRUTH: Set the time to 1000]
+[00:18:10] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /kill
+[00:18:10] [Server thread/INFO]: 855_FOR_TRUTH was killed
+[00:18:10] [Server thread/INFO]: [855_FOR_TRUTH: Killed 855_FOR_TRUTH]
+[00:18:26] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[00:18:26] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[00:18:26] [Server thread/WARN]: handleDisconnection() called twice
+[00:18:58] [User Authenticator #6/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[00:18:59] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[00:18:59] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:36603] logged in with entity id 22101 at ([The-Wall-master]-224.49627345181804, 47.0, -1783.325915311379)
+[00:20:00] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! -1.7017326867399447,-63.0,-2.8660196982633863
+[00:20:14] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[00:20:14] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[00:21:30] [User Authenticator #7/INFO]: Disconnecting 855_FOR_TRUTH (/89.187.185.165:39277): Authentication servers are down. Please try again later, sorry!
+[00:21:30] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
+[00:21:30] [Server thread/INFO]: 855_FOR_TRUTH (/89.187.185.165:39277) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:21:42] [User Authenticator #8/INFO]: Disconnecting 855_FOR_TRUTH (/89.187.185.165:18957): Authentication servers are down. Please try again later, sorry!
+[00:21:42] [User Authenticator #8/ERROR]: Couldn't verify username because servers are unavailable
+[00:21:42] [Server thread/INFO]: 855_FOR_TRUTH (/89.187.185.165:18957) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:21:51] [User Authenticator #9/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[00:22:03] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[00:22:03] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:12111] logged in with entity id 22501 at ([The-Wall-master]-226.35235723939843, 11.0, 255.36826739806529)
+[00:22:54] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[00:22:54] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[00:24:06] [User Authenticator #10/INFO]: Disconnecting 855_FOR_TRUTH (/89.187.185.165:48483): Authentication servers are down. Please try again later, sorry!
+[00:24:06] [User Authenticator #10/ERROR]: Couldn't verify username because servers are unavailable
+[00:24:06] [Server thread/INFO]: 855_FOR_TRUTH (/89.187.185.165:48483) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:24:14] [User Authenticator #11/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[00:24:18] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[00:24:18] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:37511] logged in with entity id 22726 at ([The-Wall-master]-226.35235723939843, 11.0, 255.36826739806529)
+[00:24:50] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[00:24:50] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[00:25:39] [User Authenticator #12/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[00:25:40] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[00:25:40] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:6174] logged in with entity id 22875 at ([The-Wall-master]-226.35235723939843, 11.0, 255.36826739806529)
+[00:30:39] [Server thread/INFO]: Villager EntityVillager['Villager'/97, l='ServerLevel[The-Wall-master]', x=-278.74, y=69.00, z=303.55] died, message: 'Villager was slain by Zombie'
+[00:31:08] [Server thread/INFO]: Villager EntityVillager['Villager'/113, l='ServerLevel[The-Wall-master]', x=-267.12, y=69.00, z=303.70] died, message: 'Villager was slain by Zombie'
+[00:35:03] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[00:35:03] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[00:36:22] [User Authenticator #13/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[00:36:23] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[00:36:23] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:55250] logged in with entity id 25152 at ([The-Wall-master]-100.59650487272765, 69.0, -1040.5)
+[00:40:52] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Eye Spy]
+[00:41:06] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [The End?]
+[00:41:07] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 836.8306699066155,20.945106652967926,124.19999998807907
+[00:41:19] [Server thread/INFO]: 855_FOR_TRUTH fell out of the world
+[00:41:29] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 837.0059024981128,21.14510670065164,123.9071114486568
+[00:43:04] [Server thread/INFO]: 855_FOR_TRUTH was doomed to fall by Ender Dragon
+[00:44:40] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Remote Getaway]
+[00:44:41] [Server thread/WARN]: Skipping player strafe phase because no player was found
+[00:45:20] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! -14.414608561255704,-2.0,-35.749188284290426
+[00:51:33] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[00:51:33] [Server thread/INFO]: 855_FOR_TRUTH left the game
