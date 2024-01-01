@@ -1,61 +1,129 @@
-[00:04:21] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /time set day
-[00:04:21] [Server thread/INFO]: [855_FOR_TRUTH: Set the time to 1000]
-[00:12:56] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
-[00:12:56] [Server thread/INFO]: 855_FOR_TRUTH left the game
-[00:13:18] [User Authenticator #5/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[00:13:25] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[00:13:25] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:21589] logged in with entity id 21194 at ([The-Wall-master]-202.5229469976362, 124.0361253090856, -1748.300000011921)
-[00:14:28] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /time set day
-[00:14:28] [Server thread/INFO]: [855_FOR_TRUTH: Set the time to 1000]
-[00:18:10] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /kill
-[00:18:10] [Server thread/INFO]: 855_FOR_TRUTH was killed
-[00:18:10] [Server thread/INFO]: [855_FOR_TRUTH: Killed 855_FOR_TRUTH]
-[00:18:26] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
-[00:18:26] [Server thread/INFO]: 855_FOR_TRUTH left the game.
-[00:18:26] [Server thread/WARN]: handleDisconnection() called twice
-[00:18:58] [User Authenticator #6/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[00:18:59] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[00:18:59] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:36603] logged in with entity id 22101 at ([The-Wall-master]-224.49627345181804, 47.0, -1783.325915311379)
-[00:20:00] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! -1.7017326867399447,-63.0,-2.8660196982633863
-[00:20:14] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
-[00:20:14] [Server thread/INFO]: 855_FOR_TRUTH left the game.
-[00:21:30] [User Authenticator #7/INFO]: Disconnecting 855_FOR_TRUTH (/89.187.185.165:39277): Authentication servers are down. Please try again later, sorry!
-[00:21:30] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
-[00:21:30] [Server thread/INFO]: 855_FOR_TRUTH (/89.187.185.165:39277) lost connection: Authentication servers are down. Please try again later, sorry!
-[00:21:42] [User Authenticator #8/INFO]: Disconnecting 855_FOR_TRUTH (/89.187.185.165:18957): Authentication servers are down. Please try again later, sorry!
-[00:21:42] [User Authenticator #8/ERROR]: Couldn't verify username because servers are unavailable
-[00:21:42] [Server thread/INFO]: 855_FOR_TRUTH (/89.187.185.165:18957) lost connection: Authentication servers are down. Please try again later, sorry!
-[00:21:51] [User Authenticator #9/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[00:22:03] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[00:22:03] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:12111] logged in with entity id 22501 at ([The-Wall-master]-226.35235723939843, 11.0, 255.36826739806529)
-[00:22:54] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
-[00:22:54] [Server thread/INFO]: 855_FOR_TRUTH left the game.
-[00:24:06] [User Authenticator #10/INFO]: Disconnecting 855_FOR_TRUTH (/89.187.185.165:48483): Authentication servers are down. Please try again later, sorry!
-[00:24:06] [User Authenticator #10/ERROR]: Couldn't verify username because servers are unavailable
-[00:24:06] [Server thread/INFO]: 855_FOR_TRUTH (/89.187.185.165:48483) lost connection: Authentication servers are down. Please try again later, sorry!
-[00:24:14] [User Authenticator #11/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[00:24:18] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[00:24:18] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:37511] logged in with entity id 22726 at ([The-Wall-master]-226.35235723939843, 11.0, 255.36826739806529)
-[00:24:50] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
-[00:24:50] [Server thread/INFO]: 855_FOR_TRUTH left the game
-[00:25:39] [User Authenticator #12/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[00:25:40] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[00:25:40] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:6174] logged in with entity id 22875 at ([The-Wall-master]-226.35235723939843, 11.0, 255.36826739806529)
-[00:30:39] [Server thread/INFO]: Villager EntityVillager['Villager'/97, l='ServerLevel[The-Wall-master]', x=-278.74, y=69.00, z=303.55] died, message: 'Villager was slain by Zombie'
-[00:31:08] [Server thread/INFO]: Villager EntityVillager['Villager'/113, l='ServerLevel[The-Wall-master]', x=-267.12, y=69.00, z=303.70] died, message: 'Villager was slain by Zombie'
-[00:35:03] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
-[00:35:03] [Server thread/INFO]: 855_FOR_TRUTH left the game
-[00:36:22] [User Authenticator #13/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[00:36:23] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[00:36:23] [Server thread/INFO]: 855_FOR_TRUTH[/89.187.185.165:55250] logged in with entity id 25152 at ([The-Wall-master]-100.59650487272765, 69.0, -1040.5)
-[00:40:52] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Eye Spy]
-[00:41:06] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [The End?]
-[00:41:07] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 836.8306699066155,20.945106652967926,124.19999998807907
-[00:41:19] [Server thread/INFO]: 855_FOR_TRUTH fell out of the world
-[00:41:29] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 837.0059024981128,21.14510670065164,123.9071114486568
-[00:43:04] [Server thread/INFO]: 855_FOR_TRUTH was doomed to fall by Ender Dragon
-[00:44:40] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Remote Getaway]
-[00:44:41] [Server thread/WARN]: Skipping player strafe phase because no player was found
-[00:45:20] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! -14.414608561255704,-2.0,-35.749188284290426
-[00:51:33] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
-[00:51:33] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[14:11:59] [User Authenticator #14/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[14:12:01] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[14:12:01] [Server thread/INFO]: 855_FOR_TRUTH[/206.83.125.60:21254] logged in with entity id 78714 at ([The-Wall-master_the_end]827.9687209037121, 61.0, -645.3923349409764)
+[14:14:54] [Server thread/INFO]: 855_FOR_TRUTH was slain by Enderman
+[14:15:20] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /kill
+[14:15:20] [Server thread/INFO]: 855_FOR_TRUTH was killed
+[14:15:20] [Server thread/INFO]: [855_FOR_TRUTH: Killed 855_FOR_TRUTH]
+[14:18:18] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode creative
+[14:18:18] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Creative Mode]
+[14:18:38] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[14:18:38] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[14:23:19] [Server thread/INFO]: 855_FOR_TRUTH tried to swim in lava
+[14:27:49] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode creative
+[14:27:49] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Creative Mode]
+[14:28:33] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Ol' Betsy]
+[14:29:05] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Take Aim]
+[14:33:48] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode sur
+[14:33:54] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[14:33:54] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[14:34:36] [Server thread/INFO]: 855_FOR_TRUTH was slain by Enderman
+[14:53:42] [Server thread/INFO]: 855_FOR_TRUTH fell out of the world
+[14:53:57] [Server thread/INFO]: 855_FOR_TRUTH tried to swim in lava
+[14:58:10] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode creative
+[14:58:10] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Creative Mode]
+[14:58:19] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[14:58:19] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[15:11:06] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 0.22023057251635692,-1.0,-14.863968235736593
+[15:28:23] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[15:28:23] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[15:28:23] [Server thread/WARN]: handleDisconnection() called twice
+[15:28:31] [User Authenticator #15/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[15:28:31] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[15:28:31] [Server thread/INFO]: 855_FOR_TRUTH[/206.83.125.60:17913] logged in with entity id 92140 at ([The-Wall-master_the_end]782.5408276050861, 57.0, -3560.777033159685)
+[15:44:38] [Server thread/INFO]: 855_FOR_TRUTH fell out of the world
+[15:46:19] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[15:46:19] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[15:46:48] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[15:46:48] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[15:48:46] [Server thread/INFO]: Villager EntityVillager['Mason'/89598, l='ServerLevel[The-Wall-master]', x=-219.70, y=8.04, z=234.50] died, message: 'Mason drowned'
+[15:51:14] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode creative
+[15:51:14] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Creative Mode]
+[15:51:20] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[15:51:20] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[15:51:44] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[15:51:44] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[16:46:18] [User Authenticator #16/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[16:46:20] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[16:46:20] [Server thread/INFO]: 855_FOR_TRUTH[/206.83.125.60:24083] logged in with entity id 97577 at ([The-Wall-master_the_end]85.15872415156164, 61.0, -5.129416436413086)
+[16:46:49] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[16:46:49] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[16:47:05] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 1.7118114221029828,0.0,-54.41754371941056
+[16:52:51] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[16:52:51] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[16:53:22] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[16:53:22] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[16:56:43] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 32.785920691028196,0.0,11.630323447031515
+[16:57:03] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [The City at the End of the Game]
+[16:57:39] [Async Chat Thread - #11/INFO]: <855_FOR_TRUTH> 1719 114 -3804
+[16:57:44] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /
+[16:57:50] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[16:57:50] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[16:58:32] [Server thread/INFO]: 855_FOR_TRUTH was doomed to fall by Shulker
+[16:58:53] [Server thread/INFO]: 855_FOR_TRUTH tried to swim in lava
+[17:03:47] [Async Chat Thread - #13/INFO]: <855_FOR_TRUTH> 1719 114 -3804
+[17:04:01] [Async Chat Thread - #12/INFO]: <855_FOR_TRUTH> 1719 114 -3804
+[17:04:58] [Async Chat Thread - #13/INFO]: <855_FOR_TRUTH> 1719 114 -3804
+[17:06:26] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[17:06:28] [Server thread/INFO]: 855_FOR_TRUTH fell out of the world
+[17:06:38] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[17:06:38] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[17:06:46] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[17:06:50] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[17:06:50] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[17:06:56] [User Authenticator #17/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[17:06:57] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[17:06:57] [Server thread/INFO]: 855_FOR_TRUTH[/206.83.125.60:18678] logged in with entity id 100940 at ([The-Wall-master]-227.72868608042643, 74.0, 230.6258645271902)
+[17:08:03] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[17:08:03] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[17:08:14] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[17:08:14] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[17:09:17] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /kill
+[17:09:17] [Server thread/INFO]: 855_FOR_TRUTH was killed
+[17:09:17] [Server thread/INFO]: [855_FOR_TRUTH: Killed 855_FOR_TRUTH]
+[17:09:30] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[17:09:30] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[17:10:54] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[17:10:54] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[17:11:05] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[17:11:05] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[17:12:21] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 11.18679545080522,0.0,-11.095138774292309
+[17:15:30] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[17:15:30] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[17:15:43] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 28.98127455052213,0.0,32.4113744475967
+[17:16:58] [Async Chat Thread - #16/INFO]: <855_FOR_TRUTH> 1076 91 -1531
+[17:17:15] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[17:17:15] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[17:19:32] [Server thread/INFO]: 855_FOR_TRUTH was slain by Shulker
+[17:22:02] [Async Chat Thread - #18/INFO]: <855_FOR_TRUTH> 1076 91 -1531
+[17:23:12] [Async Chat Thread - #20/INFO]: <855_FOR_TRUTH> 1076 91 -1531
+[17:25:28] [Server thread/INFO]: 855_FOR_TRUTH was slain by Shulker
+[17:26:22] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[17:26:22] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[17:26:52] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[17:26:52] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[17:26:53] [Server thread/WARN]: 855_FOR_TRUTH moved wrongly!
+[17:28:35] [Server thread/INFO]: 855_FOR_TRUTH was slain by Shulker
+[17:29:29] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[17:29:29] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[17:29:59] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[17:29:59] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[17:30:54] [Server thread/INFO]: 855_FOR_TRUTH was slain by Shulker
+[17:31:05] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 838.1228681382681,21.23363200604248,124.97909305370631
+[17:31:36] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[17:31:36] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[17:32:04] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[17:32:04] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[17:32:51] [Server thread/INFO]: 855_FOR_TRUTH was slain by Shulker
+[17:32:59] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /
+[17:33:25] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 837.723019631572,20.945106652967926,124.02847284534712
+[17:33:55] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[17:33:55] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[17:34:23] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[17:34:23] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[17:36:08] [Server thread/INFO]: 855_FOR_TRUTH was slain by Shulker
+[17:36:31] [Server thread/INFO]: 855_FOR_TRUTH tried to swim in lava
+[17:38:09] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[17:38:09] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[18:37:25] [Server thread/INFO]: Villager EntityVillager['Villager'/181, l='ServerLevel[The-Wall-master]', x=-252.76, y=67.00, z=208.99] died, message: 'Villager hit the ground too hard'
+[21:28:04] [Server thread/INFO]: Villager EntityVillager['Farmer'/119, l='ServerLevel[The-Wall-master]', x=-248.68, y=22.40, z=187.70] died, message: 'Farmer drowned'
