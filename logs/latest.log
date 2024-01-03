@@ -1,18 +1,2 @@
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: java.net.SocketException: Network is unreachable
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send0(Native Method)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.sendFromNativeBuffer(DatagramChannelImpl.java:901)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:863)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:821)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.blockingSend(DatagramChannelImpl.java:853)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramSocketAdaptor.send(DatagramSocketAdaptor.java:218)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:665)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.broadcast(LANBroadcaster.java:54)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.run(LANBroadcaster.java:43)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftTask.run(CraftTask.java:77)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
-[09:46:52] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
-[09:47:02] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
-[09:47:12] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
+[18:47:42] [Server thread/INFO]: ServerSeeker (/141.98.11.60:41442) lost connection: Disconnected
+[19:32:06] [Server thread/INFO]: ServerSeeker (/141.98.11.60:45598) lost connection: Disconnected
