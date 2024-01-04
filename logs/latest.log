@@ -1,2 +1,19 @@
-[18:47:42] [Server thread/INFO]: ServerSeeker (/141.98.11.60:41442) lost connection: Disconnected
-[19:32:06] [Server thread/INFO]: ServerSeeker (/141.98.11.60:45598) lost connection: Disconnected
+[04:17:37] [Server thread/INFO]: Villager EntityVillager['Villager'/143, l='ServerLevel[The-Wall-master]', x=-250.69, y=40.00, z=213.72] died, message: 'Villager hit the ground too hard'
+[13:12:52] [Server thread/INFO]: Villager EntityVillager['Farmer'/145, l='ServerLevel[The-Wall-master]', x=-248.97, y=42.73, z=187.30] died, message: 'Farmer drowned'
+[22:46:05] [User Authenticator #18/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:46:06] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:46:06] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:7501] logged in with entity id 213107 at ([The-Wall-master]-226.76249998807907, 11.5625, 247.91766572327603)
+[22:48:11] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:48:11] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:48:48] [User Authenticator #19/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:48:49] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:48:49] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:18625] logged in with entity id 213528 at ([The-Wall-master]-223.69525157127714, 11.5625, 234.95603256027397)
+[22:55:53] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Cover Me with Diamonds]
+[22:57:14] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! -0.67541268537164,-0.0476075457909797,10.100034792516226
+[23:01:01] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Suit Up]
+[23:02:33] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Enchanter]
+[23:07:18] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 837.8000000119209,21.23363200604248,124.98112238059706
+[23:14:35] [Server thread/WARN]: 855_FOR_TRUTH moved wrongly!
+[23:21:19] [Server thread/INFO]: 855_FOR_TRUTH was slain by Shulker Bullet
+[23:21:31] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[23:21:31] [Server thread/INFO]: 855_FOR_TRUTH left the game
