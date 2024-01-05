@@ -1,19 +1,83 @@
-[04:17:37] [Server thread/INFO]: Villager EntityVillager['Villager'/143, l='ServerLevel[The-Wall-master]', x=-250.69, y=40.00, z=213.72] died, message: 'Villager hit the ground too hard'
-[13:12:52] [Server thread/INFO]: Villager EntityVillager['Farmer'/145, l='ServerLevel[The-Wall-master]', x=-248.97, y=42.73, z=187.30] died, message: 'Farmer drowned'
-[22:46:05] [User Authenticator #18/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[22:46:06] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[22:46:06] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:7501] logged in with entity id 213107 at ([The-Wall-master]-226.76249998807907, 11.5625, 247.91766572327603)
-[22:48:11] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
-[22:48:11] [Server thread/INFO]: 855_FOR_TRUTH left the game.
-[22:48:48] [User Authenticator #19/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[22:48:49] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[22:48:49] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:18625] logged in with entity id 213528 at ([The-Wall-master]-223.69525157127714, 11.5625, 234.95603256027397)
-[22:55:53] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Cover Me with Diamonds]
-[22:57:14] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! -0.67541268537164,-0.0476075457909797,10.100034792516226
-[23:01:01] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Suit Up]
-[23:02:33] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Enchanter]
-[23:07:18] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! 837.8000000119209,21.23363200604248,124.98112238059706
-[23:14:35] [Server thread/WARN]: 855_FOR_TRUTH moved wrongly!
-[23:21:19] [Server thread/INFO]: 855_FOR_TRUTH was slain by Shulker Bullet
-[23:21:31] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
-[23:21:31] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[10:49:56] [User Authenticator #20/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[10:49:57] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[10:49:57] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:7295] logged in with entity id 234864 at ([The-Wall-master]-738.5, 25.0, -119.5)
+[10:51:08] [Server thread/INFO]: 855_FOR_TRUTH tried to swim in lava
+[10:52:27] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[10:52:27] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[10:54:07] [User Authenticator #21/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[10:54:09] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[10:54:09] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:17811] logged in with entity id 235659 at ([The-Wall-master]-226.04128939732172, 11.0, 247.80239925402628)
+[10:57:04] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[10:57:04] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[21:39:14] [User Authenticator #22/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[21:39:16] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[21:39:16] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:48060] logged in with entity id 251038 at ([The-Wall-master]-225.0614651734526, 11.0, 276.69999998807907)
+[21:40:56] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[21:40:56] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[21:41:50] [User Authenticator #23/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[21:41:55] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[21:41:55] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:57211] logged in with entity id 251380 at ([The-Wall-master]-223.68327774911324, 12.0, 253.56369126853178)
+[21:42:45] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[21:42:45] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[21:43:10] [User Authenticator #24/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[21:43:11] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[21:43:11] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:62332] logged in with entity id 251576 at ([The-Wall-master]-219.1507049791252, 11.5625, 254.486195217471)
+[22:03:33] [Server thread/INFO]: 855_FOR_TRUTH fell from a high place
+[22:04:21] [Server thread/INFO]: 855_FOR_TRUTH tried to swim in lava
+[22:04:47] [Server thread/INFO]: 855_FOR_TRUTH fell from a high place
+[22:07:24] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:07:24] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:08:31] [User Authenticator #25/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:08:33] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:08:33] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:39566] logged in with entity id 255551 at ([The-Wall-master]-224.9420173884038, 11.0, 248.50257280189453)
+[22:13:58] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:13:58] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:14:34] [User Authenticator #26/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:14:36] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:14:36] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:6985] logged in with entity id 256481 at ([The-Wall-master]-223.29159991961146, 11.0, 282.43315341147195)
+[22:18:47] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:18:47] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:21:53] [User Authenticator #27/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:21:55] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:21:55] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:38394] logged in with entity id 257246 at ([The-Wall-master]-215.23750001192093, 11.0, 247.69999998807907)
+[22:25:18] [Server thread/INFO]: Villager EntityVillager['Villager'/547, l='ServerLevel[The-Wall-master]', x=-297.73, y=69.00, z=293.30] died, message: 'Villager was slain by Zombie'
+[22:26:05] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:26:05] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:26:43] [User Authenticator #28/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:26:46] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:26:46] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:58382] logged in with entity id 257956 at ([The-Wall-master]-224.41204057922405, 11.0, 219.38276343140492)
+[22:28:51] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:28:51] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:29:22] [User Authenticator #29/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:29:24] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:29:24] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:8684] logged in with entity id 258446 at ([The-Wall-master]-224.37914521272086, 11.5625, 221.6092886579467)
+[22:32:19] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:32:19] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:32:59] [User Authenticator #30/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:33:01] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:33:01] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:25415] logged in with entity id 259074 at ([The-Wall-master]-223.80504443277616, 11.0, 212.6197423167481)
+[22:36:46] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:36:46] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:37:22] [User Authenticator #31/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:37:24] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:37:24] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:45805] logged in with entity id 259906 at ([The-Wall-master]-223.26782453774774, 11.5625, 234.7542071342382)
+[22:39:08] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[22:39:08] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[22:39:31] [User Authenticator #32/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:39:32] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:39:32] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:54631] logged in with entity id 260224 at ([The-Wall-master]-224.12806606878982, 12.911600093841551, 219.96486810262917)
+[22:40:18] [Server thread/INFO]: Villager EntityVillager['Villager'/888, l='ServerLevel[The-Wall-master]', x=-199.50, y=82.00, z=122.43] died, message: 'Villager was slain by Zombie'
+[22:42:22] [Server thread/INFO]: Villager EntityVillager['Villager'/149, l='ServerLevel[The-Wall-master]', x=-297.52, y=69.00, z=292.45] died, message: 'Villager was slain by Zombie'
+[22:42:35] [Server thread/INFO]: Villager EntityVillager['Villager'/546, l='ServerLevel[The-Wall-master]', x=-281.20, y=69.00, z=302.67] died, message: 'Villager was slain by Zombie'
+[22:43:42] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:43:42] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:44:14] [User Authenticator #33/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:44:17] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:44:17] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:12489] logged in with entity id 260919 at ([The-Wall-master]-223.62617213422047, 11.0, 215.44641626530972)
+[22:46:22] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:46:22] [Server thread/INFO]: 855_FOR_TRUTH left the game.
+[22:47:04] [User Authenticator #34/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:47:05] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:47:05] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:24724] logged in with entity id 261419 at ([The-Wall-master]-213.8520287312452, 8.5, 265.6615050707061)
+[22:48:45] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[22:48:45] [Server thread/INFO]: 855_FOR_TRUTH left the game.
