@@ -57,10 +57,10 @@ world_the_end:
   wither: true
 The-Wall-master:
   blaze: true
-  creeper: true
+  creeper: false
   door: true
   enderdragon: true
-  enderman: true
+  enderman: false
   ghast: true
   item_pickup: true
   piglin: true
