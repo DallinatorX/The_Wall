@@ -1,34 +1,26 @@
-[01:11:45] [User Authenticator #51/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[01:11:46] [Server thread/INFO]: KROD_DA_KROD joined the game
-[01:11:46] [Server thread/INFO]: KROD_DA_KROD[/206.83.125.60:30895] logged in with entity id 472162 at ([The-Wall-master]-225.1121527289466, 74.0, 255.11111897589043)
-[01:12:01] [Server thread/INFO]: Villager EntityVillager['Farmer'/186, l='ServerLevel[The-Wall-master]', x=-246.13, y=36.03, z=187.87] died, message: 'Farmer drowned'
-[01:12:10] [Server thread/WARN]: KROD_DA_KROD moved too quickly! -0.9646587670448525,-18.578713591586016,-5.5237348568991536
-[01:29:11] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[01:29:11] [Server thread/INFO]: KROD_DA_KROD left the game
-[01:35:06] [User Authenticator #52/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[01:35:07] [Server thread/INFO]: KROD_DA_KROD joined the game
-[01:35:07] [Server thread/INFO]: KROD_DA_KROD[/206.83.125.60:6695] logged in with entity id 475301 at ([The-Wall-master]-214.23750001192093, 11.0, 249.6108865927272)
-[01:40:50] [Server thread/INFO]: Villager EntityVillager['Villager'/110, l='ServerLevel[The-Wall-master]', x=-270.39, y=69.00, z=292.46] died, message: 'Villager was slain by Zombie'
-[01:42:34] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
-[01:42:34] [Server thread/INFO]: KROD_DA_KROD was killed
-[01:42:34] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
-[01:44:41] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
-[01:44:41] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
-[01:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[01:54:41] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
-[01:54:41] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
-[01:55:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
-[01:58:54] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
-[01:58:54] [Server thread/INFO]: KROD_DA_KROD was killed
-[01:58:54] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
-[02:06:45] [Server thread/WARN]: KROD_DA_KROD dropped their items too quickly!
-[02:06:45] [Server thread/INFO]: KROD_DA_KROD lost connection: You dropped your items too quickly (Hacking?)
-[02:06:45] [Server thread/INFO]: KROD_DA_KROD left the game.
-[02:06:56] [User Authenticator #53/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[02:06:57] [Server thread/INFO]: KROD_DA_KROD joined the game
-[02:06:57] [Server thread/INFO]: KROD_DA_KROD[/206.83.125.60:58086] logged in with entity id 484563 at ([The-Wall-master_nether]-31.349654846671676, 32.0, 90.25316796187862)
-[02:08:03] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
-[02:08:03] [Server thread/INFO]: KROD_DA_KROD was killed
-[02:08:03] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
-[02:08:55] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[02:08:55] [Server thread/INFO]: KROD_DA_KROD left the game
+[00:43:31] [Server thread/INFO]: Villager EntityVillager['Villager'/435, l='ServerLevel[The-Wall-master]', x=-246.47, y=56.00, z=213.93] died, message: 'Villager hit the ground too hard'
+[01:22:17] [User Authenticator #57/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[01:22:18] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[01:22:18] [Server thread/INFO]: 855_FOR_TRUTH[/63.243.196.42:11453] logged in with entity id 542588 at ([The-Wall-master]-222.04186791906932, 74.0, 254.47353729858986)
+[01:29:04] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /t
+[01:29:14] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /kill
+[01:29:14] [Server thread/INFO]: 855_FOR_TRUTH was killed
+[01:29:14] [Server thread/INFO]: [855_FOR_TRUTH: Killed 855_FOR_TRUTH]
+[01:29:57] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[01:29:57] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[01:33:19] [Server thread/INFO]: 855_FOR_TRUTH fell out of the world
+[01:34:47] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemodesur
+[01:35:27] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[01:35:27] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[01:40:49] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /time set day
+[01:40:49] [Server thread/INFO]: [855_FOR_TRUTH: Set the time to 1000]
+[01:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[01:51:30] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /time set day
+[01:51:30] [Server thread/INFO]: [855_FOR_TRUTH: Set the time to 1000]
+[01:51:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[02:02:19] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /time set day
+[02:02:19] [Server thread/INFO]: [855_FOR_TRUTH: Set the time to 1000]
+[02:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[02:16:45] [Server thread/INFO]: 855_FOR_TRUTH fell from a high place
+[02:22:15] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[02:22:15] [Server thread/INFO]: 855_FOR_TRUTH left the game
