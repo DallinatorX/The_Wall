@@ -1,46 +1,44 @@
-[22:03:05] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:03:06] [ServerMain/INFO]: Loaded 7 recipes
-[22:03:07] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[22:03:07] [Server thread/INFO]: Loading properties
-[22:03:07] [Server thread/INFO]: Default game type: SURVIVAL
-[22:03:07] [Server thread/INFO]: Generating keypair
-[22:03:07] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
-[22:03:07] [Server thread/INFO]: Using epoll channel type
-[22:03:07] [Server thread/INFO]: This server is running CraftBukkit version 3945-Bukkit-0478e04 (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT)
-[22:03:08] [Server thread/INFO]: [LANBroadcaster] Loading LANBroadcaster v1.6.2
-[22:03:08] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.3
-[22:03:08] [Server thread/INFO]: Preparing level "The-Wall-master"
-[22:03:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:03:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:03:14] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[22:03:15] [Worker-Main-3/INFO]: Preparing spawn area: 93%
-[22:03:15] [Server thread/INFO]: Time elapsed: 5346 ms
-[22:03:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:03:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:03:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:03:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:03:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:03:17] [Worker-Main-3/INFO]: Preparing spawn area: 34%
-[22:03:17] [Server thread/INFO]: Time elapsed: 2242 ms
-[22:03:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:03:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:03:20] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[22:03:20] [Server thread/INFO]: Time elapsed: 2845 ms
-[22:03:20] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
-[22:03:20] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
-[22:03:20] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
-[22:03:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:03:20] [Server thread/INFO]: Done (12.784s)! For help, type "help"
-[22:03:20] [Craft Scheduler Thread - 0/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
+[00:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[00:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[00:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[00:42:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[01:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[01:22:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[01:22:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[01:23:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[01:42:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[02:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[02:02:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[02:06:10] [User Authenticator #2/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[02:06:12] [Server thread/INFO]: KROD_DA_KROD joined the game
+[02:06:12] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.40:10656] logged in with entity id 17484 at ([The-Wall-master]-220.65911165090793, 11.5625, 257.02829594860447)
+[02:08:16] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[02:08:16] [Server thread/INFO]: KROD_DA_KROD left the game
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: java.net.SocketException: Network is unreachable
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send0(Native Method)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.sendFromNativeBuffer(DatagramChannelImpl.java:901)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:863)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:821)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.blockingSend(DatagramChannelImpl.java:853)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramSocketAdaptor.send(DatagramSocketAdaptor.java:218)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:665)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.broadcast(LANBroadcaster.java:54)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.run(LANBroadcaster.java:43)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:77)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[02:10:12] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
+[02:10:22] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
+[02:10:32] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
+[02:18:32] [Server thread/INFO]: Villager EntityVillager['Farmer'/637, l='ServerLevel[The-Wall-master]', x=-250.69, y=35.17, z=187.59] died, message: 'Farmer drowned'
+[02:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[02:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[02:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[02:43:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[02:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[03:02:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[03:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[03:42:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[04:02:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
