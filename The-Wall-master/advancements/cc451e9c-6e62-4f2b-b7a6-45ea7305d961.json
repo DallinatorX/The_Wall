@@ -1382,8 +1382,10 @@
       "minecraft:cave_spider": "2023-01-27 17:40:25 -0700",
       "minecraft:skeleton": "2023-06-09 22:56:25 -0600",
       "minecraft:phantom": "2024-01-31 17:15:17 -0700",
+      "minecraft:silverfish": "2024-02-03 00:11:12 -0700",
       "minecraft:spider": "2023-07-04 18:13:50 -0600",
       "minecraft:zombie": "2023-01-13 23:47:10 -0700",
+      "minecraft:zombie_villager": "2024-02-03 01:34:01 -0700",
       "minecraft:slime": "2023-01-14 15:17:27 -0700",
       "minecraft:shulker": "2023-12-31 17:19:20 -0700"
     },
@@ -2312,6 +2314,7 @@
       "cooked_chicken": "2023-07-04 18:16:18 -0600",
       "rotten_flesh": "2024-01-04 22:02:00 -0700",
       "glow_berries": "2023-06-09 22:50:37 -0600",
+      "rabbit_stew": "2024-02-03 02:45:35 -0700",
       "poisonous_potato": "2023-07-04 18:06:04 -0600",
       "carrot": "2023-07-04 18:06:39 -0600"
     },
@@ -3370,6 +3373,150 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2024-01-13 02:18:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-02-03 02:03:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:29:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-02-03 01:06:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:29:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2024-02-03 01:28:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-02-03 01:45:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-02-03 01:28:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-02-03 03:00:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:29:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-02-03 01:57:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-02-03 02:02:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:29:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:29:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:29:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-02-03 01:28:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-02-03 01:06:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-02-03 03:00:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-02-03 01:45:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-02-03 03:00:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:29:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-02-03 02:02:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:29:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:29:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-02-03 01:06:37 -0700"
     },
     "done": true
   },

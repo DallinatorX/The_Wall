@@ -267,6 +267,7 @@
       "minecraft:windswept_forest": "2020-05-11 21:54:36 -0600",
       "minecraft:jungle": "2020-05-16 15:06:26 -0600",
       "minecraft:ocean": "2022-01-15 18:16:44 -0700",
+      "minecraft:sunflower_plains": "2024-02-03 01:27:33 -0700",
       "minecraft:birch_forest": "2020-05-11 19:54:21 -0600",
       "minecraft:windswept_hills": "2019-05-18 00:05:17 -0600",
       "minecraft:wooded_badlands": "2020-05-14 22:46:48 -0600",
@@ -2752,8 +2753,11 @@
     "criteria": {
       "minecraft:cow": "2020-05-17 16:22:57 -0600",
       "minecraft:chicken": "2020-06-11 23:51:00 -0600",
+      "minecraft:pig": "2024-02-03 01:10:23 -0700",
+      "minecraft:llama": "2024-02-03 01:07:48 -0700",
       "minecraft:wolf": "2022-09-05 03:18:05 -0600",
       "minecraft:sheep": "2020-06-10 16:53:06 -0600",
+      "minecraft:rabbit": "2024-02-03 01:29:44 -0700",
       "minecraft:bee": "2021-08-23 23:20:44 -0600"
     },
     "done": false
@@ -5399,6 +5403,30 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-02-02 01:49:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-02-03 01:27:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:32:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-02-03 01:28:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-03 02:32:56 -0700"
     },
     "done": true
   },
