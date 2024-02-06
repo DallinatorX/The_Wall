@@ -3,3 +3,111 @@
 [00:14:59] [Server thread/INFO]: Villager EntityVillager['Villager'/122, l='ServerLevel[The-Wall-master]', x=-237.97, y=11.00, z=203.30] died, message: 'Villager hit the ground too hard'
 [02:42:21] [Server thread/INFO]: Villager EntityVillager['Villager'/185, l='ServerLevel[The-Wall-master]', x=-237.86, y=35.00, z=203.30] died, message: 'Villager hit the ground too hard'
 [02:43:00] [Server thread/INFO]: Villager EntityVillager['Villager'/8, l='ServerLevel[The-Wall-master]', x=-217.70, y=71.00, z=267.30] died, message: 'Villager was squished too much'
+[06:59:06] [Server thread/INFO]: Villager EntityVillager['Villager'/129304, l='ServerLevel[The-Wall-master]', x=-237.75, y=11.00, z=203.30] died, message: 'Villager hit the ground too hard'
+[09:56:02] [Server thread/INFO]: Villager EntityVillager['Villager'/607, l='ServerLevel[The-Wall-master]', x=-216.04, y=63.00, z=237.85] died, message: 'Villager hit the ground too hard'
+[11:50:35] [Server thread/INFO]: Villager EntityVillager['Villager'/162, l='ServerLevel[The-Wall-master]', x=-197.57, y=73.00, z=210.30] died, message: 'Villager was pricked to death'
+[12:52:56] [Server thread/INFO]: Villager EntityVillager['Fletcher'/115, l='ServerLevel[The-Wall-master]', x=-228.30, y=11.00, z=204.79] died, message: 'Fletcher hit the ground too hard'
+[18:03:04] [User Authenticator #12/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[18:03:05] [Server thread/INFO]: KROD_DA_KROD joined the game
+[18:03:05] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.40:38130] logged in with entity id 186827 at ([The-Wall-master]-236.999076896448, 74.0, 211.63632359727978)
+[18:10:30] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[18:10:30] [Server thread/INFO]: KROD_DA_KROD was killed
+[18:10:30] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[18:12:51] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[18:12:51] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[18:31:18] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
+[18:32:46] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[18:32:46] [Server thread/INFO]: KROD_DA_KROD was killed
+[18:32:46] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[18:35:08] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[18:41:36] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[18:41:36] [Server thread/INFO]: KROD_DA_KROD was killed
+[18:41:36] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[18:52:53] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
+[19:05:37] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
+[19:05:37] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
+[19:06:10] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[19:06:10] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
+[19:10:43] [Server thread/INFO]: KROD_DA_KROD was doomed to fall
+[19:23:52] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[19:23:52] [Server thread/INFO]: KROD_DA_KROD was killed
+[19:23:52] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[19:27:52] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[19:29:11] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[19:29:11] [Server thread/INFO]: KROD_DA_KROD was killed
+[19:29:11] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[19:31:49] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[19:32:09] [Server thread/INFO]: KROD_DA_KROD issued server command: /tp -201 125 3571
+[19:32:10] [Server thread/INFO]: [KROD_DA_KROD: Teleported KROD_DA_KROD to -200.500000, 125.000000, 3571.500000]
+[19:43:51] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[19:43:51] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[19:50:42] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
+[19:50:42] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
+[19:51:14] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[19:51:14] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
+[19:54:10] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[19:54:10] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[20:06:27] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[20:06:27] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[20:16:20] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[20:16:20] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[20:25:48] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[20:25:48] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[20:31:18] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
+[20:31:18] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
+[20:32:27] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[20:32:27] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
+[20:36:30] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[20:36:32] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[20:36:32] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[20:46:49] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[20:46:49] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[20:56:23] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[20:56:23] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[20:57:52] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[20:57:55] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[21:13:04] [Server thread/INFO]: KROD_DA_KROD burned to death
+[21:13:15] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[21:13:33] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[21:13:33] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[21:17:55] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[21:17:55] [Server thread/INFO]: KROD_DA_KROD was killed
+[21:17:55] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[21:24:02] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
+[21:37:30] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[21:37:30] [Server thread/INFO]: KROD_DA_KROD was killed
+[21:37:30] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[21:51:55] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[21:51:55] [Server thread/INFO]: KROD_DA_KROD was killed
+[21:51:55] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[21:57:02] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[21:57:07] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
+[21:57:07] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
+[22:05:15] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[22:05:15] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
+[22:06:03] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[22:06:03] [Server thread/INFO]: KROD_DA_KROD was killed
+[22:06:03] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[22:06:38] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
+[22:06:38] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
+[22:07:19] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[22:07:19] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
+[22:09:29] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
+[22:09:29] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
+[22:11:03] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[22:11:03] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
+[22:13:19] [Server thread/INFO]: KROD_DA_KROD burned to death
+[22:13:33] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[22:13:55] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set night`
+[22:15:11] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[22:15:11] [Server thread/INFO]: KROD_DA_KROD was killed
+[22:15:11] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[22:19:40] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[22:19:40] [Server thread/INFO]: KROD_DA_KROD was killed
+[22:19:40] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[22:19:56] [Server thread/INFO]: Villager EntityVillager['Villager'/9, l='ServerLevel[The-Wall-master]', x=-217.70, y=71.00, z=267.30] died, message: 'Villager was squished too much'
+[22:19:59] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[22:19:59] [Server thread/INFO]: KROD_DA_KROD was killed
+[22:19:59] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[22:20:04] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[22:20:04] [Server thread/INFO]: KROD_DA_KROD left the game
