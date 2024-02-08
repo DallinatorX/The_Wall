@@ -1,40 +1,50 @@
-[00:58:46] [User Authenticator #14/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[00:58:47] [Server thread/INFO]: KROD_DA_KROD joined the game
-[00:58:47] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.53:60743] logged in with entity id 272462 at ([The-Wall-master]-217.69999998807907, 71.0, 267.30000001192093)
-[01:00:39] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
-[01:00:39] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
-[01:02:11] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
-[01:02:11] [Server thread/INFO]: KROD_DA_KROD was killed
-[01:02:11] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
-[01:05:37] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
-[01:05:37] [Server thread/INFO]: KROD_DA_KROD was killed
-[01:05:37] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
-[01:06:13] [Server thread/INFO]: KROD_DA_KROD issued server command: /tp -201 125 -3571
-[01:06:13] [Server thread/INFO]: [KROD_DA_KROD: Teleported KROD_DA_KROD to -200.500000, 125.000000, -3570.500000]
-[01:09:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[01:11:06] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
-[01:11:06] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
-[01:20:31] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
-[01:20:31] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
-[01:31:53] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
-[01:31:53] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
-[01:32:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[01:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
-[01:40:30] [Server thread/INFO]: KROD_DA_KROD was doomed to fall by Trader Llama
-[01:42:52] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[01:42:52] [Server thread/INFO]: KROD_DA_KROD left the game
-[01:50:18] [User Authenticator #15/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[01:50:19] [Server thread/INFO]: KROD_DA_KROD joined the game
-[01:50:19] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.53:51590] logged in with entity id 281781 at ([The-Wall-master]-214.0257296064618, 11.875, 273.08356324726793)
-[02:07:36] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
-[02:07:36] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
-[02:18:24] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
-[02:18:24] [Server thread/INFO]: KROD_DA_KROD was killed
-[02:18:24] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
-[02:18:33] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
-[02:18:33] [Server thread/INFO]: KROD_DA_KROD was killed
-[02:18:33] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
-[02:19:00] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[02:19:07] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[02:19:26] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[02:19:26] [Server thread/INFO]: KROD_DA_KROD left the game
+[15:49:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:49:05] [ServerMain/INFO]: Loaded 7 recipes
+[15:49:06] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[15:49:06] [Server thread/INFO]: Loading properties
+[15:49:06] [Server thread/INFO]: Default game type: SURVIVAL
+[15:49:06] [Server thread/INFO]: Generating keypair
+[15:49:06] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[15:49:06] [Server thread/INFO]: Using epoll channel type
+[15:49:06] [Server thread/INFO]: This server is running CraftBukkit version 4022-Bukkit-fb97348 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[15:49:07] [Server thread/INFO]: [LANBroadcaster] Loading LANBroadcaster v1.6.2
+[15:49:07] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.3
+[15:49:07] [Server thread/INFO]: Preparing level "The-Wall-master"
+[15:49:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:49:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:49:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:49:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:49:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[15:49:15] [Server thread/INFO]: Time elapsed: 5131 ms
+[15:49:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:49:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:49:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:49:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:49:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:49:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:49:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:49:18] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[15:49:19] [Worker-Main-1/INFO]: Preparing spawn area: 85%
+[15:49:19] [Server thread/INFO]: Time elapsed: 3600 ms
+[15:49:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:49:22] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[15:49:22] [Server thread/INFO]: Time elapsed: 2986 ms
+[15:49:22] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
+[15:49:22] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
+[15:49:22] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[15:49:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:49:22] [Server thread/INFO]: Done (14.958s)! For help, type "help"
+[15:49:22] [Craft Scheduler Thread - 0/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
+[15:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[17:44:17] [Server thread/INFO]: Villager EntityVillager['Villager'/81, l='ServerLevel[The-Wall-master]', x=-216.03, y=63.00, z=237.78] died, message: 'Villager hit the ground too hard'
