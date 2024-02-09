@@ -1,50 +1,133 @@
-[15:49:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:49:05] [ServerMain/INFO]: Loaded 7 recipes
-[15:49:06] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[15:49:06] [Server thread/INFO]: Loading properties
-[15:49:06] [Server thread/INFO]: Default game type: SURVIVAL
-[15:49:06] [Server thread/INFO]: Generating keypair
-[15:49:06] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
-[15:49:06] [Server thread/INFO]: Using epoll channel type
-[15:49:06] [Server thread/INFO]: This server is running CraftBukkit version 4022-Bukkit-fb97348 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
-[15:49:07] [Server thread/INFO]: [LANBroadcaster] Loading LANBroadcaster v1.6.2
-[15:49:07] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.3
-[15:49:07] [Server thread/INFO]: Preparing level "The-Wall-master"
-[15:49:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:49:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:49:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:49:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:49:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[15:49:15] [Server thread/INFO]: Time elapsed: 5131 ms
-[15:49:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:49:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:49:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:49:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:49:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:49:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:49:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:49:18] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[15:49:19] [Worker-Main-1/INFO]: Preparing spawn area: 85%
-[15:49:19] [Server thread/INFO]: Time elapsed: 3600 ms
-[15:49:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:49:22] [Worker-Main-2/INFO]: Preparing spawn area: 17%
-[15:49:22] [Server thread/INFO]: Time elapsed: 2986 ms
-[15:49:22] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
-[15:49:22] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
-[15:49:22] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
-[15:49:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:49:22] [Server thread/INFO]: Done (14.958s)! For help, type "help"
-[15:49:22] [Craft Scheduler Thread - 0/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
-[15:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
-[17:44:17] [Server thread/INFO]: Villager EntityVillager['Villager'/81, l='ServerLevel[The-Wall-master]', x=-216.03, y=63.00, z=237.78] died, message: 'Villager hit the ground too hard'
+[09:24:07] [Server thread/INFO]: Villager EntityVillager['Villager'/127, l='ServerLevel[The-Wall-master]', x=-195.97, y=64.00, z=226.74] died, message: 'Villager hit the ground too hard'
+[22:06:36] [User Authenticator #1/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[22:06:38] [Server thread/INFO]: KROD_DA_KROD joined the game
+[22:06:38] [Server thread/INFO]: KROD_DA_KROD[/63.243.196.53:35863] logged in with entity id 30401 at ([The-Wall-master]-218.08060566304675, 74.0, 260.00874645191516)
+[22:08:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[22:08:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[22:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[22:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[22:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3792ms or 75 ticks behind
+[22:10:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
+[22:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3710ms or 74 ticks behind
+[22:10:37] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[22:10:37] [Server thread/INFO]: KROD_DA_KROD was killed
+[22:10:37] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[22:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[22:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[22:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3041ms or 60 ticks behind
+[22:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3607ms or 72 ticks behind
+[22:13:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3771ms or 75 ticks behind
+[22:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3538ms or 70 ticks behind
+[22:14:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3945ms or 78 ticks behind
+[22:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4482ms or 89 ticks behind
+[22:14:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5141ms or 102 ticks behind
+[22:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5364ms or 107 ticks behind
+[22:15:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6058ms or 121 ticks behind
+[22:15:36] [Server thread/INFO]: KROD_DA_KROD issued server command: /tp -201 125 3571
+[22:15:37] [Server thread/INFO]: [KROD_DA_KROD: Teleported KROD_DA_KROD to -200.500000, 125.000000, 3571.500000]
+[22:15:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6919ms or 138 ticks behind
+[22:17:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[22:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[22:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[22:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[22:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2851ms or 57 ticks behind
+[22:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3832ms or 76 ticks behind
+[22:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7604ms or 152 ticks behind
+[22:19:41] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[22:19:41] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[22:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13445ms or 268 ticks behind
+[22:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8729ms or 174 ticks behind
+[22:20:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6313ms or 126 ticks behind
+[22:21:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7617ms or 152 ticks behind
+[22:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7122ms or 142 ticks behind
+[22:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8486ms or 169 ticks behind
+[22:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9869ms or 197 ticks behind
+[22:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7948ms or 158 ticks behind
+[22:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8489ms or 169 ticks behind
+[22:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9339ms or 186 ticks behind
+[22:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7784ms or 155 ticks behind
+[22:24:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6998ms or 139 ticks behind
+[22:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6899ms or 137 ticks behind
+[22:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8690ms or 173 ticks behind
+[22:25:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7949ms or 158 ticks behind
+[22:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8171ms or 163 ticks behind
+[22:26:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8816ms or 176 ticks behind
+[22:26:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7693ms or 153 ticks behind
+[22:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8276ms or 165 ticks behind
+[22:27:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7545ms or 150 ticks behind
+[22:27:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10086ms or 201 ticks behind
+[22:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7913ms or 158 ticks behind
+[22:28:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7520ms or 150 ticks behind
+[22:28:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7379ms or 147 ticks behind
+[22:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8849ms or 176 ticks behind
+[22:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7029ms or 140 ticks behind
+[22:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9203ms or 184 ticks behind
+[22:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6696ms or 133 ticks behind
+[22:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7083ms or 141 ticks behind
+[22:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6777ms or 135 ticks behind
+[22:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5905ms or 118 ticks behind
+[22:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6951ms or 139 ticks behind
+[22:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6976ms or 139 ticks behind
+[22:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6002ms or 120 ticks behind
+[22:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6295ms or 125 ticks behind
+[22:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8221ms or 164 ticks behind
+[22:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7285ms or 145 ticks behind
+[22:33:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7929ms or 158 ticks behind
+[22:34:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8231ms or 164 ticks behind
+[22:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9819ms or 196 ticks behind
+[22:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8673ms or 173 ticks behind
+[22:35:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6093ms or 121 ticks behind
+[22:35:41] [Server thread/INFO]: KROD_DA_KROD issued server command: /time set day
+[22:35:41] [Server thread/INFO]: [KROD_DA_KROD: Set the time to 1000]
+[22:35:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[22:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5924ms or 118 ticks behind
+[22:36:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5992ms or 119 ticks behind
+[22:36:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6060ms or 121 ticks behind
+[22:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7020ms or 140 ticks behind
+[22:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4831ms or 96 ticks behind
+[22:37:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
+[22:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5705ms or 114 ticks behind
+[22:38:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5078ms or 101 ticks behind
+[22:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6377ms or 127 ticks behind
+[22:39:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[22:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4025ms or 80 ticks behind
+[22:39:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4149ms or 82 ticks behind
+[22:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6738ms or 134 ticks behind
+[22:40:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7669ms or 153 ticks behind
+[22:40:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6763ms or 135 ticks behind
+[22:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
+[22:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4877ms or 97 ticks behind
+[22:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6761ms or 135 ticks behind
+[22:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5630ms or 112 ticks behind
+[22:42:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3102ms or 62 ticks behind
+[22:42:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3227ms or 64 ticks behind
+[22:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5338ms or 106 ticks behind
+[22:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[22:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3753ms or 75 ticks behind
+[22:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
+[22:44:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[22:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
+[22:45:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[22:45:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[22:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[22:45:46] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[22:46:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7804ms or 156 ticks behind
+[22:46:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[22:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[22:47:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6493ms or 129 ticks behind
+[22:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8914ms or 178 ticks behind
+[22:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6334ms or 126 ticks behind
+[22:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7999ms or 159 ticks behind
+[22:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7313ms or 146 ticks behind
+[22:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7037ms or 140 ticks behind
+[22:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6982ms or 139 ticks behind
+[22:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6970ms or 139 ticks behind
+[22:50:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9186ms or 183 ticks behind
+[22:50:40] [Server thread/INFO]: KROD_DA_KROD issued server command: /kill
+[22:50:40] [Server thread/INFO]: KROD_DA_KROD was killed
+[22:50:40] [Server thread/INFO]: [KROD_DA_KROD: Killed KROD_DA_KROD]
+[22:50:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8243ms or 164 ticks behind
+[22:51:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7324ms or 146 ticks behind
+[22:51:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7638ms or 152 ticks behind
+[22:51:40] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[22:51:40] [Server thread/INFO]: KROD_DA_KROD left the game
