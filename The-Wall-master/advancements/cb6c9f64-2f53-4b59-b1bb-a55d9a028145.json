@@ -472,6 +472,7 @@
       "minecraft:silverfish": "2020-05-13 23:07:08 -0600",
       "minecraft:magma_cube": "2022-08-28 02:10:32 -0600",
       "minecraft:spider": "2020-05-11 20:59:29 -0600",
+      "minecraft:piglin_brute": "2024-02-12 00:21:31 -0700",
       "minecraft:zombie": "2019-05-18 00:21:59 -0600",
       "minecraft:creeper": "2020-05-11 20:59:54 -0600",
       "minecraft:drowned": "2020-05-11 22:05:42 -0600",
@@ -5469,6 +5470,36 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-02-05 19:20:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-02-12 00:01:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-02-12 00:01:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-02-12 00:23:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-02-12 00:01:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-02-12 00:01:52 -0700"
     },
     "done": true
   },

@@ -525,6 +525,7 @@
       "cooked_beef": "2019-11-16 15:35:35 -0700",
       "baked_potato": "2019-01-22 13:40:51 -0700",
       "melon_slice": "2020-04-27 19:50:02 -0600",
+      "porkchop": "2024-02-11 23:03:11 -0700",
       "beetroot": "2019-03-30 00:04:01 -0600",
       "spider_eye": "2019-02-05 12:07:11 -0700",
       "cooked_rabbit": "2020-04-25 17:49:09 -0600",
@@ -847,27 +848,28 @@
       "minecraft:blaze": "2018-12-20 20:55:01 -0700",
       "minecraft:pillager": "2021-08-09 22:15:14 -0600",
       "minecraft:skeleton": "2018-11-20 23:48:26 -0700",
+      "minecraft:ghast": "2018-12-21 15:51:39 -0700",
+      "minecraft:hoglin": "2021-07-30 18:14:07 -0600",
+      "minecraft:vindicator": "2021-08-10 14:28:02 -0600",
+      "minecraft:magma_cube": "2018-12-21 15:46:14 -0700",
+      "minecraft:spider": "2018-11-21 09:27:26 -0700",
+      "minecraft:piglin_brute": "2024-02-12 00:14:18 -0700",
+      "minecraft:creeper": "2018-11-21 11:08:17 -0700",
+      "minecraft:wither": "2022-09-04 18:03:48 -0600",
+      "minecraft:slime": "2018-11-21 11:19:02 -0700",
       "minecraft:phantom": "2021-08-02 13:26:55 -0600",
       "minecraft:zombified_piglin": "2018-11-21 16:31:01 -0700",
       "minecraft:witch": "2019-01-10 14:35:52 -0700",
       "minecraft:wither_skeleton": "2018-11-21 16:08:18 -0700",
       "minecraft:husk": "2018-11-17 18:26:19 -0700",
-      "minecraft:ghast": "2018-12-21 15:51:39 -0700",
-      "minecraft:hoglin": "2021-07-30 18:14:07 -0600",
       "minecraft:shulker": "2018-11-22 13:48:40 -0700",
       "minecraft:cave_spider": "2019-01-11 12:01:36 -0700",
       "minecraft:piglin": "2021-07-31 14:20:57 -0600",
-      "minecraft:vindicator": "2021-08-10 14:28:02 -0600",
       "minecraft:enderman": "2018-11-21 11:40:54 -0700",
       "minecraft:silverfish": "2019-01-11 11:50:08 -0700",
-      "minecraft:magma_cube": "2018-12-21 15:46:14 -0700",
-      "minecraft:spider": "2018-11-21 09:27:26 -0700",
       "minecraft:zombie": "2018-11-21 09:29:16 -0700",
-      "minecraft:creeper": "2018-11-21 11:08:17 -0700",
       "minecraft:drowned": "2019-01-10 12:48:15 -0700",
-      "minecraft:wither": "2022-09-04 18:03:48 -0600",
-      "minecraft:zombie_villager": "2019-01-22 09:39:27 -0700",
-      "minecraft:slime": "2018-11-21 11:19:02 -0700"
+      "minecraft:zombie_villager": "2019-01-22 09:39:27 -0700"
     },
     "done": false
   },
@@ -4830,6 +4832,108 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2024-02-03 01:27:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-02-11 23:55:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-02-12 00:43:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-02-12 00:26:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-02-11 23:55:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-02-11 23:14:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2024-02-11 23:53:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-02-11 23:55:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-02-11 23:55:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-02-11 23:55:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-02-12 00:26:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-02-11 23:55:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-02-12 00:10:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-02-11 23:26:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-02-11 23:52:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-02-11 23:26:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-02-11 23:55:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-02-12 00:26:06 -0700"
     },
     "done": true
   },
