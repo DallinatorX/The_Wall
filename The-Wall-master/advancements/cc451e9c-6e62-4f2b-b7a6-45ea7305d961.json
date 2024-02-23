@@ -344,25 +344,31 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2023-01-27 18:34:51 -0700",
-      "minecraft:flower_forest": "2023-01-27 18:37:19 -0700",
-      "minecraft:savanna_plateau": "2023-12-30 00:09:42 -0700",
-      "minecraft:beach": "2023-12-30 00:11:43 -0700",
       "minecraft:old_growth_pine_taiga": "2022-11-27 16:46:43 -0700",
-      "minecraft:dark_forest": "2023-01-27 18:34:09 -0700",
       "minecraft:forest": "2022-11-27 16:45:54 -0700",
       "minecraft:taiga": "2022-11-27 16:46:36 -0700",
       "minecraft:deep_ocean": "2023-12-30 00:11:57 -0700",
-      "minecraft:river": "2022-11-27 16:47:36 -0700",
       "minecraft:lush_caves": "2023-01-14 15:27:21 -0700",
-      "minecraft:dripstone_caves": "2023-01-13 22:18:47 -0700",
-      "minecraft:old_growth_birch_forest": "2023-01-14 15:23:04 -0700",
+      "minecraft:deep_cold_ocean": "2024-02-22 19:05:45 -0700",
+      "minecraft:frozen_ocean": "2024-02-22 19:00:20 -0700",
       "minecraft:desert": "2023-12-30 00:06:41 -0700",
       "minecraft:windswept_forest": "2023-01-27 18:37:11 -0700",
+      "minecraft:deep_frozen_ocean": "2024-02-22 19:00:14 -0700",
       "minecraft:ocean": "2023-12-30 00:11:48 -0700",
-      "minecraft:swamp": "2023-01-27 18:36:35 -0700",
-      "minecraft:meadow": "2023-01-13 23:10:32 -0700",
+      "minecraft:sunflower_plains": "2024-02-22 17:43:01 -0700",
       "minecraft:birch_forest": "2022-11-27 16:47:40 -0700",
       "minecraft:windswept_hills": "2023-01-27 18:37:09 -0700",
+      "minecraft:old_growth_spruce_taiga": "2024-02-22 16:42:33 -0700",
+      "minecraft:flower_forest": "2023-01-27 18:37:19 -0700",
+      "minecraft:savanna_plateau": "2023-12-30 00:09:42 -0700",
+      "minecraft:beach": "2023-12-30 00:11:43 -0700",
+      "minecraft:dark_forest": "2023-01-27 18:34:09 -0700",
+      "minecraft:river": "2022-11-27 16:47:36 -0700",
+      "minecraft:stony_shore": "2024-02-22 20:05:19 -0700",
+      "minecraft:dripstone_caves": "2023-01-13 22:18:47 -0700",
+      "minecraft:old_growth_birch_forest": "2023-01-14 15:23:04 -0700",
+      "minecraft:swamp": "2023-01-27 18:36:35 -0700",
+      "minecraft:meadow": "2023-01-13 23:10:32 -0700",
       "minecraft:savanna": "2023-12-30 00:09:40 -0700",
       "minecraft:plains": "2022-11-27 16:46:32 -0700"
     },
@@ -1080,6 +1086,8 @@
     "criteria": {
       "minecraft:strider": "2024-02-22 02:28:18 -0700",
       "minecraft:cow": "2023-06-09 23:37:23 -0600",
+      "minecraft:llama": "2024-02-22 17:11:22 -0700",
+      "minecraft:wolf": "2024-02-22 17:53:19 -0700",
       "minecraft:bee": "2023-01-13 22:30:53 -0700"
     },
     "done": false
@@ -1391,6 +1399,7 @@
       "minecraft:silverfish": "2024-02-03 00:11:12 -0700",
       "minecraft:spider": "2023-07-04 18:13:50 -0600",
       "minecraft:zombie": "2023-01-13 23:47:10 -0700",
+      "minecraft:creeper": "2024-02-22 17:07:55 -0700",
       "minecraft:zombie_villager": "2024-02-03 01:34:01 -0700",
       "minecraft:slime": "2023-01-14 15:17:27 -0700"
     },
@@ -4057,51 +4066,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_oxeye_daisy": "2024-02-22 01:28:38 -0700"
+      "obsidian": "2024-02-22 00:49:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-02-22 00:49:20 -0700"
     },
     "done": true
   },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2024-02-22 01:01:43 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2024-02-22 02:33:30 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2024-02-22 02:32:44 -0700"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-02-22 02:36:55 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2024-02-22 02:33:44 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2024-02-22 02:33:30 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2024-02-22 02:32:44 -0700"
     },
     "done": true
   },
@@ -4117,9 +4096,45 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "obsidian": "2024-02-22 00:49:20 -0700"
+      "has_minecart": "2024-02-22 01:01:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-02-22 01:01:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-02-22 01:28:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-02-22 01:28:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-02-22 02:32:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-02-22 02:32:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2024-02-22 02:32:44 -0700"
     },
     "done": true
   },
@@ -4141,33 +4156,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
+  "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
-      "has_minecart": "2024-02-22 01:01:43 -0700"
+      "has_red_wool": "2024-02-22 02:33:30 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/decorations/red_banner": {
     "criteria": {
-      "has_oxeye_daisy": "2024-02-22 01:28:38 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2024-02-22 02:32:44 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2024-02-22 02:33:44 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-02-22 00:49:20 -0700"
+      "has_red_wool": "2024-02-22 02:33:30 -0700"
     },
     "done": true
   },
@@ -4177,15 +4174,123 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2024-02-22 02:33:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2024-02-22 02:33:44 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2024-02-22 02:33:44 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_minecart": "2024-02-22 01:01:43 -0700"
+      "tamed_animal": "2024-02-22 02:36:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-02-22 16:45:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-02-22 16:45:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-02-22 16:45:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-02-22 17:31:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-02-22 17:35:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-02-22 17:35:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-02-22 17:35:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-02-22 17:35:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-02-22 17:35:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2024-02-22 18:07:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-02-22 18:23:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-02-22 18:23:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-02-22 19:10:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-02-22 19:10:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-02-22 19:10:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-02-22 23:01:54 -0700"
     },
     "done": true
   },
