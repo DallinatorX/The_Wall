@@ -512,27 +512,28 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-07-31 14:18:32 -0600",
+      "chicken": "2024-02-23 21:36:27 -0700",
+      "cooked_mutton": "2018-11-23 03:09:21 -0700",
+      "sweet_berries": "2022-01-15 18:02:28 -0700",
+      "chorus_fruit": "2018-11-21 13:30:52 -0700",
+      "cooked_beef": "2019-11-16 15:35:35 -0700",
+      "baked_potato": "2019-01-22 13:40:51 -0700",
+      "porkchop": "2024-02-11 23:03:11 -0700",
+      "spider_eye": "2019-02-05 12:07:11 -0700",
+      "potato": "2019-01-27 17:15:07 -0700",
+      "cooked_cod": "2018-11-21 10:40:24 -0700",
+      "poisonous_potato": "2021-08-24 00:24:00 -0600",
       "mutton": "2019-11-17 01:40:23 -0700",
       "pufferfish": "2019-01-22 20:53:28 -0700",
       "bread": "2019-11-16 00:12:15 -0700",
       "golden_apple": "2020-04-25 18:18:39 -0600",
       "rotten_flesh": "2020-04-25 17:50:14 -0600",
-      "cooked_mutton": "2018-11-23 03:09:21 -0700",
       "glow_berries": "2022-09-01 16:35:07 -0600",
-      "sweet_berries": "2022-01-15 18:02:28 -0700",
       "salmon": "2022-09-04 18:40:37 -0600",
-      "chorus_fruit": "2018-11-21 13:30:52 -0700",
-      "cooked_beef": "2019-11-16 15:35:35 -0700",
-      "baked_potato": "2019-01-22 13:40:51 -0700",
       "melon_slice": "2020-04-27 19:50:02 -0600",
-      "porkchop": "2024-02-11 23:03:11 -0700",
       "beetroot": "2019-03-30 00:04:01 -0600",
-      "spider_eye": "2019-02-05 12:07:11 -0700",
       "cooked_rabbit": "2020-04-25 17:49:09 -0600",
       "cooked_chicken": "2018-11-17 16:54:06 -0700",
-      "potato": "2019-01-27 17:15:07 -0700",
-      "cooked_cod": "2018-11-21 10:40:24 -0700",
-      "poisonous_potato": "2021-08-24 00:24:00 -0600",
       "cooked_salmon": "2018-11-21 09:35:49 -0700",
       "carrot": "2018-11-21 11:45:03 -0700"
     },
@@ -1852,8 +1853,10 @@
       "minecraft:cow": "2018-11-22 13:15:29 -0700",
       "minecraft:chicken": "2018-11-22 13:18:39 -0700",
       "minecraft:donkey": "2024-02-22 17:27:27 -0700",
+      "minecraft:fox": "2024-02-23 18:30:43 -0700",
       "minecraft:pig": "2021-08-09 21:45:13 -0600",
       "minecraft:llama": "2024-02-21 01:13:53 -0700",
+      "minecraft:turtle": "2024-02-24 02:10:06 -0700",
       "minecraft:sheep": "2018-11-22 13:16:08 -0700",
       "minecraft:rabbit": "2024-02-03 01:37:41 -0700",
       "minecraft:bee": "2024-02-22 13:22:31 -0700"
@@ -5034,6 +5037,102 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-02-22 18:23:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-02-23 21:25:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-02-23 21:25:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-23 21:25:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-02-23 21:25:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-02-23 21:25:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-02-23 21:25:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-23 21:25:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-02-23 21:25:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-02-23 21:25:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-02-23 21:25:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-02-24 01:26:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 01:26:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-02-24 02:23:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-02-24 01:37:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-02-24 01:36:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-02-24 02:23:12 -0700"
     },
     "done": true
   },
