@@ -355,18 +355,23 @@
       "minecraft:windswept_forest": "2023-01-27 18:37:11 -0700",
       "minecraft:deep_frozen_ocean": "2024-02-22 19:00:14 -0700",
       "minecraft:ocean": "2023-12-30 00:11:48 -0700",
+      "minecraft:jungle": "2024-02-25 00:43:38 -0700",
       "minecraft:sunflower_plains": "2024-02-22 17:43:01 -0700",
       "minecraft:birch_forest": "2022-11-27 16:47:40 -0700",
       "minecraft:windswept_hills": "2023-01-27 18:37:09 -0700",
       "minecraft:old_growth_spruce_taiga": "2024-02-22 16:42:33 -0700",
+      "minecraft:bamboo_jungle": "2024-02-25 01:13:46 -0700",
       "minecraft:flower_forest": "2023-01-27 18:37:19 -0700",
       "minecraft:savanna_plateau": "2023-12-30 00:09:42 -0700",
       "minecraft:beach": "2023-12-30 00:11:43 -0700",
       "minecraft:dark_forest": "2023-01-27 18:34:09 -0700",
+      "minecraft:sparse_jungle": "2024-02-25 01:14:17 -0700",
       "minecraft:river": "2022-11-27 16:47:36 -0700",
+      "minecraft:lukewarm_ocean": "2024-02-25 01:35:55 -0700",
       "minecraft:stony_shore": "2024-02-22 20:05:19 -0700",
       "minecraft:dripstone_caves": "2023-01-13 22:18:47 -0700",
       "minecraft:old_growth_birch_forest": "2023-01-14 15:23:04 -0700",
+      "minecraft:deep_dark": "2024-02-24 18:23:55 -0700",
       "minecraft:swamp": "2023-01-27 18:36:35 -0700",
       "minecraft:meadow": "2023-01-13 23:10:32 -0700",
       "minecraft:savanna": "2023-12-30 00:09:40 -0700",
@@ -1089,6 +1094,7 @@
       "minecraft:fox": "2024-02-24 01:20:07 -0700",
       "minecraft:llama": "2024-02-22 17:11:22 -0700",
       "minecraft:wolf": "2024-02-22 17:53:19 -0700",
+      "minecraft:panda": "2024-02-25 01:14:23 -0700",
       "minecraft:turtle": "2024-02-24 01:16:07 -0700",
       "minecraft:mule": "2024-02-24 02:25:17 -0700",
       "minecraft:bee": "2023-01-13 22:30:53 -0700"
@@ -1399,12 +1405,15 @@
       "minecraft:shulker": "2023-12-31 17:19:20 -0700",
       "minecraft:cave_spider": "2023-01-27 17:40:25 -0700",
       "minecraft:piglin": "2024-02-11 22:10:53 -0700",
+      "minecraft:vindicator": "2024-02-24 23:57:45 -0700",
       "minecraft:silverfish": "2024-02-03 00:11:12 -0700",
       "minecraft:spider": "2023-07-04 18:13:50 -0600",
+      "minecraft:vex": "2024-02-25 00:00:35 -0700",
       "minecraft:zombie": "2023-01-13 23:47:10 -0700",
       "minecraft:creeper": "2024-02-22 17:07:55 -0700",
       "minecraft:zombie_villager": "2024-02-03 01:34:01 -0700",
-      "minecraft:slime": "2023-01-14 15:17:27 -0700"
+      "minecraft:slime": "2023-01-14 15:17:27 -0700",
+      "minecraft:evoker": "2024-02-24 23:59:41 -0700"
     },
     "done": false
   },
@@ -4378,6 +4387,96 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-02-23 18:15:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-02-24 23:56:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-02-25 01:20:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-02-24 23:56:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-25 01:20:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-02-25 01:20:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-02-25 01:20:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-02-25 01:04:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-02-25 01:20:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-02-25 01:20:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-25 01:20:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-02-25 01:20:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-02-25 01:04:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-02-25 01:04:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-02-25 01:20:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-02-25 01:20:55 -0700"
     },
     "done": true
   },

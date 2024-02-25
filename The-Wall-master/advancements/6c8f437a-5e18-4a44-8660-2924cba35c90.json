@@ -564,6 +564,7 @@
       "minecraft:sunflower_plains": "2023-11-25 21:30:07 -0700",
       "minecraft:birch_forest": "2018-11-17 17:06:09 -0700",
       "minecraft:windswept_hills": "2018-11-21 11:58:50 -0700",
+      "minecraft:old_growth_spruce_taiga": "2024-02-25 01:48:46 -0700",
       "minecraft:wooded_badlands": "2019-02-15 23:02:36 -0700",
       "minecraft:warm_ocean": "2019-01-13 00:15:16 -0700",
       "minecraft:deep_lukewarm_ocean": "2018-11-23 03:16:07 -0700",
@@ -5100,27 +5101,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-02-24 01:26:16 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-02-24 01:26:15 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "minecraft:recipes/tools/brush": {
     "criteria": {
-      "has_honeycomb": "2024-02-24 02:23:12 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2024-02-24 01:37:17 -0700"
+      "has_copper_ingot": "2024-02-24 01:26:16 -0700"
     },
     "done": true
   },
@@ -5130,9 +5119,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-02-24 01:37:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-02-24 02:23:12 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2024-02-24 02:23:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2024-02-25 00:07:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-02-25 00:04:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-02-25 00:04:48 -0700"
     },
     "done": true
   },
