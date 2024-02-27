@@ -351,6 +351,7 @@
       "minecraft:lush_caves": "2023-01-14 15:27:21 -0700",
       "minecraft:deep_cold_ocean": "2024-02-22 19:05:45 -0700",
       "minecraft:frozen_ocean": "2024-02-22 19:00:20 -0700",
+      "minecraft:eroded_badlands": "2024-02-27 01:36:53 -0700",
       "minecraft:desert": "2023-12-30 00:06:41 -0700",
       "minecraft:windswept_forest": "2023-01-27 18:37:11 -0700",
       "minecraft:deep_frozen_ocean": "2024-02-22 19:00:14 -0700",
@@ -361,10 +362,13 @@
       "minecraft:windswept_hills": "2023-01-27 18:37:09 -0700",
       "minecraft:old_growth_spruce_taiga": "2024-02-22 16:42:33 -0700",
       "minecraft:bamboo_jungle": "2024-02-25 01:13:46 -0700",
+      "minecraft:wooded_badlands": "2024-02-27 01:41:43 -0700",
+      "minecraft:badlands": "2024-02-27 01:36:35 -0700",
       "minecraft:flower_forest": "2023-01-27 18:37:19 -0700",
       "minecraft:savanna_plateau": "2023-12-30 00:09:42 -0700",
       "minecraft:beach": "2023-12-30 00:11:43 -0700",
       "minecraft:dark_forest": "2023-01-27 18:34:09 -0700",
+      "minecraft:mangrove_swamp": "2024-02-27 02:02:09 -0700",
       "minecraft:sparse_jungle": "2024-02-25 01:14:17 -0700",
       "minecraft:river": "2022-11-27 16:47:36 -0700",
       "minecraft:lukewarm_ocean": "2024-02-25 01:35:55 -0700",
@@ -1089,13 +1093,16 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2024-02-27 02:58:37 -0700",
       "minecraft:strider": "2024-02-22 02:28:18 -0700",
       "minecraft:cow": "2023-06-09 23:37:23 -0600",
+      "minecraft:camel": "2024-02-27 02:43:17 -0700",
       "minecraft:fox": "2024-02-24 01:20:07 -0700",
       "minecraft:llama": "2024-02-22 17:11:22 -0700",
       "minecraft:wolf": "2024-02-22 17:53:19 -0700",
       "minecraft:panda": "2024-02-25 01:14:23 -0700",
       "minecraft:turtle": "2024-02-24 01:16:07 -0700",
+      "minecraft:frog": "2024-02-27 02:47:38 -0700",
       "minecraft:mule": "2024-02-24 02:25:17 -0700",
       "minecraft:bee": "2023-01-13 22:30:53 -0700"
     },
@@ -1411,6 +1418,7 @@
       "minecraft:vex": "2024-02-25 00:00:35 -0700",
       "minecraft:zombie": "2023-01-13 23:47:10 -0700",
       "minecraft:creeper": "2024-02-22 17:07:55 -0700",
+      "minecraft:drowned": "2024-02-27 02:25:08 -0700",
       "minecraft:zombie_villager": "2024-02-03 01:34:01 -0700",
       "minecraft:slime": "2023-01-14 15:17:27 -0700",
       "minecraft:evoker": "2024-02-24 23:59:41 -0700"
@@ -2339,6 +2347,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-02-27 01:31:57 -0700",
       "cooked_chicken": "2023-07-04 18:16:18 -0600",
       "rotten_flesh": "2024-01-04 22:02:00 -0700",
       "potato": "2024-02-11 20:00:57 -0700",
@@ -4487,15 +4496,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-02-25 18:41:50 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/bamboo_mosaic": {
     "criteria": {
       "has_bamboo_slab": "2024-02-25 18:30:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-02-25 18:41:50 -0700"
     },
     "done": true
   },
@@ -4516,6 +4525,108 @@
       "minecraft:white": "2024-02-25 18:52:31 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-02-27 02:02:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-02-27 02:02:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2024-02-27 02:56:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-02-27 02:02:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-02-27 02:06:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-02-27 01:48:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-02-27 01:28:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-02-27 01:48:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
   },
   "DataVersion": 3700
 }
