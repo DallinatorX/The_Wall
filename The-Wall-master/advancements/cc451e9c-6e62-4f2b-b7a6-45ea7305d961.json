@@ -4526,9 +4526,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-02-27 01:28:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-02-27 01:48:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-02-27 01:48:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-02-27 02:02:39 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2024-02-27 02:02:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-02-27 02:02:55 -0700"
     },
     "done": true
   },
@@ -4562,27 +4592,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2024-02-27 02:02:39 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2024-02-27 02:04:31 -0700"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tadpole_in_a_bucket": {
-    "criteria": {
-      "tadpole_bucket": "2024-02-27 02:56:55 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2024-02-27 02:02:55 -0700"
     },
     "done": true
   },
@@ -4598,33 +4610,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-02-27 02:04:31 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2024-02-27 02:06:09 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+  "minecraft:husbandry/tadpole_in_a_bucket": {
     "criteria": {
-      "has_cut_sandstone": "2024-02-27 01:48:06 -0700"
+      "tadpole_bucket": "2024-02-27 02:56:55 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_dye": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_cactus": "2024-02-27 01:28:06 -0700"
+      "has_the_recipe": "2024-02-29 00:57:40 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
-      "has_cut_sandstone": "2024-02-27 01:48:06 -0700"
+      "has_the_recipe": "2024-02-29 00:57:40 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_slab": {
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
-      "has_planks": "2024-02-27 02:04:31 -0700"
+      "has_the_recipe": "2024-02-29 00:57:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-02-29 01:31:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-02-29 00:58:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-02-29 01:50:51 -0700"
     },
     "done": true
   },
