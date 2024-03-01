@@ -4646,15 +4646,15 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-02-29 01:31:16 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-02-29 00:58:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-02-29 01:31:16 -0700"
     },
     "done": true
   },
