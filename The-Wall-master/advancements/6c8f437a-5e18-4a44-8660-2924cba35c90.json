@@ -567,6 +567,7 @@
       "minecraft:windswept_hills": "2018-11-21 11:58:50 -0700",
       "minecraft:old_growth_spruce_taiga": "2024-02-25 01:48:46 -0700",
       "minecraft:wooded_badlands": "2019-02-15 23:02:36 -0700",
+      "minecraft:bamboo_jungle": "2024-03-02 00:01:41 -0700",
       "minecraft:warm_ocean": "2019-01-13 00:15:16 -0700",
       "minecraft:deep_lukewarm_ocean": "2018-11-23 03:16:07 -0700",
       "minecraft:badlands": "2019-02-05 12:13:05 -0700",
@@ -5956,6 +5957,49 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-02-29 00:11:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-03-01 15:33:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-03-01 15:33:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-03-01 22:04:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-03-01 22:04:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-03-02 00:19:18 -0700",
+      "ocean_ruin_warm": "2024-03-02 00:17:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-03-02 00:17:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/feed_snifflet": {
+    "criteria": {
+      "feed_snifflet": "2024-03-02 01:17:55 -0700"
     },
     "done": true
   },

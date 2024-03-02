@@ -5631,27 +5631,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
-    "criteria": {
-      "has_red_sandstone": "2024-02-24 01:16:06 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-02-24 01:37:19 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2024-02-24 00:29:28 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
-      "has_red_sandstone": "2024-02-24 01:16:06 -0700"
+      "has_needed_dye": "2024-02-24 00:29:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-02-24 00:29:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-02-24 00:29:28 -0700"
     },
     "done": true
   },
@@ -5661,15 +5661,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2024-02-24 01:16:06 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
-      "has_needed_dye": "2024-02-24 00:29:28 -0700"
+      "has_red_sandstone": "2024-02-24 01:16:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-02-24 01:16:06 -0700"
     },
     "done": true
   },
@@ -5691,24 +5697,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-02-24 01:37:19 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-02-24 00:29:28 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-02-24 00:29:28 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2024-02-24 01:16:06 -0700"
@@ -5718,12 +5706,6 @@
   "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2024-02-24 01:16:06 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2024-02-24 01:37:19 -0700"
     },
     "done": true
   },
@@ -5748,6 +5730,24 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2024-02-24 01:16:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-02-24 01:37:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-02-24 01:37:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2024-02-24 01:37:19 -0700"
     },
     "done": true
   },

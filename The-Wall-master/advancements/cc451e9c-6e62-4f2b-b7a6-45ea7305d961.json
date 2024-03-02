@@ -363,6 +363,9 @@
       "minecraft:old_growth_spruce_taiga": "2024-02-22 16:42:33 -0700",
       "minecraft:bamboo_jungle": "2024-02-25 01:13:46 -0700",
       "minecraft:wooded_badlands": "2024-02-27 01:41:43 -0700",
+      "minecraft:windswept_savanna": "2024-03-01 23:25:06 -0700",
+      "minecraft:warm_ocean": "2024-03-01 22:15:05 -0700",
+      "minecraft:deep_lukewarm_ocean": "2024-03-01 22:54:25 -0700",
       "minecraft:badlands": "2024-02-27 01:36:35 -0700",
       "minecraft:flower_forest": "2023-01-27 18:37:19 -0700",
       "minecraft:savanna_plateau": "2023-12-30 00:09:42 -0700",
@@ -378,6 +381,7 @@
       "minecraft:deep_dark": "2024-02-24 18:23:55 -0700",
       "minecraft:swamp": "2023-01-27 18:36:35 -0700",
       "minecraft:meadow": "2023-01-13 23:10:32 -0700",
+      "minecraft:windswept_gravelly_hills": "2024-03-01 19:33:03 -0700",
       "minecraft:savanna": "2023-12-30 00:09:40 -0700",
       "minecraft:plains": "2022-11-27 16:46:32 -0700"
     },
@@ -1094,17 +1098,18 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2024-02-27 02:58:37 -0700",
-      "minecraft:strider": "2024-02-22 02:28:18 -0700",
-      "minecraft:cow": "2023-06-09 23:37:23 -0600",
-      "minecraft:camel": "2024-02-27 02:43:17 -0700",
       "minecraft:fox": "2024-02-24 01:20:07 -0700",
       "minecraft:llama": "2024-02-22 17:11:22 -0700",
-      "minecraft:wolf": "2024-02-22 17:53:19 -0700",
-      "minecraft:panda": "2024-02-25 01:14:23 -0700",
       "minecraft:turtle": "2024-02-24 01:16:07 -0700",
       "minecraft:frog": "2024-02-27 02:47:38 -0700",
       "minecraft:mule": "2024-02-24 02:25:17 -0700",
-      "minecraft:bee": "2023-01-13 22:30:53 -0700"
+      "minecraft:strider": "2024-02-22 02:28:18 -0700",
+      "minecraft:cow": "2023-06-09 23:37:23 -0600",
+      "minecraft:camel": "2024-02-27 02:43:17 -0700",
+      "minecraft:wolf": "2024-02-22 17:53:19 -0700",
+      "minecraft:panda": "2024-02-25 01:14:23 -0700",
+      "minecraft:bee": "2023-01-13 22:30:53 -0700",
+      "minecraft:axolotl": "2024-03-02 00:26:40 -0700"
     },
     "done": false
   },
@@ -2350,6 +2355,7 @@
       "bread": "2024-02-27 01:31:57 -0700",
       "cooked_chicken": "2023-07-04 18:16:18 -0600",
       "rotten_flesh": "2024-01-04 22:02:00 -0700",
+      "suspicious_stew": "2024-03-01 19:56:02 -0700",
       "potato": "2024-02-11 20:00:57 -0700",
       "glow_berries": "2023-06-09 22:50:37 -0600",
       "sweet_berries": "2024-02-25 17:42:40 -0700",
@@ -4661,6 +4667,97 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2024-02-29 01:50:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-01 15:53:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-03-01 15:53:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2024-03-01 15:55:54 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2024-03-01 15:55:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-03-01 16:08:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-03-01 16:08:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-03-01 16:08:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2024-03-01 17:30:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-01 17:30:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2024-03-01 21:08:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-03-01 22:10:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-03-01 22:15:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-03-02 00:05:53 -0700",
+      "ocean_ruin_warm": "2024-03-01 22:16:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-03-01 22:44:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-03-02 00:06:27 -0700"
     },
     "done": true
   },
