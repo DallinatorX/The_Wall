@@ -63,6 +63,7 @@ world-settings:
       tick-inactive-villagers: true
       ignore-spectators: false
     entity-tracking-range:
+      display: 128
       players: 48
       animals: 48
       monsters: 48
@@ -90,6 +91,9 @@ world-settings:
     seed-fossil: 14357921
     seed-portal: 34222645
     growth:
+      twistingvines-modifier: 100
+      weepingvines-modifier: 100
+      cavevines-modifier: 100
       cactus-modifier: 100
       cane-modifier: 100
       melon-modifier: 100

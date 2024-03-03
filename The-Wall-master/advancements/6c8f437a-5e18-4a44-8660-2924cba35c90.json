@@ -1867,7 +1867,8 @@
       "minecraft:chicken": "2018-11-22 13:18:39 -0700",
       "minecraft:panda": "2024-02-29 00:00:43 -0700",
       "minecraft:rabbit": "2024-02-03 01:37:41 -0700",
-      "minecraft:bee": "2024-02-22 13:22:31 -0700"
+      "minecraft:bee": "2024-02-22 13:22:31 -0700",
+      "minecraft:axolotl": "2024-03-02 23:38:56 -0700"
     },
     "done": false
   },
@@ -5170,6 +5171,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:tabby": "2024-03-02 23:34:49 -0700",
       "minecraft:red": "2024-02-25 18:51:59 -0700"
     },
     "done": false
