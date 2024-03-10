@@ -1,9 +1,1 @@
-[09:26:11] [User Authenticator #6/INFO]: Disconnecting Dallinator_X (/141.98.255.150:53946): Failed to verify username!
-[09:26:11] [User Authenticator #6/ERROR]: Username 'Dallinator_X' tried to join with an invalid session
-[09:26:11] [Server thread/INFO]: Dallinator_X (/141.98.255.150:53946) lost connection: Failed to verify username!
-[19:54:46] [User Authenticator #7/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[19:54:46] [Server thread/INFO]: KROD_DA_KROD joined the game
-[19:54:46] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.2:43942] logged in with entity id 68030 at ([The-Wall-master]-1150.9143415652343, 63.0, 7966.582021799986)
-[19:56:12] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[19:56:12] [Server thread/INFO]: KROD_DA_KROD left the game
-[22:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[01:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
