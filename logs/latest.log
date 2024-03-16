@@ -1,86 +1,493 @@
-[00:45:39] [User Authenticator #11/INFO]: Disconnecting BreachForums (/82.102.19.79:39886): Failed to verify username!
-[00:45:39] [User Authenticator #11/ERROR]: Username 'BreachForums' tried to join with an invalid session
-[00:45:39] [Server thread/INFO]: BreachForums (/82.102.19.79:39886) lost connection: Failed to verify username!
-[02:22:54] [User Authenticator #12/INFO]: UUID of player Wester_Island is 06c16ebf-c76c-4d32-965c-764e79956ad0
-[02:22:55] [Server thread/INFO]: Wester_Island joined the game
-[02:22:55] [Server thread/INFO]: Wester_Island[/206.83.125.60:22633] logged in with entity id 102583 at ([The-Wall-master]-224.07226914632034, 11.0, 272.4544051101513)
-[02:23:12] [Server thread/INFO]: Wester_Island issued server command: /kill
-[02:23:12] [Server thread/INFO]: Wester_Island was killed
-[02:23:12] [Server thread/INFO]: [Wester_Island: Killed Wester_Island]
-[02:24:14] [Server thread/INFO]: Wester_Island issued server command: /time set day
-[02:24:14] [Server thread/INFO]: [Wester_Island: Set the time to 1000]
-[02:26:06] [Server thread/INFO]: Wester_Island issued server command: /kill
-[02:26:06] [Server thread/INFO]: Wester_Island was killed
-[02:26:06] [Server thread/INFO]: [Wester_Island: Killed Wester_Island]
-[02:31:23] [Server thread/INFO]: Wester_Island issued server command: /kill
-[02:31:23] [Server thread/INFO]: Wester_Island was killed
-[02:31:23] [Server thread/INFO]: [Wester_Island: Killed Wester_Island]
-[02:32:06] [Server thread/INFO]: Wester_Island fell from a high place
-[02:34:17] [Server thread/INFO]: Wester_Island has made the advancement [The Parrots and the Bats]
-[02:39:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
-[02:45:50] [Server thread/INFO]: Wester_Island has made the advancement [Cover Me with Diamonds]
-[02:52:54] [Server thread/INFO]: Wester_Island issued server command: /
-[02:58:43] [Server thread/INFO]: Wester_Island issued server command: /kill
-[02:58:43] [Server thread/INFO]: Wester_Island was killed
-[02:58:43] [Server thread/INFO]: [Wester_Island: Killed Wester_Island]
-[02:58:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
-[03:03:05] [Server thread/INFO]: Wester_Island issued server command: /gamemode spectator
-[03:03:05] [Server thread/INFO]: [Wester_Island: Set own game mode to Spectator Mode]
-[03:03:13] [User Authenticator #13/INFO]: Disconnecting Herobrine (/151.115.73.107:36200): Failed to verify username!
-[03:03:13] [User Authenticator #13/ERROR]: Username 'Herobrine' tried to join with an invalid session
-[03:03:13] [Server thread/INFO]: Herobrine (/151.115.73.107:36200) lost connection: Failed to verify username!
-[03:07:32] [Server thread/INFO]: Wester_Island has made the advancement [A Terrible Fortress]
-[03:07:39] [Server thread/INFO]: Wester_Island issued server command: /gamemode survival
-[03:07:39] [Server thread/INFO]: [Wester_Island: Set own game mode to Survival Mode]
-[03:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7555ms or 151 ticks behind
-[03:09:06] [Server thread/INFO]: Wester_Island lost connection: Timed out
-[03:09:14] [Server thread/INFO]: Wester_Island left the game.
-[03:09:27] [Server thread/WARN]: handleDisconnection() called twice
-[03:10:02] [Server thread/INFO]: Wester_Island (/206.83.125.60:42690) lost connection: Disconnected
-[03:10:55] [Server thread/INFO]: Wester_Island (/206.83.125.60:28735) lost connection: Disconnected
-[03:11:11] [Server thread/INFO]: Wester_Island (/206.83.125.60:31887) lost connection: Disconnected
-[03:11:56] [Server thread/INFO]: Wester_Island (/206.83.125.60:8578) lost connection: Disconnected
-[03:12:35] [Server thread/INFO]: Wester_Island (/206.83.125.60:13450) lost connection: Disconnected
-[03:12:43] [User Authenticator #16/INFO]: Disconnecting Wester_Island (/206.83.125.60:31887): Authentication servers are down. Please try again later, sorry!
-[03:12:43] [User Authenticator #17/INFO]: Disconnecting Wester_Island (/206.83.125.60:8578): Authentication servers are down. Please try again later, sorry!
-[03:12:43] [User Authenticator #14/INFO]: Disconnecting Wester_Island (/206.83.125.60:42690): Authentication servers are down. Please try again later, sorry!
-[03:12:43] [User Authenticator #15/INFO]: Disconnecting Wester_Island (/206.83.125.60:28735): Authentication servers are down. Please try again later, sorry!
-[03:12:51] [User Authenticator #17/ERROR]: Couldn't verify username because servers are unavailable
-[03:12:51] [User Authenticator #16/ERROR]: Couldn't verify username because servers are unavailable
-[03:12:52] [User Authenticator #14/ERROR]: Couldn't verify username because servers are unavailable
-[03:12:52] [User Authenticator #15/ERROR]: Couldn't verify username because servers are unavailable
-[03:12:59] [Server thread/INFO]: Wester_Island (/206.83.125.60:3802) lost connection: Disconnected
-[03:13:02] [User Authenticator #18/INFO]: Disconnecting Wester_Island (/206.83.125.60:13450): Authentication servers are down. Please try again later, sorry!
-[03:13:05] [User Authenticator #18/ERROR]: Couldn't verify username because servers are unavailable
-[03:13:08] [User Authenticator #19/INFO]: Disconnecting Wester_Island (/206.83.125.60:3802): Authentication servers are down. Please try again later, sorry!
-[03:13:10] [User Authenticator #19/ERROR]: Couldn't verify username because servers are unavailable
-[03:13:43] [Server thread/INFO]: Wester_Island (/206.83.125.60:2302) lost connection: Disconnected
-[03:14:16] [User Authenticator #21/INFO]: UUID of player Wester_Island is 06c16ebf-c76c-4d32-965c-764e79956ad0
-[03:14:21] [User Authenticator #20/INFO]: Disconnecting Wester_Island (/206.83.125.60:2302): Authentication servers are down. Please try again later, sorry!
-[03:14:22] [User Authenticator #20/ERROR]: Couldn't verify username because servers are unavailable
-[03:14:27] [Server thread/INFO]: Wester_Island (/206.83.125.60:63451) lost connection: Disconnected
-[03:14:28] [Server thread/WARN]: handleDisconnection() called twice
-[03:14:29] [Server thread/INFO]: Wester_Island (/206.83.125.60:28974) lost connection: Disconnected
-[03:14:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 363555ms or 7271 ticks behind
-[03:20:53] [Server thread/INFO]: Wester_Island (/206.83.125.60:38765) lost connection: Disconnected
-[03:21:41] [Server thread/INFO]: Wester_Island (/206.83.125.60:15289) lost connection: Disconnected
-[03:21:53] [User Authenticator #22/INFO]: Disconnecting Wester_Island (/206.83.125.60:38765): Authentication servers are down. Please try again later, sorry!
-[03:21:58] [User Authenticator #22/ERROR]: Couldn't verify username because servers are unavailable
-[03:21:57] [User Authenticator #23/INFO]: Disconnecting Wester_Island (/206.83.125.60:15289): Authentication servers are down. Please try again later, sorry!
-[03:22:03] [User Authenticator #23/ERROR]: Couldn't verify username because servers are unavailable
-[03:28:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 842822ms or 16856 ticks behind
-[03:42:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 790165ms or 15803 ticks behind
-[03:53:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 646584ms or 12931 ticks behind
-[04:23:37] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[04:24:01] [Spigot Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Spigot bug.
-[04:24:20] [Spigot Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
-[04:24:32] [Spigot Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
-[04:24:38] [Spigot Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
-[04:25:09] [Spigot Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
-[04:26:25] [Spigot Watchdog Thread/ERROR]: If you are unsure or still think this is a Spigot bug, please report to https://www.spigotmc.org/
-[04:26:31] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
-[04:27:19] [Spigot Watchdog Thread/ERROR]: Spigot version: 4054-Spigot-e9ec548-619936d (MC: 1.20.4)
-[04:27:29] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[04:27:37] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
-[04:40:14] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[04:42:44] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[20:32:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:32:53] [ServerMain/INFO]: Loaded 7 recipes
+[20:32:54] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:32:54] [Server thread/INFO]: Loading properties
+[20:32:54] [Server thread/INFO]: This server is running CraftBukkit version 4054-Spigot-e9ec548-619936d (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[20:32:54] [Server thread/INFO]: Debug logging is disabled
+[20:32:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:32:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:32:54] [Server thread/INFO]: Default game type: SURVIVAL
+[20:32:54] [Server thread/INFO]: Generating keypair
+[20:32:54] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[20:32:54] [Server thread/INFO]: Using epoll channel type
+[20:32:54] [Server thread/INFO]: [LANBroadcaster] Loading LANBroadcaster v1.6.2
+[20:32:54] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.3
+[20:32:54] [Server thread/INFO]: Preparing level "The-Wall-master"
+[20:32:54] [Server thread/INFO]: -------- World Settings For [The-Wall-master] --------
+[20:32:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:32:54] [Server thread/INFO]: Mob Spawn Range: 6
+[20:32:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:32:54] [Server thread/INFO]: Max TNT Explosions: 100
+[20:32:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:32:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[20:32:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[20:32:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[20:32:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[20:32:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:32:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:32:54] [Server thread/INFO]: View Distance: 32
+[20:32:54] [Server thread/INFO]: Simulation Distance: 32
+[20:32:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:32:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:32:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:32:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:32:55] [Server thread/INFO]: -------- World Settings For [The-Wall-master_nether] --------
+[20:32:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:32:55] [Server thread/INFO]: Mob Spawn Range: 6
+[20:32:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:32:55] [Server thread/INFO]: Max TNT Explosions: 100
+[20:32:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:32:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[20:32:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[20:32:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[20:32:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[20:32:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:32:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:32:55] [Server thread/INFO]: View Distance: 32
+[20:32:55] [Server thread/INFO]: Simulation Distance: 32
+[20:32:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:32:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:32:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:32:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:32:57] [Server thread/INFO]: -------- World Settings For [The-Wall-master_the_end] --------
+[20:32:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:32:57] [Server thread/INFO]: Mob Spawn Range: 6
+[20:32:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:32:57] [Server thread/INFO]: Max TNT Explosions: 100
+[20:32:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:32:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[20:32:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[20:32:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[20:32:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[20:32:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:32:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:32:57] [Server thread/INFO]: View Distance: 32
+[20:32:57] [Server thread/INFO]: Simulation Distance: 32
+[20:32:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:32:57] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:32:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:32:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:32:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:33:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:33:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:33:02] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[20:33:02] [Server thread/INFO]: Preparing spawn area: 100%
+[20:33:02] [Server thread/INFO]: Time elapsed: 5565 ms
+[20:33:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:33:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:33:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:33:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:33:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:33:05] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[20:33:05] [Server thread/INFO]: Time elapsed: 2715 ms
+[20:33:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:33:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:08] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[20:33:09] [Server thread/INFO]: Time elapsed: 3288 ms
+[20:33:09] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
+[20:33:09] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
+[20:33:09] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[20:33:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:33:09] [Server thread/INFO]: Done (14.168s)! For help, type "help"
+[20:33:09] [Craft Scheduler Thread - 0/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
+[20:33:31] [User Authenticator #1/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[20:33:31] [Server thread/INFO]: Dallinator_X joined the game
+[20:33:31] [Server thread/INFO]: Dallinator_X[/192.168.1.2:56252] logged in with entity id 1576 at ([The-Wall-master_nether]-33.62388150897921, 17.137712684223413, 24.593775659896515)
+[20:34:50] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[20:34:50] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[20:34:52] [Server thread/INFO]: Dallinator_X issued server command: /kill\
+[20:34:54] [Server thread/INFO]: Dallinator_X issued server command: /kill
+[20:34:54] [Server thread/INFO]: Dallinator_X was killed
+[20:34:54] [Server thread/INFO]: [Dallinator_X: Killed Dallinator_X]
+[20:38:09] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[20:38:09] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[20:48:18] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[20:48:18] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[21:01:40] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[21:01:40] [Server thread/INFO]: Dallinator_X left the game
+[21:38:43] [Server thread/INFO]: Villager EntityVillager['Villager'/239, l='ServerLevel[The-Wall-master]', x=-247.84, y=15.00, z=206.71] died, message: 'Villager hit the ground too hard'
+[22:15:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
+[22:20:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 294486ms or 5889 ticks behind
+[22:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49842ms or 996 ticks behind
+[22:30:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 494887ms or 9897 ticks behind
+[22:33:36] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:33:38] [Spigot Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Spigot bug.
+[22:33:38] [Spigot Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[22:33:39] [Spigot Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[22:33:39] [Spigot Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[22:33:39] [Spigot Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[22:33:39] [Spigot Watchdog Thread/ERROR]: If you are unsure or still think this is a Spigot bug, please report to https://www.spigotmc.org/
+[22:33:39] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[22:33:40] [Spigot Watchdog Thread/ERROR]: Spigot version: 4054-Spigot-e9ec548-619936d (MC: 1.20.4)
+[22:33:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:33:41] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
+[22:33:44] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:33:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[22:33:45] [Spigot Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: RUNNABLE
+[22:33:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.control.ControllerMove.a(SourceFile:104)
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityInsentient.fi(EntityInsentient.java:912)
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityLiving.d_(EntityLiving.java:3202)
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityInsentient.d_(EntityInsentient.java:663)
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityAgeable.d_(EntityAgeable.java:154)
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.EntityAnimal.d_(EntityAnimal.java:64)
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.EntityChicken.d_(EntityChicken.java:81)
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityLiving.l(EntityLiving.java:2935)
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityInsentient.l(EntityInsentient.java:425)
+[22:33:46] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer.a(WorldServer.java:882)
+[22:33:47] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda$7452/0x0000000801adaf80.accept(Unknown Source)
+[22:33:47] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.World.a(World.java:686)
+[22:33:47] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer.lambda$8(WorldServer.java:452)
+[22:33:47] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda$7451/0x0000000801adad60.accept(Unknown Source)
+[22:33:47] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54)
+[22:33:48] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer.a(WorldServer.java:432)
+[22:33:48] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1384)
+[22:33:48] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:387)
+[22:33:48] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1242)
+[22:33:49] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1054)
+[22:33:49] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[22:33:49] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5969/0x00000008015e69a0.run(Unknown Source)
+[22:33:49] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:33:50] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:33:50] [Spigot Watchdog Thread/ERROR]: Entire Thread Dump:
+[22:33:59] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:33:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 212374ms or 4247 ticks behind
+[22:34:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[22:34:00] [Spigot Watchdog Thread/ERROR]: 	PID: 2 | Suspended: false | Native: false | State: RUNNABLE
+[22:34:00] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:01] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+[22:34:01] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.Reference.processPendingReferences(Reference.java:253)
+[22:34:01] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: Finalizer
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 3 | Suspended: false | Native: false | State: WAITING
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Object.wait(Native Method)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:183)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 4 | Suspended: false | Native: false | State: RUNNABLE
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: Notification Thread
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 11 | Suspended: false | Native: false | State: RUNNABLE
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: Common-Cleaner
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 12 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Object.wait(Native Method)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 14 | Suspended: false | Native: false | State: RUNNABLE
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: JNA Cleaner
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: WAITING
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Object.wait(Native Method)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		com.sun.jna.internal.Cleaner$1.run(Cleaner.java:58)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: Timer hack thread
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.sleep(Native Method)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.SystemUtils$9.run(SourceFile:833)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: Yggdrasil Key Fetcher
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/jdk.internal.misc.Unsafe.park(Native Method)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: RUNNABLE
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.DataPaletteBlock.a(SourceFile:158)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.DataPaletteBlock.a(SourceFile:152)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkSection.b(ChunkSection.java:46)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.Chunk.a(Chunk.java:240)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.Chunk.b_(Chunk.java:229)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.ChunkCache.b_(SourceFile:126)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal.a(SourceFile:534)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal.a(SourceFile:515)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal.a(SourceFile:485)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal.a(SourceFile:429)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal.a(SourceFile:390)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal.a(SourceFile:480)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal$$Lambda$7550/0x0000000801afe8c8.get(Unknown Source)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.computeIfAbsent(Long2ObjectOpenHashMap.java:454)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal.a(SourceFile:480)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal.a(SourceFile:263)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.PathfinderNormal.a(SourceFile:153)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.Pathfinder.a(SourceFile:105)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.pathfinder.Pathfinder.a(SourceFile:50)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.navigation.NavigationAbstract.a(SourceFile:207)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.navigation.NavigationAbstract.a(SourceFile:179)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.navigation.NavigationAbstract.a(SourceFile:156)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.navigation.Navigation.a(SourceFile:56)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.BehavorMove.a(SourceFile:137)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.BehavorMove.d(SourceFile:127)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.BehavorMove.c(SourceFile:26)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.Behavior.f(SourceFile:66)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.BehaviorController.e(SourceFile:548)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.BehaviorController.a(SourceFile:493)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.npc.EntityVillager.Z(EntityVillager.java:242)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.entity.npc.EntityVillager.inactiveTick(EntityVillager.java:233)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer.a(WorldServer.java:869)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda$7452/0x0000000801adaf80.accept(Unknown Source)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.World.a(World.java:686)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer.lambda$8(WorldServer.java:452)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda$7451/0x0000000801adad60.accept(Unknown Source)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer.a(WorldServer.java:432)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1384)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:387)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1242)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1054)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5969/0x00000008015e69a0.run(Unknown Source)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: TerminalConsoleWriter
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: WAITING
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/jdk.internal.misc.Unsafe.park(Native Method)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3464)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3435)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		com.mojang.logging.LogQueues.getNextLogEvent(LogQueues.java:41)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R3.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:31)
+[22:34:02] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:02] [Spigot Watchdog Thread/ERROR]: Current Thread: Server console handler
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: true | State: RUNNABLE
+[22:34:02] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@18.0.2-ea/java.io.BufferedInputStream.read(BufferedInputStream.java:263)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		Locked on:jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		Locked on:jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.io.FileInputStream.readBytes(Native Method)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.io.FileInputStream.read(FileInputStream.java:276)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.io.BufferedInputStream.fill(BufferedInputStream.java:244)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.io.BufferedInputStream.read(BufferedInputStream.java:263)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		jline.console.ConsoleReader.readLine(ConsoleReader.java:2333)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		jline.console.ConsoleReader.readLine(ConsoleReader.java:2257)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:119)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:03] [Spigot Watchdog Thread/ERROR]: Current Thread: Java2D Disposer
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	PID: 32 | Suspended: false | Native: false | State: WAITING
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Object.wait(Native Method)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.desktop@18.0.2-ea/sun.java2d.Disposer.run(Disposer.java:145)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:03] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Watchdog Thread
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	PID: 34 | Suspended: false | Native: false | State: RUNNABLE
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.management@18.0.2-ea/sun.management.ThreadImpl.dumpThreads0(Native Method)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.management@18.0.2-ea/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:521)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.management@18.0.2-ea/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:509)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:90)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:03] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	PID: 35 | Suspended: false | Native: true | State: RUNNABLE
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.nio.ch.SocketDispatcher.read0(Native Method)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:47)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.nio.ch.NioSocketImpl.tryRead(NioSocketImpl.java:258)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:309)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:347)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:800)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.net.Socket$SocketInputStream.read(Socket.java:966)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1505)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1420)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:578)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:183)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1430)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1401)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:220)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.Metrics.postPlugin(Metrics.java:426)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.Metrics$1.run(Metrics.java:236)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.TimerThread.mainLoop(Timer.java:566)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.TimerThread.run(Timer.java:516)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:03] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #0
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:209)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:202)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:03] [Spigot Watchdog Thread/ERROR]: Current Thread: pool-6-thread-1
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	PID: 44 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/jdk.internal.misc.Unsafe.park(Native Method)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:03] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:03] [Spigot Watchdog Thread/ERROR]: Current Thread: Craft Scheduler Thread - 0
+[22:34:03] [Spigot Watchdog Thread/ERROR]: 	PID: 45 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.sleep(Native Method)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		com.gitlab.ruany.lanbroadcaster.LANBroadcaster.broadcast(LANBroadcaster.java:59)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		com.gitlab.ruany.lanbroadcaster.LANBroadcaster.run(LANBroadcaster.java:43)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:04] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #1
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: true | State: RUNNABLE
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:209)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:202)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:04] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #2
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 	PID: 61 | Suspended: false | Native: true | State: RUNNABLE
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:209)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:202)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:04] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #3
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 	PID: 82 | Suspended: false | Native: true | State: RUNNABLE
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:209)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:202)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: 		java.base@18.0.2-ea/java.lang.Thread.run(Thread.java:833)
+[22:34:04] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[22:34:05] [Spigot Watchdog Thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
+[22:34:05] [Spigot Watchdog Thread/INFO]: Stopping server
+[22:34:06] [Spigot Watchdog Thread/INFO]: [NoMobGriefing] Disabling NoMobGriefing v3.0.3
+[22:34:06] [Spigot Watchdog Thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been disabled.***
+[22:34:08] [Spigot Watchdog Thread/INFO]: [LANBroadcaster] Disabling LANBroadcaster v1.6.2
+[22:34:09] [Spigot Watchdog Thread/INFO]: Saving players
+[22:34:09] [Spigot Watchdog Thread/INFO]: Saving worlds
