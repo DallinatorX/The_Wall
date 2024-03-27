@@ -4971,5 +4971,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2024-03-25 03:26:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-03-25 03:02:07 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
