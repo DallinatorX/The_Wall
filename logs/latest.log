@@ -1,1 +1,1 @@
-[00:33:49] [Server thread/INFO]: Villager EntityVillager['Fletcher'/168, l='ServerLevel[The-Wall-master]', x=-247.93, y=12.00, z=204.73] died, message: 'Fletcher hit the ground too hard'
+[00:42:06] [Server thread/INFO]: /62.171.168.169:59212 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received string length is longer than maximum allowed (21 > 16)
