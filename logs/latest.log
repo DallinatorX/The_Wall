@@ -1,1 +1,9 @@
 [00:42:06] [Server thread/INFO]: /62.171.168.169:59212 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received string length is longer than maximum allowed (21 > 16)
+[04:05:39] [Server thread/INFO]: Villager EntityVillager['Farmer'/162, l='ServerLevel[The-Wall-master]', x=-246.77, y=20.03, z=187.79] died, message: 'Farmer drowned'
+[14:04:18] [Server thread/INFO]: Villager EntityVillager['Fletcher'/154, l='ServerLevel[The-Wall-master]', x=-249.89, y=69.00, z=210.73] died, message: 'Fletcher hit the ground too hard'
+[14:06:31] [User Authenticator #1/INFO]: Disconnecting 855_FOR_TRUTH (/185.65.134.174:56878): Failed to verify username!
+[14:06:31] [User Authenticator #1/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
+[14:06:31] [Server thread/INFO]: 855_FOR_TRUTH (/185.65.134.174:56878) lost connection: Failed to verify username!
+[16:14:06] [Server thread/INFO]: Villager EntityVillager['Farmer'/559, l='ServerLevel[The-Wall-master]', x=-246.50, y=16.00, z=214.12] died, message: 'Farmer hit the ground too hard'
+[18:14:51] [Server thread/INFO]: Villager EntityVillager['Fletcher'/229, l='ServerLevel[The-Wall-master]', x=-248.32, y=55.00, z=206.71] died, message: 'Fletcher hit the ground too hard'
+[21:19:43] [Server thread/INFO]: Villager EntityVillager['Villager'/265, l='ServerLevel[The-Wall-master]', x=-250.69, y=56.00, z=214.48] died, message: 'Villager hit the ground too hard'
