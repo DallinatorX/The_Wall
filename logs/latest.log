@@ -1,5 +1,1 @@
-[09:17:06] [Server thread/INFO]: Villager EntityVillager['Fletcher'/254, l='ServerLevel[The-Wall-master]', x=-249.58, y=69.00, z=211.51] died, message: 'Fletcher hit the ground too hard'
-[12:28:11] [Server thread/INFO]: Villager EntityVillager['Villager'/226, l='ServerLevel[The-Wall-master]', x=-248.44, y=15.00, z=206.71] died, message: 'Villager hit the ground too hard'
-[16:49:00] [User Authenticator #4/INFO]: Disconnecting 855_FOR_TRUTH (/194.127.199.143:44624): Failed to verify username!
-[16:49:00] [User Authenticator #4/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
-[16:49:00] [Server thread/INFO]: 855_FOR_TRUTH (/194.127.199.143:44624) lost connection: Failed to verify username!
+[03:17:39] [Server thread/INFO]: Villager EntityVillager['Fletcher'/250, l='ServerLevel[The-Wall-master]', x=-250.68, y=64.00, z=214.69] died, message: 'Fletcher hit the ground too hard'
