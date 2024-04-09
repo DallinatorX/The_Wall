@@ -7,14 +7,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2024-04-08 08:42:43 -0600",
+      "minecraft:savanna_plateau": "2024-04-08 08:42:24 -0600",
       "minecraft:old_growth_pine_taiga": "2024-04-06 13:59:39 -0600",
       "minecraft:dark_forest": "2024-04-07 04:03:29 -0600",
       "minecraft:forest": "2024-04-06 13:32:39 -0600",
       "minecraft:taiga": "2024-04-06 13:52:15 -0600",
-      "minecraft:windswept_forest": "2024-04-06 13:55:35 -0600",
       "minecraft:river": "2024-04-07 04:03:12 -0600",
+      "minecraft:lukewarm_ocean": "2024-04-08 08:42:19 -0600",
+      "minecraft:eroded_badlands": "2024-04-08 08:42:41 -0600",
+      "minecraft:desert": "2024-04-08 08:42:31 -0600",
+      "minecraft:windswept_forest": "2024-04-06 13:55:35 -0600",
       "minecraft:swamp": "2024-04-07 04:03:13 -0600",
-      "minecraft:windswept_hills": "2024-04-06 13:33:09 -0600"
+      "minecraft:birch_forest": "2024-04-08 08:40:53 -0600",
+      "minecraft:windswept_hills": "2024-04-06 13:33:09 -0600",
+      "minecraft:savanna": "2024-04-08 08:42:23 -0600",
+      "minecraft:wooded_badlands": "2024-04-08 08:42:44 -0600",
+      "minecraft:plains": "2024-04-08 08:40:44 -0600"
     },
     "done": false
   },
@@ -710,7 +719,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2024-04-06 13:55:00 -0600"
+      "mutton": "2024-04-08 08:41:54 -0600",
+      "beef": "2024-04-06 13:55:00 -0600",
+      "melon_slice": "2024-04-08 08:32:01 -0600"
     },
     "done": false
   },
@@ -778,6 +789,72 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2024-04-07 04:03:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-04-08 08:37:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-04-08 08:37:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-04-08 08:39:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-04-08 08:39:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-04-08 08:39:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-04-08 08:40:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-04-08 08:40:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-04-08 08:40:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-04-08 08:45:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-04-08 08:45:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-04-08 08:45:01 -0600"
     },
     "done": true
   },
