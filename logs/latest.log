@@ -1,2 +1,6 @@
-[06:18:55] [Server thread/INFO]: Villager EntityVillager['Farmer'/182, l='ServerLevel[The-Wall-master]', x=-247.88, y=13.42, z=187.70] died, message: 'Farmer drowned'
-[10:30:14] [Server thread/INFO]: Villager EntityVillager['Farmer'/197, l='ServerLevel[The-Wall-master]', x=-250.70, y=16.00, z=214.70] died, message: 'Farmer hit the ground too hard'
+[00:11:45] [User Authenticator #5/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[00:11:48] [Server thread/INFO]: Dallinator_X joined the game
+[00:11:48] [Server thread/INFO]: Dallinator_X[/192.225.189.118:53936] logged in with entity id 74471 at ([The-Wall-master]-340.3641979447294, 78.98531115788624, -55.84269315408365)
+[00:16:29] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[00:16:29] [Server thread/INFO]: Dallinator_X left the game
+[03:10:20] [Server thread/INFO]: Villager EntityVillager['Mason'/315, l='ServerLevel[The-Wall-master]', x=-250.70, y=16.00, z=214.63] died, message: 'Mason hit the ground too hard'
