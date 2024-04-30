@@ -1,6 +1,3 @@
-[00:11:45] [User Authenticator #5/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[00:11:48] [Server thread/INFO]: Dallinator_X joined the game
-[00:11:48] [Server thread/INFO]: Dallinator_X[/192.225.189.118:53936] logged in with entity id 74471 at ([The-Wall-master]-340.3641979447294, 78.98531115788624, -55.84269315408365)
-[00:16:29] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[00:16:29] [Server thread/INFO]: Dallinator_X left the game
-[03:10:20] [Server thread/INFO]: Villager EntityVillager['Mason'/315, l='ServerLevel[The-Wall-master]', x=-250.70, y=16.00, z=214.63] died, message: 'Mason hit the ground too hard'
+[20:51:10] [User Authenticator #6/INFO]: Disconnecting 855_FOR_TRUTH (/82.102.19.79:43900): Failed to verify username!
+[20:51:10] [User Authenticator #6/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
+[20:51:10] [Server thread/INFO]: 855_FOR_TRUTH (/82.102.19.79:43900) lost connection: Failed to verify username!
