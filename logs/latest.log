@@ -1,4 +1,1 @@
-[04:46:10] [User Authenticator #1/INFO]: Disconnecting 855_FOR_TRUTH (/193.32.127.154:34216): Failed to verify username!
-[04:46:10] [User Authenticator #1/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
-[04:46:10] [Server thread/INFO]: 855_FOR_TRUTH (/193.32.127.154:34216) lost connection: Failed to verify username!
-[08:18:57] [Server thread/INFO]: Villager EntityVillager['Cleric'/441, l='ServerLevel[The-Wall-master]', x=-250.70, y=16.00, z=213.97] died, message: 'Cleric hit the ground too hard'
+[02:47:24] [Server thread/INFO]: Villager EntityVillager['Farmer'/413, l='ServerLevel[The-Wall-master]', x=-247.85, y=44.01, z=187.19] died, message: 'Farmer drowned'
