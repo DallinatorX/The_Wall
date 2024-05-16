@@ -1,1 +1,9 @@
 [02:47:24] [Server thread/INFO]: Villager EntityVillager['Farmer'/413, l='ServerLevel[The-Wall-master]', x=-247.85, y=44.01, z=187.19] died, message: 'Farmer drowned'
+[20:04:21] [User Authenticator #2/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[20:04:22] [Server thread/INFO]: Dallinator_X joined the game
+[20:04:22] [Server thread/INFO]: Dallinator_X[/192.225.189.118:45772] logged in with entity id 37236 at ([The-Wall-master]-212.04248010560767, 120.55653481062829, 160.6825199451984)
+[20:07:12] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[20:07:13] [Server thread/INFO]: Dallinator_X left the game
+[20:58:52] [User Authenticator #3/INFO]: Disconnecting 855_FOR_TRUTH (/146.70.144.91:33166): Failed to verify username!
+[20:58:52] [User Authenticator #3/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
+[20:58:52] [Server thread/INFO]: 855_FOR_TRUTH (/146.70.144.91:33166) lost connection: Failed to verify username!
