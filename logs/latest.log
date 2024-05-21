@@ -1,1 +1,3 @@
-[01:19:01] [Server thread/INFO]: Villager EntityVillager['Mason'/394, l='ServerLevel[The-Wall-master]', x=-250.70, y=16.00, z=214.65] died, message: 'Mason hit the ground too hard'
+[11:58:36] [User Authenticator #5/INFO]: Disconnecting 855_FOR_TRUTH (/193.32.127.142:53346): Failed to verify username!
+[11:58:36] [User Authenticator #5/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
+[11:58:36] [Server thread/INFO]: 855_FOR_TRUTH (/193.32.127.142:53346) lost connection: Failed to verify username!
