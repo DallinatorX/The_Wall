@@ -1,3 +1,1 @@
-[17:37:38] [User Authenticator #6/INFO]: Disconnecting 855_FOR_TRUTH (/141.98.255.153:53846): Failed to verify username!
-[17:37:38] [User Authenticator #6/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
-[17:37:38] [Server thread/INFO]: 855_FOR_TRUTH (/141.98.255.153:53846) lost connection: Failed to verify username!
+[03:58:28] [Server thread/INFO]: Villager EntityVillager['Librarian'/414, l='ServerLevel[The-Wall-master]', x=-250.61, y=16.00, z=214.01] died, message: 'Librarian hit the ground too hard'
