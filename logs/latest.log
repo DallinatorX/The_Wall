@@ -1,4 +1,6 @@
-[17:17:11] [Server thread/INFO]: Villager EntityVillager['Farmer'/270, l='ServerLevel[The-Wall-master]', x=-250.02, y=28.05, z=187.14] died, message: 'Farmer drowned'
-[18:24:17] [User Authenticator #1/INFO]: Disconnecting 855_FOR_TRUTH (/146.70.74.112:56348): Failed to verify username!
-[18:24:17] [User Authenticator #1/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
-[18:24:17] [Server thread/INFO]: 855_FOR_TRUTH (/146.70.74.112:56348) lost connection: Failed to verify username!
+[12:22:09] [User Authenticator #2/INFO]: UUID of player spitkov is b1d11a9d-3d98-4105-888e-be3c147a8321
+[12:22:11] [Server thread/INFO]: spitkov joined the game
+[12:22:11] [Server thread/INFO]: spitkov[/188.157.245.41:40135] logged in with entity id 16872 at ([The-Wall-master]-223.38834307782702, 71.0, -167.06969958587462)
+[12:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5953ms or 119 ticks behind
+[12:22:29] [Server thread/INFO]: spitkov lost connection: Disconnected
+[12:22:29] [Server thread/INFO]: spitkov left the game
