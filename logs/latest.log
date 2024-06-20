@@ -1,2 +1,6 @@
-[03:05:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4481ms or 89 ticks behind
-[11:37:13] [Server thread/INFO]: Villager EntityVillager['Farmer'/257, l='ServerLevel[The-Wall-master]', x=-250.22, y=31.45, z=187.26] died, message: 'Farmer drowned'
+[18:52:13] [User Authenticator #4/INFO]: Disconnecting bot (/188.228.111.150:55200): Failed to verify username!
+[18:52:13] [User Authenticator #4/ERROR]: Username 'bot' tried to join with an invalid session
+[18:52:13] [Server thread/INFO]: bot (/188.228.111.150:55200) lost connection: Failed to verify username!
+[20:04:43] [User Authenticator #5/INFO]: Disconnecting bot (/188.228.111.150:43922): Failed to verify username!
+[20:04:43] [User Authenticator #5/ERROR]: Username 'bot' tried to join with an invalid session
+[20:04:43] [Server thread/INFO]: bot (/188.228.111.150:43922) lost connection: Failed to verify username!
