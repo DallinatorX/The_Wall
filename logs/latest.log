@@ -1,6 +1,41 @@
-[18:52:13] [User Authenticator #4/INFO]: Disconnecting bot (/188.228.111.150:55200): Failed to verify username!
-[18:52:13] [User Authenticator #4/ERROR]: Username 'bot' tried to join with an invalid session
-[18:52:13] [Server thread/INFO]: bot (/188.228.111.150:55200) lost connection: Failed to verify username!
-[20:04:43] [User Authenticator #5/INFO]: Disconnecting bot (/188.228.111.150:43922): Failed to verify username!
-[20:04:43] [User Authenticator #5/ERROR]: Username 'bot' tried to join with an invalid session
-[20:04:43] [Server thread/INFO]: bot (/188.228.111.150:43922) lost connection: Failed to verify username!
+[10:32:49] [User Authenticator #6/INFO]: UUID of player spitkov is b1d11a9d-3d98-4105-888e-be3c147a8321
+[10:32:50] [Server thread/INFO]: spitkov joined the game
+[10:32:50] [Server thread/INFO]: spitkov[/188.157.245.41:17242] logged in with entity id 52962 at ([The-Wall-master]-217.6955168519474, 84.34831916728525, -157.20420621277287)
+[10:32:55] [Server thread/WARN]: spitkov moved too quickly! 10.101346438560313,5.231008791601724,20.005087948765777
+[10:32:59] [Server thread/WARN]: spitkov was kicked for floating too long!
+[10:32:59] [Server thread/INFO]: spitkov lost connection: Flying is not enabled on this server
+[10:32:59] [Server thread/INFO]: spitkov left the game.
+[10:32:59] [Server thread/WARN]: handleDisconnection() called twice
+[10:33:02] [User Authenticator #7/INFO]: UUID of player spitkov is b1d11a9d-3d98-4105-888e-be3c147a8321
+[10:33:02] [Server thread/INFO]: spitkov joined the game
+[10:33:02] [Server thread/INFO]: spitkov[/188.157.245.41:17261] logged in with entity id 54231 at ([The-Wall-master]-203.32156906806708, 130.5947608561346, -128.1345875601867)
+[10:33:13] [Server thread/INFO]: spitkov fell from a high place
+[10:33:24] [Server thread/INFO]: spitkov fell from a high place
+[10:33:55] [Server thread/WARN]: spitkov moved wrongly!
+[10:33:56] [Server thread/WARN]: spitkov moved wrongly!
+[10:33:57] [Server thread/WARN]: spitkov moved wrongly!
+[10:33:57] [Server thread/WARN]: spitkov moved wrongly!
+[10:33:58] [Server thread/WARN]: spitkov moved wrongly!
+[10:33:59] [Server thread/WARN]: spitkov moved wrongly!
+[10:34:00] [Server thread/WARN]: spitkov moved wrongly!
+[10:34:53] [Server thread/INFO]: spitkov lost connection: Disconnected
+[10:34:53] [Server thread/INFO]: spitkov left the game
+[10:36:32] [User Authenticator #8/INFO]: UUID of player spitkov is b1d11a9d-3d98-4105-888e-be3c147a8321
+[10:36:33] [Server thread/INFO]: spitkov joined the game
+[10:36:33] [Server thread/INFO]: spitkov[/188.157.245.41:17646] logged in with entity id 58418 at ([The-Wall-master]-348.7656757188448, 134.5744190786587, 215.872323530961)
+[10:38:10] [Server thread/WARN]: spitkov moved too quickly! -0.12936731996580875,-11.842011517166327,-0.3745249770821033
+[10:38:30] [Server thread/INFO]: spitkov was slain by Zombie
+[10:38:54] [Server thread/INFO]: spitkov was slain by Zombie
+[10:39:52] [Server thread/INFO]: spitkov lost connection: Disconnected
+[10:39:52] [Server thread/INFO]: spitkov left the game
+[10:40:04] [Server thread/INFO]: hatton (/188.157.245.41:18153) lost connection: Disconnected
+[10:40:13] [Server thread/INFO]: hatton (/188.157.245.41:18185) lost connection: Disconnected
+[13:25:59] [User Authenticator #9/INFO]: Disconnecting bot (/188.228.111.150:34170): Failed to verify username!
+[13:25:59] [User Authenticator #9/ERROR]: Username 'bot' tried to join with an invalid session
+[13:25:59] [Server thread/INFO]: bot (/188.228.111.150:34170) lost connection: Failed to verify username!
+[15:28:10] [User Authenticator #10/INFO]: Disconnecting bot (/188.228.111.150:52180): Failed to verify username!
+[15:28:10] [User Authenticator #10/ERROR]: Username 'bot' tried to join with an invalid session
+[15:28:10] [Server thread/INFO]: bot (/188.228.111.150:52180) lost connection: Failed to verify username!
+[19:33:30] [User Authenticator #11/INFO]: Disconnecting 855_FOR_TRUTH (/146.70.225.213:44438): Failed to verify username!
+[19:33:30] [User Authenticator #11/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
+[19:33:30] [Server thread/INFO]: 855_FOR_TRUTH (/146.70.225.213:44438) lost connection: Failed to verify username!
