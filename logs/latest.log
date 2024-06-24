@@ -1,3 +1,1 @@
-[21:18:49] [User Authenticator #12/INFO]: Disconnecting 855_FOR_TRUTH (/146.70.134.148:57346): Failed to verify username!
-[21:18:49] [User Authenticator #12/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
-[21:18:49] [Server thread/INFO]: 855_FOR_TRUTH (/146.70.134.148:57346) lost connection: Failed to verify username!
+[14:16:02] [Server thread/INFO]: Villager EntityVillager['Farmer'/245, l='ServerLevel[The-Wall-master]', x=-249.07, y=24.05, z=187.18] died, message: 'Farmer drowned'
