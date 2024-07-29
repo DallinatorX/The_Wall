@@ -1412,13 +1412,16 @@
       "minecraft:blaze": "2024-02-11 23:23:57 -0700",
       "minecraft:skeleton": "2023-06-09 22:56:25 -0600",
       "minecraft:phantom": "2024-01-31 17:15:17 -0700",
+      "minecraft:zombified_piglin": "2024-07-29 02:19:16 -0600",
       "minecraft:wither_skeleton": "2024-02-11 23:25:33 -0700",
+      "minecraft:husk": "2024-07-29 03:10:12 -0600",
       "minecraft:hoglin": "2024-02-11 22:19:11 -0700",
       "minecraft:shulker": "2023-12-31 17:19:20 -0700",
       "minecraft:cave_spider": "2023-01-27 17:40:25 -0700",
       "minecraft:piglin": "2024-02-11 22:10:53 -0700",
       "minecraft:vindicator": "2024-02-24 23:57:45 -0700",
       "minecraft:silverfish": "2024-02-03 00:11:12 -0700",
+      "minecraft:magma_cube": "2024-07-29 01:58:50 -0600",
       "minecraft:spider": "2023-07-04 18:13:50 -0600",
       "minecraft:vex": "2024-02-25 00:00:35 -0700",
       "minecraft:zombie": "2023-01-13 23:47:10 -0700",
@@ -2136,9 +2139,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-02-11 22:16:06 -0700",
       "minecraft:nether_wastes": "2023-01-27 20:10:08 -0700",
-      "minecraft:warped_forest": "2024-02-11 23:26:15 -0700"
+      "minecraft:soul_sand_valley": "2024-07-29 01:34:16 -0600",
+      "minecraft:warped_forest": "2024-02-11 23:26:15 -0700",
+      "minecraft:basalt_deltas": "2024-07-29 01:34:41 -0600"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -4977,11 +4982,59 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/turtle_helmet": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_scute": "2024-03-25 03:02:07 -0600"
+      "has_blaze_powder": "2024-07-29 01:40:00 -0600"
     },
     "done": true
   },
-  "DataVersion": 3700
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-07-29 01:40:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-07-29 01:40:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-07-29 01:45:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-07-29 01:59:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:temperate": "2024-07-29 02:34:53 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-07-29 03:26:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-07-29 03:15:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-07-29 03:27:14 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
 }

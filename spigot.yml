@@ -53,6 +53,7 @@ commands:
   send-namespaced: true
 world-settings:
   default:
+    unload-frozen-chunks: false
     below-zero-generation-in-existing-chunks: true
     verbose: true
     entity-activation-range:
