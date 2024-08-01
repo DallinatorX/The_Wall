@@ -6018,15 +6018,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
+      "has_smithing_trim_template": "2024-07-31 00:25:49 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
+      "has_rib_armor_trim_smithing_template": "2024-07-31 00:25:49 -0600"
     },
     "done": true
   },
@@ -6036,63 +6036,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_slab": {
-    "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_planks": "2024-07-31 00:39:14 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/tuff_wall": {
-    "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/copper_door": {
-    "criteria": {
-      "has_copper_ingot": "2024-07-31 01:18:52 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2024-07-31 00:39:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_stairs": {
-    "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
     },
     "done": true
   },
@@ -6114,9 +6066,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
-      "has_smithing_trim_template": "2024-07-31 00:25:49 -0600"
+      "has_planks": "2024-07-31 00:39:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-07-31 00:39:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-07-31 00:39:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
     },
     "done": true
   },
@@ -6126,21 +6144,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_button": {
-    "criteria": {
-      "has_planks": "2024-07-31 00:39:14 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-07-31 01:01:23 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2024-07-31 00:39:14 -0600"
     },
     "done": true
   },
@@ -6162,12 +6168,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2024-07-31 00:25:49 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2024-07-31 01:01:23 -0600"
@@ -6180,21 +6180,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-07-31 01:01:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-31 01:18:52 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2024-07-31 01:18:52 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_slab": {
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
-      "has_planks": "2024-07-31 00:39:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2024-07-31 01:01:23 -0600"
+      "has_pitcher_plant": "2024-07-31 13:39:05 -0600"
     },
     "done": true
   },
