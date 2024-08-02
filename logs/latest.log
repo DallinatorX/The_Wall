@@ -5,3 +5,39 @@
 [00:31:26] [Server thread/INFO]: Dallinator_X[/192.168.1.2:47862] logged in with entity id 661273 at ([The-Wall-master]-258.2520449168542, 16.0, 281.4144311759409)
 [02:39:15] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
 [02:39:15] [Server thread/INFO]: Dallinator_X left the game
+[12:53:41] [User Authenticator #26/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[12:53:42] [Server thread/INFO]: Dallinator_X joined the game
+[12:53:42] [Server thread/INFO]: Dallinator_X[/192.168.1.2:37760] logged in with entity id 826751 at ([The-Wall-master]-249.98746510806015, 15.0, 280.4134990615198)
+[13:19:30] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[13:19:30] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[13:19:38] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[13:19:38] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[13:21:28] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[13:21:28] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[13:21:53] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[13:21:53] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[13:22:12] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[13:22:12] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[13:22:16] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[13:22:16] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[13:23:28] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[13:23:28] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[13:23:40] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[13:23:40] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[14:59:07] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[14:59:07] [Server thread/INFO]: Dallinator_X left the game
+[16:20:43] [User Authenticator #27/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[16:20:44] [Server thread/INFO]: Dallinator_X joined the game
+[16:20:44] [Server thread/INFO]: Dallinator_X[/192.168.1.2:51300] logged in with entity id 905784 at ([The-Wall-master]-242.30000001192093, 19.0, 285.32628840482306)
+[16:22:33] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[16:22:33] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[16:22:42] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[16:22:42] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[16:27:03] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[16:27:03] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[16:28:53] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[16:28:53] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[16:29:09] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[16:29:09] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[16:40:06] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[16:40:06] [Server thread/INFO]: Dallinator_X left the game
