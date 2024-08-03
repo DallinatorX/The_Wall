@@ -1,43 +1,288 @@
-[00:13:28] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[00:13:28] [Server thread/INFO]: Dallinator_X left the game
-[00:31:25] [User Authenticator #25/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[00:31:26] [Server thread/INFO]: Dallinator_X joined the game
-[00:31:26] [Server thread/INFO]: Dallinator_X[/192.168.1.2:47862] logged in with entity id 661273 at ([The-Wall-master]-258.2520449168542, 16.0, 281.4144311759409)
-[02:39:15] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[02:39:15] [Server thread/INFO]: Dallinator_X left the game
-[12:53:41] [User Authenticator #26/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[12:53:42] [Server thread/INFO]: Dallinator_X joined the game
-[12:53:42] [Server thread/INFO]: Dallinator_X[/192.168.1.2:37760] logged in with entity id 826751 at ([The-Wall-master]-249.98746510806015, 15.0, 280.4134990615198)
-[13:19:30] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[13:19:30] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[13:19:38] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[13:19:38] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[13:21:28] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[13:21:28] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[13:21:53] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[13:21:53] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[13:22:12] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[13:22:12] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[13:22:16] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[13:22:16] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[13:23:28] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[13:23:28] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[13:23:40] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[13:23:40] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[14:59:07] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[14:59:07] [Server thread/INFO]: Dallinator_X left the game
-[16:20:43] [User Authenticator #27/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[16:20:44] [Server thread/INFO]: Dallinator_X joined the game
-[16:20:44] [Server thread/INFO]: Dallinator_X[/192.168.1.2:51300] logged in with entity id 905784 at ([The-Wall-master]-242.30000001192093, 19.0, 285.32628840482306)
-[16:22:33] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[16:22:33] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[16:22:42] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[16:22:42] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[16:27:03] [Server thread/INFO]: Dallinator_X issued server command: /time set day
-[16:27:03] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
-[16:28:53] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[16:28:53] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[16:29:09] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
-[16:29:09] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
-[16:40:06] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[16:40:06] [Server thread/INFO]: Dallinator_X left the game
+[00:26:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:26:44] [ServerMain/INFO]: Loaded 1290 recipes
+[00:26:45] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:26:45] [Server thread/INFO]: Loading properties
+[00:26:45] [Server thread/INFO]: This server is running CraftBukkit version 4226-Spigot-146439e-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[00:26:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:26:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:26:46] [Server thread/INFO]: Debug logging is disabled
+[00:26:46] [Server thread/INFO]: Default game type: SURVIVAL
+[00:26:46] [Server thread/INFO]: Generating keypair
+[00:26:46] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[00:26:46] [Server thread/INFO]: Using epoll channel type
+[00:26:46] [Server thread/INFO]: [LANBroadcaster] Loading LANBroadcaster v1.6.2
+[00:26:46] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.3
+[00:26:47] [Server thread/INFO]: Preparing level "The-Wall-master"
+[00:26:47] [Server thread/INFO]: -------- World Settings For [The-Wall-master] --------
+[00:26:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:26:47] [Server thread/INFO]: Mob Spawn Range: 6
+[00:26:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:26:47] [Server thread/INFO]: Max TNT Explosions: 100
+[00:26:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:26:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:26:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:26:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:26:47] [Server thread/INFO]: View Distance: 4
+[00:26:47] [Server thread/INFO]: Simulation Distance: 32
+[00:26:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:26:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:26:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:26:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:26:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:26:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:26:47] [Server thread/INFO]: -------- World Settings For [The-Wall-master_nether] --------
+[00:26:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:26:47] [Server thread/INFO]: Mob Spawn Range: 6
+[00:26:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:26:47] [Server thread/INFO]: Max TNT Explosions: 100
+[00:26:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:26:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:26:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:26:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:26:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:26:47] [Server thread/INFO]: View Distance: 4
+[00:26:47] [Server thread/INFO]: Simulation Distance: 32
+[00:26:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:26:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:26:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:26:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:26:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:26:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:26:49] [Server thread/INFO]: -------- World Settings For [The-Wall-master_the_end] --------
+[00:26:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:26:49] [Server thread/INFO]: Mob Spawn Range: 6
+[00:26:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:26:49] [Server thread/INFO]: Max TNT Explosions: 100
+[00:26:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:26:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:26:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:26:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:26:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:26:49] [Server thread/INFO]: View Distance: 4
+[00:26:49] [Server thread/INFO]: Simulation Distance: 32
+[00:26:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:26:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:26:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:26:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:26:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:26:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:26:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:26:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:26:50] [Server thread/INFO]: Time elapsed: 1072 ms
+[00:26:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:26:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:26:50] [Server thread/INFO]: Time elapsed: 488 ms
+[00:26:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:26:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:26:51] [Server thread/INFO]: Time elapsed: 220 ms
+[00:26:51] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
+[00:26:51] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
+[00:26:51] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[00:26:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:26:51] [Server thread/INFO]: Done (4.214s)! For help, type "help"
+[00:26:51] [Craft Scheduler Thread - 0/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
+[00:27:10] [User Authenticator #1/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[00:27:11] [Server thread/INFO]: Dallinator_X joined the game
+[00:27:11] [Server thread/INFO]: Dallinator_X[/192.168.1.2:42754] logged in with entity id 654 at ([The-Wall-master]-207.84734356791958, 129.61361917396275, 262.3578308620672)
+[00:27:33] [User Authenticator #2/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[00:27:35] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[00:27:35] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.25:13102] logged in with entity id 1056 at ([The-Wall-master]21154.65942275692, 118.0, 7646.249223149511)
+[00:27:39] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[00:27:39] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[00:27:44] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[00:27:44] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[00:28:02] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH Dallinator_X
+[00:28:02] [Server thread/INFO]: [Dallinator_X: Teleported 855_FOR_TRUTH to Dallinator_X]
+[00:29:49] [Async Chat Thread - #1/INFO]: <Dallinator_X> rip
+[00:30:40] [Async Chat Thread - #2/INFO]: <Dallinator_X> If kyle is still here, you could call me on your phone
+[00:34:51] [Server thread/INFO]: Dallinator_X hit the ground too hard
+[00:53:21] [Server thread/INFO]: Dallinator_X was slain by Zombie
+[00:53:23] [Server thread/INFO]: 855_FOR_TRUTH was slain by Zombie
+[00:53:33] [Server thread/INFO]: Dallinator_X was slain by Zombie
+[00:55:56] [Server thread/INFO]: 855_FOR_TRUTH was slain by Spider
+[01:04:07] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[01:04:07] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[01:05:27] [User Authenticator #3/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[01:05:28] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[01:05:28] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.25:13114] logged in with entity id 6633 at ([The-Wall-master]21158.6332705005, 43.0, 7725.699999988079)
+[01:13:18] [Server thread/INFO]: Dallinator_X was slain by Zombie
+[01:13:26] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:13:26] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:13:26] [Server thread/WARN]: Dallinator_X moved too quickly! 21380.79989792196,44.0,7385.7560201440265
+[01:14:54] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode
+[01:15:07] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[01:15:07] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[01:17:30] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[01:17:30] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[01:19:23] [Server thread/INFO]: 855_FOR_TRUTH fell from a high place
+[01:21:50] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[01:21:50] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[01:22:04] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Minecraft: Trial(s) Edition]
+[01:22:20] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[01:22:20] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[01:23:27] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:23:27] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:23:28] [Server thread/INFO]: Dallinator_X has made the advancement [Minecraft: Trial(s) Edition]
+[01:24:39] [Server thread/INFO]: 855_FOR_TRUTH was shot by Skeleton
+[01:25:01] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:25:01] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:25:14] [Server thread/INFO]: Dallinator_X was slain by Slime
+[01:25:16] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:25:16] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:27:56] [Server thread/INFO]: Dallinator_X was doomed to fall by Skeleton
+[01:27:59] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:27:59] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:27:59] [Server thread/WARN]: Dallinator_X moved too quickly! 57.04584496204552,-138.0,110.26433599569646
+[01:28:03] [Server thread/INFO]: 855_FOR_TRUTH was doomed to fall by Skeleton
+[01:28:20] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:28:20] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:28:56] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[01:28:58] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:28:58] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:28:58] [Server thread/WARN]: Dallinator_X moved too quickly! 66.88860817034947,-138.0,104.44221716383436
+[01:28:58] [Server thread/WARN]: Dallinator_X moved too quickly! 66.88860817034947,-138.0,104.44221716383436
+[01:28:58] [Server thread/WARN]: Dallinator_X moved too quickly! 66.88860817034947,-138.0,104.44221716383436
+[01:29:17] [Server thread/INFO]: 855_FOR_TRUTH was doomed to fall by Husk
+[01:29:23] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:29:23] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:29:44] [Server thread/INFO]: Dallinator_X was doomed to fall by Husk
+[01:29:47] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:29:47] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:29:47] [Server thread/WARN]: Dallinator_X moved too quickly! 74.81911867363306,-133.0,118.21098884247931
+[01:29:47] [Server thread/WARN]: Dallinator_X moved too quickly! 74.81911867363306,-133.0,118.21098884247931
+[01:29:47] [Server thread/WARN]: Dallinator_X moved too quickly! 74.81911867363306,-133.0,118.21098884247931
+[01:29:47] [Server thread/WARN]: Dallinator_X moved too quickly! 74.81911867363306,-133.0,118.21098884247931
+[01:29:47] [Server thread/WARN]: Dallinator_X moved too quickly! 74.81911867363306,-133.0,118.21098884247931
+[01:30:46] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[01:30:50] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:30:50] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:30:50] [Server thread/WARN]: Dallinator_X moved too quickly! 74.63462513218474,-138.0,98.87015816777512
+[01:31:01] [Server thread/INFO]: 855_FOR_TRUTH was shot by Skeleton
+[01:31:06] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:31:06] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:32:02] [Server thread/INFO]: 855_FOR_TRUTH fell from a high place
+[01:32:08] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:32:08] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:32:44] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[01:32:47] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:32:47] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:32:47] [Server thread/WARN]: Dallinator_X moved too quickly! 86.1892884074914,-151.5625,93.02136036030515
+[01:32:47] [Server thread/WARN]: Dallinator_X moved too quickly! 86.1892884074914,-151.5625,93.02136036030515
+[01:32:47] [Server thread/WARN]: Dallinator_X moved too quickly! 86.1892884074914,-151.5625,93.02136036030515
+[01:32:47] [Server thread/WARN]: Dallinator_X moved too quickly! 86.1892884074914,-151.5625,93.02136036030515
+[01:36:55] [Server thread/INFO]: 855_FOR_TRUTH was shot by Skeleton
+[01:37:09] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:37:09] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:38:59] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[01:39:03] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:39:03] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:39:03] [Server thread/WARN]: Dallinator_X moved too quickly! 120.69939040569079,-145.0,94.63185606183652
+[01:39:03] [Server thread/WARN]: Dallinator_X moved too quickly! 120.69939040569079,-145.0,94.63185606183652
+[01:39:03] [Server thread/WARN]: Dallinator_X moved too quickly! 120.69939040569079,-145.0,94.63185606183652
+[01:39:03] [Server thread/WARN]: Dallinator_X moved too quickly! 120.69939040569079,-145.0,94.63185606183652
+[01:42:49] [Server thread/INFO]: 855_FOR_TRUTH was shot by Skeleton
+[01:42:54] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:42:54] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:43:38] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Under Lock and Key]
+[01:44:00] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:44:00] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:44:00] [Server thread/WARN]: Dallinator_X moved too quickly! -15.238587734300381,9.5,8.249953079481202
+[01:44:06] [Server thread/INFO]: Dallinator_X has made the advancement [Under Lock and Key]
+[01:45:16] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[01:45:19] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[01:45:19] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[01:45:19] [Server thread/WARN]: Dallinator_X moved too quickly! 57.49208761756745,-145.0,106.12795885887135
+[01:47:51] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:47:51] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:55:26] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:55:26] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:56:33] [Server thread/INFO]: 855_FOR_TRUTH hit the ground too hard
+[01:56:40] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:56:40] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[01:56:55] [Server thread/INFO]: Dallinator_X fell from a high place
+[01:59:03] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[01:59:03] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[02:00:16] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[02:00:16] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[02:00:32] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[02:00:32] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[02:04:20] [Server thread/INFO]: 855_FOR_TRUTH fell from a high place
+[02:04:45] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[02:05:54] [Server thread/INFO]: 855_FOR_TRUTH was slain by Zombie
+[02:06:11] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[02:06:11] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[02:07:21] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[02:07:21] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[02:08:10] [Server thread/INFO]: Dallinator_X was slain by Husk
+[02:08:15] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[02:08:15] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[02:08:15] [Server thread/WARN]: Dallinator_X moved too quickly! 11.442150742233935,-5.0,4.460045318023731
+[02:12:13] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[02:12:13] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[02:12:18] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[02:12:18] [Server thread/INFO]: Dallinator_X left the game
+[02:13:37] [User Authenticator #4/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[02:13:38] [Server thread/INFO]: Dallinator_X joined the game
+[02:13:38] [Server thread/INFO]: Dallinator_X[/192.168.1.2:45580] logged in with entity id 18233 at ([The-Wall-master]21220.323115837702, -35.60520002424717, 7723.429169886622)
+[02:15:49] [Server thread/INFO]: Dallinator_X was shot by Skeleton
+[02:21:14] [Server thread/INFO]: Dallinator_X has made the advancement [Wax Off]
+[02:22:20] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[02:22:20] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[02:27:35] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[02:27:46] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[02:27:46] [Server thread/INFO]: Dallinator_X left the game
