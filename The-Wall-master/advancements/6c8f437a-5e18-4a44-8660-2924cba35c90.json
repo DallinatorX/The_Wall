@@ -6420,6 +6420,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2024-08-03 02:21:14 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2024-08-03 02:21:56 -0600"
@@ -6441,12 +6447,6 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2024-08-03 02:21:56 -0600"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2024-08-03 02:21:14 -0600"
     },
     "done": true
   },

@@ -1,0 +1,44 @@
+# Configurations for individual players can be found in the players directory
+# See prefixes.yml to change prefix distances
+
+################## Main settings ##################
+
+set-default-distance: true
+
+# Default view distance for anyone who joins the server (Must be between 2 and 32)
+default-distance: 32
+
+# Maximum view distance for anyone (Cannot exceed 32)
+max-distance: 32
+
+# Minimum view distance for anyone (Cannot be less than 2)
+min-distance: 2
+
+# Display a message when a player joins telling them what their view distance is set to
+display-msg-on-join: true
+
+# Display a message when a player joins telling them what their view distance is set to, when it is the default or maximum
+display-max-join-msg: false
+
+
+################## Messages ##################
+# Color codes may be used for this section using the '§' symbol
+
+join-msg: "§e§l(!) §eYour maximum view distance is currently set to {chunks} chunks"
+
+self-view-distance-change-msg: "§e§l(!) §eYou changed your maximum view distance to {chunks} chunks"
+
+player-offline-msg: "§c§l(!) §cThat player is not online!"
+
+# The message displayed for the command sender when they change someone else's maximum view distance
+sender-view-distance-change-msg: "§e§l(!) §e{target-player}'s maximum view distance was changed to {chunks} chunks"
+
+# The message displayed for a player when their maximum view distance has been changed
+target-view-distance-change-msg: "§e§l(!) §eYour maximum view distance has been changed to {chunks} chunks"
+
+# The message displayed when there are not enough arguments or the arguments are invalid
+incorrect-args: "§c§l(!) §cIncorrect arguments - Use /vd for help"
+
+prefix-chunks-set-msg: "§e§l(!) §eYour maximum view distance was set to {chunks} chunks because of your name's prefix"
+
+all-online-change-msg: "§e§l(!) §eThe maximum view distance of all online players has been set to {chunks} chunks"
