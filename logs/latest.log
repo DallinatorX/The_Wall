@@ -1,6 +1,5 @@
-[00:42:46] [User Authenticator #3/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[00:42:47] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[00:42:47] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
+[00:42:06] [User Authenticator #5/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[00:42:07] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
 org.bukkit.event.EventException: null
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
@@ -31,43 +30,113 @@ Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDi
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
 	... 22 more
-[00:42:47] [Server thread/INFO]: KROD_DA_KROD joined the game
-[00:42:47] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.2:39990] logged in with entity id 6669277 at ([The-Wall-master]-1148.8239514266843, -29.0, 7987.907896138517)
+[00:42:07] [Server thread/INFO]: KROD_DA_KROD joined the game
+[00:42:07] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.2:56918] logged in with entity id 7712056 at ([The-Wall-master]-4834.984595640371, 99.79901378648198, -1013.6908438822153)
+[00:42:25] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
+[00:42:25] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
+[00:42:27] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:42:50] [Server thread/INFO]: KROD_DA_KROD was blown up by KROD_DA_KROD
+[00:45:03] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:45:14] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:45:24] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:45:29] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:45:33] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:45:38] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:45:42] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:45:47] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:45:51] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:45:56] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:00] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:05] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:10] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:15] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:20] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:24] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:29] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:34] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:39] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:43] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:54] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:46:58] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:03] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:07] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:12] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:16] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:21] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:26] [Server thread/INFO]: KROD_DA_KROD fell from a high place
 [00:47:31] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:47:42] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:48:30] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:36] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:41] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:45] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:50] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:47:55] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:00] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:05] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:10] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:15] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:19] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:24] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:29] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:33] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:39] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:48:48] [Server thread/INFO]: KROD_DA_KROD fell from a high place
 [00:48:54] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:49:32] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:50:06] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:50:11] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:50:15] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:50:22] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:50:30] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:51:46] [Server thread/INFO]: KROD_DA_KROD was slain by Iron Golem
-[00:51:49] [Server thread/INFO]: KROD_DA_KROD was slain by Iron Golem
-[00:54:20] [Server thread/INFO]: KROD_DA_KROD was slain by Iron Golem
-[00:54:41] [Server thread/INFO]: KROD_DA_KROD was slain by Iron Golem
-[01:01:35] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[01:01:35] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[01:03:47] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[01:03:47] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[01:04:05] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode creative
-[01:04:05] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Creative Mode]
-[01:07:18] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[01:07:18] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[01:07:22] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
-[01:07:35] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[01:07:38] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator\
-[01:07:41] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[01:07:41] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[01:08:03] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[01:08:03] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[01:08:12] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
-[01:08:26] [Server thread/INFO]: KROD_DA_KROD was slain by Iron Golem
-[01:11:49] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode spectator
-[01:11:49] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Spectator Mode]
-[01:13:14] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[01:13:14] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[01:13:23] [Server thread/INFO]: KROD_DA_KROD suffocated in a wall
-[01:13:36] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[01:13:37] [Server thread/INFO]: KROD_DA_KROD left the game
+[00:48:58] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:49:04] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:49:08] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:49:13] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:49:23] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:49:28] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:51:27] [Server thread/INFO]: KROD_DA_KROD hit the ground too hard
+[00:51:33] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:51:38] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:51:42] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:51:47] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:52:08] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:52:53] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:53:01] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:53:06] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:53:11] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:53:16] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:53:20] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:53:25] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:53:29] [Server thread/INFO]: KROD_DA_KROD fell from a high place
+[00:54:07] [Server thread/INFO]: KROD_DA_KROD tried to swim in lava
+[00:55:07] [Server thread/INFO]: KROD_DA_KROD was slain by Iron Golem
+[00:56:02] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[00:56:02] [Server thread/INFO]: KROD_DA_KROD left the game
+[04:42:53] [User Authenticator #6/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
+[04:42:53] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandler.bB(SourceFile:121) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1213) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
+	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	... 21 more
+[04:42:53] [Server thread/INFO]: KROD_DA_KROD joined the game
+[04:42:53] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.2:53224] logged in with entity id 7950358 at ([The-Wall-master]-216.43549168690444, 6.4, 316.97542153307916)
+[04:43:10] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
+[04:43:10] [Server thread/INFO]: KROD_DA_KROD left the game
