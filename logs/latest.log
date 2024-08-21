@@ -1,48 +1,242 @@
-[03:01:12] [User Authenticator #7/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[03:01:13] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:145) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1207) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1214) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+[18:32:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:32:08] [ServerMain/INFO]: Loaded 1290 recipes
+[18:32:08] [Server thread/INFO]: Starting minecraft server version 1.21
+[18:32:08] [Server thread/INFO]: Loading properties
+[18:32:09] [Server thread/INFO]: This server is running CraftBukkit version 4286-Spigot-fb8fb72-00fc9fb (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[18:32:09] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[18:32:09] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[18:32:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:32:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:32:09] [Server thread/INFO]: Debug logging is disabled
+[18:32:09] [Server thread/INFO]: Default game type: SURVIVAL
+[18:32:09] [Server thread/INFO]: Generating keypair
+[18:32:09] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[18:32:09] [Server thread/INFO]: Using epoll channel type
+[18:32:10] [Server thread/INFO]: [LANBroadcaster] Loading LANBroadcaster v1.6.2
+[18:32:10] [Server thread/INFO]: [PVDC] Loading PlayerViewDistanceController v1.4.0
+[18:32:10] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.3
+[18:32:10] [Server thread/INFO]: Preparing level "The-Wall-master"
+[18:32:10] [Server thread/INFO]: -------- World Settings For [The-Wall-master] --------
+[18:32:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:32:10] [Server thread/INFO]: Mob Spawn Range: 6
+[18:32:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:32:10] [Server thread/INFO]: Max TNT Explosions: 100
+[18:32:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:32:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:32:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:32:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:32:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:32:10] [Server thread/INFO]: View Distance: 32
+[18:32:10] [Server thread/INFO]: Simulation Distance: 32
+[18:32:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:32:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:32:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:32:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:32:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:32:10] [Server thread/INFO]: -------- World Settings For [The-Wall-master_nether] --------
+[18:32:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:32:10] [Server thread/INFO]: Mob Spawn Range: 6
+[18:32:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:32:10] [Server thread/INFO]: Max TNT Explosions: 100
+[18:32:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:32:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:32:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:32:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:32:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:32:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:32:10] [Server thread/INFO]: View Distance: 32
+[18:32:10] [Server thread/INFO]: Simulation Distance: 32
+[18:32:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:32:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:32:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:32:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:32:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:32:12] [Server thread/INFO]: -------- World Settings For [The-Wall-master_the_end] --------
+[18:32:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:32:12] [Server thread/INFO]: Mob Spawn Range: 6
+[18:32:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:32:12] [Server thread/INFO]: Max TNT Explosions: 100
+[18:32:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:32:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:32:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:32:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:32:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:32:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:32:12] [Server thread/INFO]: View Distance: 32
+[18:32:12] [Server thread/INFO]: Simulation Distance: 32
+[18:32:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:32:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:32:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:32:12] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:32:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:32:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:32:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:32:13] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[18:32:13] [Server thread/INFO]: Time elapsed: 1127 ms
+[18:32:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:32:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:32:14] [Server thread/INFO]: Time elapsed: 502 ms
+[18:32:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:32:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:32:14] [Server thread/INFO]: Time elapsed: 212 ms
+[18:32:14] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
+[18:32:14] [Server thread/INFO]: [PVDC] Enabling PlayerViewDistanceController v1.4.0
+[18:32:14] [Server thread/INFO]: [PVDC] Plugin started!
+[18:32:14] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
+[18:32:14] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[18:32:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:32:14] [Server thread/INFO]: Done (4.454s)! For help, type "help"
+[18:32:14] [Craft Scheduler Thread - 0/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: java.net.SocketException: Network is unreachable
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send0(Native Method)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.sendFromNativeBuffer(DatagramChannelImpl.java:1005)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:966)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:889)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramChannelImpl.blockingSend(DatagramChannelImpl.java:952)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/sun.nio.ch.DatagramSocketAdaptor.send(DatagramSocketAdaptor.java:193)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:662)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.broadcast(LANBroadcaster.java:54)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at com.gitlab.ruany.lanbroadcaster.LANBroadcaster.run(LANBroadcaster.java:43)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftTask.run(CraftTask.java:82)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[18:43:56] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
+[18:44:06] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
+[18:44:16] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
+[18:44:26] [Craft Scheduler Thread - 0/WARN]: [LANBroadcaster] Failed to broadcast, trying again in 10 seconds...
+[18:44:36] [Craft Scheduler Thread - 0/ERROR]: [LANBroadcaster] Broadcasting will not work until the network is fixed. Warnings disabled.
+[19:04:52] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
-	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	... 22 more
-[03:01:13] [Server thread/INFO]: KROD_DA_KROD joined the game
-[03:01:13] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.2:53406] logged in with entity id 17016927 at ([The-Wall-master]-211.81416339184867, 5.0, 308.63999371253976)
-[03:02:36] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode creative
-[03:02:36] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Creative Mode]
-[03:06:41] [Server thread/INFO]: KROD_DA_KROD issued server command: /shout lets be friends
-[03:07:08] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[03:07:08] [Server thread/INFO]: [KROD_DA_KROD: Set own game mode to Survival Mode]
-[03:07:19] [Server thread/INFO]: KROD_DA_KROD was doomed to fall
-[03:07:33] [Server thread/INFO]: KROD_DA_KROD was doomed to fall
-[03:07:52] [Server thread/INFO]: KROD_DA_KROD was pricked to death
-[03:08:01] [Server thread/INFO]: KROD_DA_KROD was doomed to fall
-[03:08:10] [Server thread/INFO]: KROD_DA_KROD was doomed to fall
-[03:08:18] [Server thread/INFO]: KROD_DA_KROD was doomed to fall
-[03:09:11] [Server thread/INFO]: KROD_DA_KROD issued server command: /gamemode survival
-[03:09:13] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[03:09:13] [Server thread/INFO]: KROD_DA_KROD left the game
+[22:10:50] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
