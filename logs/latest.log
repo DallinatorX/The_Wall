@@ -1,39 +1,144 @@
-[02:31:25] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:18:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:18:03] [ServerMain/INFO]: Loaded 1290 recipes
+[03:18:04] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:18:04] [Server thread/INFO]: Loading properties
+[03:18:04] [Server thread/INFO]: This server is running CraftBukkit version 4286-Spigot-fb8fb72-00fc9fb (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[03:18:05] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[03:18:05] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[03:18:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:18:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:18:05] [Server thread/INFO]: Debug logging is disabled
+[03:18:05] [Server thread/INFO]: Default game type: SURVIVAL
+[03:18:05] [Server thread/INFO]: Generating keypair
+[03:18:05] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[03:18:05] [Server thread/INFO]: Using epoll channel type
+[03:18:05] [Server thread/INFO]: [LANBroadcaster] Loading LANBroadcaster v1.6.2
+[03:18:05] [Server thread/INFO]: [PVDC] Loading PlayerViewDistanceController v1.4.0
+[03:18:05] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v3.0.3
+[03:18:05] [Server thread/INFO]: Preparing level "The-Wall-master"
+[03:18:05] [Server thread/INFO]: -------- World Settings For [The-Wall-master] --------
+[03:18:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:18:05] [Server thread/INFO]: Mob Spawn Range: 6
+[03:18:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:18:05] [Server thread/INFO]: Max TNT Explosions: 100
+[03:18:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:18:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[03:18:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[03:18:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[03:18:05] [Server thread/INFO]: View Distance: 32
+[03:18:05] [Server thread/INFO]: Simulation Distance: 32
+[03:18:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:18:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:18:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:18:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:18:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:18:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:18:05] [Server thread/INFO]: -------- World Settings For [The-Wall-master_nether] --------
+[03:18:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:18:05] [Server thread/INFO]: Mob Spawn Range: 6
+[03:18:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:18:05] [Server thread/INFO]: Max TNT Explosions: 100
+[03:18:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:18:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[03:18:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[03:18:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[03:18:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[03:18:05] [Server thread/INFO]: View Distance: 32
+[03:18:05] [Server thread/INFO]: Simulation Distance: 32
+[03:18:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:18:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:18:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:18:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:18:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:18:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:18:08] [Server thread/INFO]: -------- World Settings For [The-Wall-master_the_end] --------
+[03:18:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:18:08] [Server thread/INFO]: Mob Spawn Range: 6
+[03:18:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:18:08] [Server thread/INFO]: Max TNT Explosions: 100
+[03:18:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:18:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[03:18:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[03:18:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[03:18:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[03:18:08] [Server thread/INFO]: View Distance: 32
+[03:18:08] [Server thread/INFO]: Simulation Distance: 32
+[03:18:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:18:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:18:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:18:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:18:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:18:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:18:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:18:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:18:09] [Server thread/INFO]: Time elapsed: 1056 ms
+[03:18:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:18:09] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[03:18:09] [Server thread/INFO]: Time elapsed: 512 ms
+[03:18:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:18:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:18:10] [Server thread/INFO]: Time elapsed: 215 ms
+[03:18:10] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
+[03:18:10] [Server thread/INFO]: [PVDC] Enabling PlayerViewDistanceController v1.4.0
+[03:18:10] [Server thread/INFO]: [PVDC] Plugin started!
+[03:18:10] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
+[03:18:10] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[03:18:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:18:10] [Server thread/INFO]: Done (4.430s)! For help, type "help"
+[03:18:10] [Craft Scheduler Thread - 0/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
