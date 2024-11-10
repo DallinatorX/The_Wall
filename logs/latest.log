@@ -1,4 +1,42 @@
-[02:09:35] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[00:04:07] [Server thread/INFO]: Dallinator_X drowned
+[00:07:06] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp 0 75 0
+[00:07:06] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to 0.500000, 75.000000, 0.500000]
+[00:07:06] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! -3584.617586039896,10.0,-2858.800000011921
+[00:07:07] [Server thread/INFO]: Dallinator_X issued server command: /kill
+[00:07:07] [Server thread/INFO]: Dallinator_X was killed
+[00:07:07] [Server thread/INFO]: [Dallinator_X: Killed Dallinator_X]
+[00:07:10] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[00:07:12] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[00:07:12] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[00:07:42] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[00:07:42] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[00:09:56] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp 855_FOR_TRUTH Dallinator_X
+[00:09:56] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[00:11:03] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp 100 75 1000
+[00:11:03] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to 100.500000, 75.000000, 1000.500000]
+[00:11:06] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp 100 75 100
+[00:11:06] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to 100.500000, 75.000000, 100.500000]
+[00:11:12] [Server thread/INFO]: Dallinator_X issued server command: /kill
+[00:11:12] [Server thread/INFO]: Dallinator_X was killed
+[00:11:12] [Server thread/INFO]: [Dallinator_X: Killed Dallinator_X]
+[00:11:16] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[00:11:16] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[00:11:43] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[00:11:43] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[00:12:18] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp 855_FOR_TRUTH Dallinator_X
+[00:12:18] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[00:12:56] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp -300 75 300
+[00:12:56] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to -299.500000, 75.000000, 300.500000]
+[00:12:56] [Server thread/WARN]: 855_FOR_TRUTH moved too quickly! -3887.927024141533,7.0,-2117.3792613116943
+[00:13:29] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[00:13:29] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[00:15:31] [Server thread/INFO]: Dallinator_X issued server command: /kill
+[00:15:31] [Server thread/INFO]: Dallinator_X was killed
+[00:15:31] [Server thread/INFO]: [Dallinator_X: Killed Dallinator_X]
+[00:16:23] [Server thread/INFO]: Dallinator_X drowned
+[00:16:34] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[00:16:34] [Server thread/INFO]: Dallinator_X left the game
+[01:54:43] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
@@ -37,7 +75,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[16:19:12] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[11:41:51] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
@@ -76,42 +114,10 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:09:41] [User Authenticator #28/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[21:09:42] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.bB(SourceFile:121) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1213) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
-	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	... 21 more
-[21:09:42] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[21:09:42] [Server thread/INFO]: 855_FOR_TRUTH[/24.116.111.52:60340] logged in with entity id 74008076 at ([The-Wall-master]-239.39227427529778, 13.5, 281.18393684432823)
-[21:12:12] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
-[21:12:12] [Server thread/INFO]: 855_FOR_TRUTH left the game
-[21:16:33] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[20:50:09] [User Authenticator #31/INFO]: Disconnecting Dallinator_X (/146.70.132.76:37674): Failed to verify username!
+[20:50:09] [User Authenticator #31/ERROR]: Username 'Dallinator_X' tried to join with an invalid session
+[20:50:09] [Server thread/INFO]: Dallinator_X (/146.70.132.76:37674) lost connection: Failed to verify username!
+[21:31:32] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
