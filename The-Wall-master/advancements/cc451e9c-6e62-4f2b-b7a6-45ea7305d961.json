@@ -1105,9 +1105,11 @@
       "minecraft:turtle": "2024-02-24 01:16:07 -0700",
       "minecraft:frog": "2024-02-27 02:47:38 -0700",
       "minecraft:mule": "2024-02-24 02:25:17 -0700",
+      "minecraft:sniffer": "2024-12-13 17:17:48 -0700",
       "minecraft:strider": "2024-02-22 02:28:18 -0700",
       "minecraft:cow": "2023-06-09 23:37:23 -0600",
       "minecraft:camel": "2024-02-27 02:43:17 -0700",
+      "minecraft:armadillo": "2024-12-13 18:30:17 -0700",
       "minecraft:wolf": "2024-02-22 17:53:19 -0700",
       "minecraft:panda": "2024-02-25 01:14:23 -0700",
       "minecraft:bee": "2023-01-13 22:30:53 -0700",
@@ -5920,27 +5922,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2024-11-08 23:15:25 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-11-08 23:15:24 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-11-08 23:21:27 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
-    "criteria": {
-      "has_log": "2024-11-08 23:21:27 -0700"
     },
     "done": true
   },
@@ -5956,21 +5940,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_clay_ball": "2024-11-08 23:38:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2024-11-08 23:38:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2024-11-08 23:29:02 -0700"
+      "has_beef": "2024-11-08 23:15:25 -0700"
     },
     "done": true
   },
@@ -5983,6 +5955,42 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-11-08 23:15:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-08 23:21:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2024-11-08 23:21:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-11-08 23:29:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-11-08 23:38:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-11-08 23:38:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-12-13 18:31:07 -0700"
     },
     "done": true
   },
