@@ -1,4 +1,4 @@
-[04:06:37] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[01:04:04] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
@@ -37,7 +37,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[04:12:34] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[02:33:31] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
@@ -76,86 +76,76 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[07:38:57] [User Authenticator #9/INFO]: Disconnecting Dallinator_X (/185.65.134.165:39604): Failed to verify username!
-[07:38:57] [User Authenticator #9/ERROR]: Username 'Dallinator_X' tried to join with an invalid session
-[07:38:57] [Server thread/INFO]: Dallinator_X (/185.65.134.165:39604) lost connection: Failed to verify username!
-[08:53:22] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+[03:56:05] [User Authenticator #10/INFO]: UUID of player Kidnappeur is 0b19c767-23cc-42eb-b722-687d49c998da
+[03:56:07] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[03:56:07] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:145) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1207) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1214) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[10:23:51] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
+	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	... 22 more
+[03:56:07] [Server thread/INFO]: Kidnappeur joined the game
+[03:56:07] [Server thread/INFO]: Kidnappeur[/92.184.124.225:52297] logged in with entity id 127351 at ([The-Wall-master]-213.5, 74.0, 255.5)
+[03:56:18] [Server thread/WARN]: Kidnappeur was kicked for floating too long!
+[03:56:18] [Server thread/INFO]: Kidnappeur lost connection: Flying is not enabled on this server
+[03:56:18] [Server thread/INFO]: Kidnappeur left the game.
+[03:56:18] [Server thread/WARN]: handleDisconnection() called twice
+[03:56:20] [User Authenticator #11/INFO]: UUID of player Kidnappeur is 0b19c767-23cc-42eb-b722-687d49c998da
+[03:56:22] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.util.thread.IAsyncTaskHandler.bB(SourceFile:121) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1213) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[12:51:18] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:60428) lost connection: Disconnected
-[22:39:17] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:55196) lost connection: Disconnected
+Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
+	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
+	... 21 more
+[03:56:22] [Server thread/INFO]: Kidnappeur joined the game
+[03:56:22] [Server thread/INFO]: Kidnappeur[/92.184.124.225:52300] logged in with entity id 128590 at ([The-Wall-master]-246.08250341794698, 104.62072889346283, 239.38302118054972)
+[04:04:35] [Server thread/INFO]: Kidnappeur has made the advancement [Hot Stuff]
