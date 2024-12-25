@@ -1,5 +1,4 @@
-[03:37:18] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:42462) lost connection: Disconnected
-[10:52:24] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[04:05:08] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
@@ -38,189 +37,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[13:15:45] [User Authenticator #213/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[13:15:46] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:145) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1207) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1214) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
-	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	... 22 more
-[13:15:46] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[13:15:46] [Server thread/INFO]: 855_FOR_TRUTH[/24.116.111.52:60700] logged in with entity id 481257 at ([The-Wall-master]-227.93123162967476, 11.875, 242.97375373439309)
-[13:16:24] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
-[13:16:24] [Server thread/INFO]: 855_FOR_TRUTH left the game
-[13:17:13] [User Authenticator #214/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[13:17:13] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.bB(SourceFile:121) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1213) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
-	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	... 21 more
-[13:17:13] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[13:17:13] [Server thread/INFO]: 855_FOR_TRUTH[/24.116.111.52:55812] logged in with entity id 482920 at ([The-Wall-master]-225.72631418677278, 12.0, 254.95544628252338)
-[13:17:32] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode creative
-[13:17:32] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Creative Mode]
-[13:19:57] [User Authenticator #215/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[13:19:57] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.bB(SourceFile:121) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1213) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
-	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	... 21 more
-[13:19:57] [Server thread/INFO]: Dallinator_X joined the game
-[13:19:57] [Server thread/INFO]: Dallinator_X[/192.168.1.2:57148] logged in with entity id 485479 at ([The-Wall-master]-229.3825752630074, 74.0, 107.90503325814757)
-[13:20:03] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[13:20:03] [Server thread/INFO]: Dallinator_X left the game
-[13:23:04] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
-[13:23:04] [Server thread/INFO]: 855_FOR_TRUTH left the game
-[14:06:54] [User Authenticator #216/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
-[14:06:55] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:145) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1207) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1214) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
-	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	... 22 more
-[14:06:55] [Server thread/INFO]: 855_FOR_TRUTH joined the game
-[14:06:55] [Server thread/INFO]: 855_FOR_TRUTH[/24.116.111.52:43984] logged in with entity id 488591 at ([The-Wall-master]-243.1384671245109, 11.0, 200.16619884413063)
-[14:09:05] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
-[14:09:05] [Server thread/INFO]: 855_FOR_TRUTH left the game
-[14:33:08] [User Authenticator #217/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
-[14:33:10] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to PlayerViewDistanceController v1.4.0
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:601) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:588) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.players.PlayerList.a(PlayerList.java:296) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:168) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:22) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:8) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$ensureRunningOnSameThread$0(PlayerConnectionUtils.java:35) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:162) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1270) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:203) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.B(SourceFile:136) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1249) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1242) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:145) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1207) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.v_(MinecraftServer.java:1214) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1078) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NoSuchMethodError: 'void org.bukkit.entity.Player.setViewDistance(int)'
-	at me.wyzebb.playerviewdistancecontroller.events.JoinLeaveEvent.onPlayerJoin(JoinLeaveEvent.java:52) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.21-R0.1-SNAPSHOT.jar:?]
-	... 22 more
-[14:33:10] [Server thread/INFO]: Dallinator_X joined the game
-[14:33:10] [Server thread/INFO]: Dallinator_X[/76.16.142.149:43754] logged in with entity id 492242 at ([The-Wall-master]-229.7347994475026, 74.0, 104.75674915600418)
-[14:33:18] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
-[14:33:18] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
-[14:36:44] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[14:36:44] [Server thread/INFO]: Dallinator_X left the game
-[14:38:07] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[05:09:03] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
 	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
@@ -259,4 +76,44 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[19:24:07] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:53226) lost connection: Disconnected
+[05:58:13] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:46402) lost connection: Disconnected
+[14:33:00] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.a(SourceFile:47) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(SourceFile:14) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.PacketEncoder.a(SourceFile:26) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.PacketEncoder.encode(SourceFile:12) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager$2.write(NetworkManager.java:555) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.NetworkManager.c(NetworkManager.java:374) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.b(NetworkManager.java:364) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:342) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.a(NetworkManager.java:336) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at net.minecraft.network.NetworkManager.exceptionCaught(NetworkManager.java:172) ~[spigot-1.21-R0.1-SNAPSHOT.jar:4286-Spigot-fb8fb72-00fc9fb]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:728) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:826) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:27:37] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:52178) lost connection: Disconnected
