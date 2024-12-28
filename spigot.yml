@@ -35,8 +35,8 @@ settings:
   log-villager-deaths: true
   log-named-deaths: true
 messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
+  whitelist: Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
+  unknown-command: Lol, you don't know what the right command is. Type "/help" for help.
   server-full: The server is full!
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
