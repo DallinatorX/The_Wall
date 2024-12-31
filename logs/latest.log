@@ -2,3 +2,62 @@
 [02:38:02] [Server thread/INFO]: dscrdGGfabricmc (/103.75.11.55:50140) lost connection: Disconnected
 [03:39:32] [Server thread/INFO]: joinOurDiscord (/103.75.11.55:45264) lost connection: Disconnected
 [03:39:32] [Server thread/INFO]: dscrdGGfabricmc (/103.75.11.55:45276) lost connection: Disconnected
+[05:34:29] [Server thread/INFO]: FifthColumnMC (/103.75.11.55:35214) lost connection: Disconnected
+[05:34:29] [Server thread/INFO]: joinOurDiscord (/103.75.11.55:35222) lost connection: Disconnected
+[05:34:29] [Server thread/INFO]: dscrdGGfabricmc (/103.75.11.55:35226) lost connection: Disconnected
+[06:14:19] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:55120) lost connection: Disconnected
+[07:16:47] [Server thread/INFO]: FifthColumnMC (/103.75.11.55:51592) lost connection: Disconnected
+[07:16:47] [Server thread/INFO]: joinOurDiscord (/103.75.11.55:51606) lost connection: Disconnected
+[07:16:47] [Server thread/INFO]: dscrdGGfabricmc (/103.75.11.55:51612) lost connection: Disconnected
+[09:02:31] [Server thread/INFO]: FifthColumnMC (/103.75.11.55:47258) lost connection: Disconnected
+[09:02:31] [Server thread/INFO]: joinOurDiscord (/103.75.11.55:47260) lost connection: Disconnected
+[09:02:31] [Server thread/INFO]: dscrdGGfabricmc (/103.75.11.55:47264) lost connection: Disconnected
+[10:38:05] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[10:54:21] [Server thread/INFO]: FifthColumnMC (/103.75.11.55:33738) lost connection: Disconnected
+[10:54:21] [Server thread/INFO]: joinOurDiscord (/103.75.11.55:33750) lost connection: Disconnected
+[10:54:21] [Server thread/INFO]: dscrdGGfabricmc (/103.75.11.55:33756) lost connection: Disconnected
+[13:19:45] [Server thread/INFO]: FifthColumnMC (/103.75.11.55:46534) lost connection: Disconnected
+[13:19:45] [Server thread/INFO]: joinOurDiscord (/103.75.11.55:46542) lost connection: Disconnected
+[13:19:45] [Server thread/INFO]: dscrdGGfabricmc (/103.75.11.55:46552) lost connection: Disconnected
+[16:33:35] [Server thread/INFO]: FifthColumnMC (/146.70.200.24:45370) lost connection: Disconnected
+[16:33:35] [Server thread/INFO]: joinOurDiscord (/146.70.200.24:45372) lost connection: Disconnected
+[16:33:35] [Server thread/INFO]: dscrdGGfabricmc (/146.70.200.24:50422) lost connection: Disconnected
+[20:02:10] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:34590) lost connection: Disconnected
