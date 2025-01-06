@@ -1,1 +1,4 @@
 [03:12:02] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:43860) lost connection: Disconnected
+[17:53:01] [Server thread/INFO]: /154.213.192.67:51144 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[18:00:28] [Server thread/INFO]: /154.213.192.67:44682 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[20:21:33] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:47540) lost connection: Disconnected
