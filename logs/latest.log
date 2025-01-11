@@ -1,7 +1,4 @@
-[02:15:47] [Server thread/INFO]: FifthColumnMC (/146.70.200.24:57364) lost connection: Disconnected
-[02:15:47] [Server thread/INFO]: joinOurDiscord (/146.70.200.24:57366) lost connection: Disconnected
-[02:15:47] [Server thread/INFO]: dscrdGGfabricmc (/146.70.200.24:57368) lost connection: Disconnected
-[13:46:46] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[01:16:11] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
