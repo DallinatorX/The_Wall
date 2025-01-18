@@ -1,3 +1,1 @@
-[00:10:49] [User Authenticator #2/INFO]: Disconnecting 855_FOR_TRUTH (/146.70.128.183:57724): Failed to verify username!
-[00:10:49] [User Authenticator #2/ERROR]: Username '855_FOR_TRUTH' tried to join with an invalid session
-[00:10:49] [Server thread/INFO]: 855_FOR_TRUTH (/146.70.128.183:57724) lost connection: Failed to verify username!
+[03:09:51] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:57444) lost connection: Disconnected
