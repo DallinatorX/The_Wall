@@ -6000,6 +6000,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-18 22:31:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-18 22:32:49 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-01-18 22:33:00 -0700"
@@ -6012,15 +6024,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/pale_oak_boat": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "in_water": "2025-01-18 22:31:52 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-18 22:32:49 -0700"
+      "dragon_egg": "2025-01-18 23:41:14 -0700"
     },
     "done": true
   },

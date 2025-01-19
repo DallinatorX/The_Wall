@@ -873,6 +873,7 @@
       "minecraft:witch": "2019-01-10 14:35:52 -0700",
       "minecraft:wither_skeleton": "2018-11-21 16:08:18 -0700",
       "minecraft:husk": "2018-11-17 18:26:19 -0700",
+      "minecraft:ender_dragon": "2025-01-18 23:38:09 -0700",
       "minecraft:shulker": "2018-11-22 13:48:40 -0700",
       "minecraft:cave_spider": "2019-01-11 12:01:36 -0700",
       "minecraft:piglin": "2021-07-31 14:20:57 -0600",
@@ -6491,6 +6492,18 @@
   "minecraft:recipes/transportation/pale_oak_boat": {
     "criteria": {
       "in_water": "2025-01-18 22:29:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-18 23:43:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-01-19 00:09:41 -0700"
     },
     "done": true
   },
