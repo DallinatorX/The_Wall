@@ -1,1 +1,280 @@
 [03:09:51] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:57444) lost connection: Disconnected
+[16:54:01] [Netty Epoll Server IO #7/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:31:58] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[22:19:13] [User Authenticator #3/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[22:19:15] [Server thread/INFO]: 855_FOR_TRUTH[/184.179.220.81:50148] logged in with entity id 816 at (2599.8923698628137, 1.0, 209.4407077030399)
+[22:19:15] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[22:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[22:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3063ms or 61 ticks behind
+[22:20:09] [Server thread/INFO]: Villager coj['Villager'/945, l='ServerLevel[The-Wall-master]', x=2577.24, y=2.00, z=238.27] died, message: 'Villager hit the ground too hard while trying to escape Zombie'
+[22:20:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2805ms or 56 ticks behind
+[22:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:24:49] [User Authenticator #4/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[22:24:49] [Server thread/INFO]: Disconnecting Dallinator_X (/76.16.142.149:55886): You are not white-listed on this server!
+[22:24:49] [Server thread/INFO]: Dallinator_X (/76.16.142.149:55886) lost connection: You are not white-listed on this server!
+[22:24:49] [Server thread/WARN]: handleDisconnection() called twice
+[22:25:23] [User Authenticator #5/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[22:25:23] [Server thread/INFO]: Disconnecting Dallinator_X (/76.16.142.149:50512): You are not white-listed on this server!
+[22:25:23] [Server thread/INFO]: Dallinator_X (/76.16.142.149:50512) lost connection: You are not white-listed on this server!
+[22:25:23] [Server thread/WARN]: handleDisconnection() called twice
+[22:26:08] [User Authenticator #6/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[22:26:08] [Server thread/INFO]: Disconnecting Dallinator_X (/76.16.142.149:52666): You are not white-listed on this server!
+[22:26:08] [Server thread/INFO]: Dallinator_X (/76.16.142.149:52666) lost connection: You are not white-listed on this server!
+[22:26:08] [Server thread/WARN]: handleDisconnection() called twice
+[22:26:12] [User Authenticator #7/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[22:26:12] [Server thread/INFO]: Disconnecting Dallinator_X (/76.16.142.149:52668): You are not white-listed on this server!
+[22:26:12] [Server thread/INFO]: Dallinator_X (/76.16.142.149:52668) lost connection: You are not white-listed on this server!
+[22:26:12] [Server thread/WARN]: handleDisconnection() called twice
+[22:26:16] [Server thread/INFO]: [855_FOR_TRUTH: Added Dallinator_X to the whitelist]
+[22:26:18] [User Authenticator #8/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[22:26:19] [Server thread/INFO]: Dallinator_X[/76.16.142.149:33382] logged in with entity id 3889 at (-212.88554176161463, 72.0, 251.3925471730278)
+[22:26:19] [Server thread/INFO]: Dallinator_X joined the game
+[22:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[22:26:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16776ms or 335 ticks behind
+[22:27:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16597ms or 331 ticks behind
+[22:27:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16835ms or 336 ticks behind
+[22:28:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18500ms or 370 ticks behind
+[22:29:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19089ms or 381 ticks behind
+[22:29:10] [Server thread/INFO]: [855_FOR_TRUTH: Made Dallinator_X a server operator]
+[22:29:38] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[22:29:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19582ms or 391 ticks behind
+[22:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[22:30:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
+[22:30:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[22:30:43] [Server thread/INFO]: 855_FOR_TRUTH experienced kinetic energy
+[22:30:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[22:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22:31:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[22:31:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3940ms or 78 ticks behind
+[22:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
+[22:32:08] [Server thread/INFO]: Villager coj['Villager'/1348, l='ServerLevel[The-Wall-master]', x=2552.97, y=63.00, z=92.70] died, message: 'Villager was slain by Zombie'
+[22:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[22:32:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[22:32:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[22:33:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[22:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
+[22:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[22:34:00] [Server thread/INFO]: Villager coj['Villager'/1347, l='ServerLevel[The-Wall-master]', x=2561.30, y=49.00, z=76.70] died, message: 'Villager was slain by Zombie'
+[22:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[22:34:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[22:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2756ms or 55 ticks behind
+[22:34:56] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[22:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[22:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[22:35:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[22:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[22:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
+[22:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
+[22:36:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[22:37:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
+[22:37:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[22:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[22:38:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[22:38:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[22:38:35] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[22:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[22:39:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[22:39:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[22:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[22:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[22:40:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[22:40:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[22:41:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[22:41:06] [Server thread/INFO]: Dallinator_X was killed
+[22:41:06] [Server thread/INFO]: [Dallinator_X: Killed Dallinator_X]
+[22:41:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[22:41:22] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:41:26] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[22:41:26] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[22:42:51] [Server thread/INFO]: 855_FOR_TRUTH fell from a high place
+[22:42:55] [Server thread/INFO]: Villager coj['Villager'/9964, l='ServerLevel[The-Wall-master]', x=2587.80, y=-57.00, z=187.70] died, message: 'Villager hit the ground too hard'
+[22:42:56] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:43:05] [Server thread/INFO]: Dallinator_X was doomed to fall
+[22:43:53] [Server thread/INFO]: Dallinator_X was slain by Enderman
+[22:44:30] [Server thread/INFO]: 855_FOR_TRUTH was slain by Ender Dragon
+[22:44:34] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:45:33] [Server thread/INFO]: Dallinator_X was slain by Enderman
+[22:45:37] [Server thread/INFO]: 855_FOR_TRUTH was slain by Enderman
+[22:45:56] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:47:12] [Server thread/INFO]: Dallinator_X was slain by Ender Dragon
+[22:47:19] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[22:47:34] [Server thread/INFO]: Dallinator_X was slain by Enderman
+[22:47:39] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[22:48:03] [Server thread/INFO]: Dallinator_X was killed by Ender Dragon using magic
+[22:48:08] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[22:48:12] [Server thread/INFO]: Dallinator_X was doomed to fall by 855_FOR_TRUTH
+[22:48:31] [Server thread/INFO]: 855_FOR_TRUTH was doomed to fall by 855_FOR_TRUTH
+[22:48:35] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:48:56] [Server thread/INFO]: 855_FOR_TRUTH was killed by Ender Dragon using magic
+[22:48:59] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:49:18] [Server thread/INFO]: 855_FOR_TRUTH was slain by Enderman
+[22:49:21] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:49:32] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:49:43] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:49:44] [Server thread/INFO]: Dallinator_X was slain by 855_FOR_TRUTH
+[22:49:46] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:49:48] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[22:49:48] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:49:51] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:49:55] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:49:59] [Server thread/INFO]: 855_FOR_TRUTH was burned to a crisp while fighting Dallinator_X
+[22:50:04] [Server thread/INFO]: Dallinator_X was doomed to fall by Ender Dragon
+[22:50:04] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:50:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[22:50:27] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[22:50:39] [Server thread/INFO]: 855_FOR_TRUTH burned to death
+[22:50:46] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:50:49] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:50:56] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:50:57] [Server thread/INFO]: Dallinator_X was slain by 855_FOR_TRUTH
+[22:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:51:32] [Server thread/INFO]: 855_FOR_TRUTH was slain by Enderman
+[22:51:35] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:51:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6208ms or 124 ticks behind
+[22:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4529ms or 90 ticks behind
+[22:52:00] [Server thread/INFO]: Dallinator_X was slain by 855_FOR_TRUTH
+[22:52:03] [Server thread/WARN]: Skipping player strafe phase because no player was found
+[22:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5371ms or 107 ticks behind
+[22:52:22] [Server thread/INFO]: 855_FOR_TRUTH fell out of the world
+[22:52:26] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:52:56] [Server thread/INFO]: 855_FOR_TRUTH was burned to a crisp while fighting Dallinator_X
+[22:53:00] [Server thread/INFO]: <855_FOR_TRUTH> e
+[22:53:10] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:53:12] [Server thread/INFO]: Dallinator_X was slain by 855_FOR_TRUTH
+[22:53:14] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:53:26] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:53:35] [Server thread/INFO]: 855_FOR_TRUTH has reached the goal [Postmortal]
+[22:53:36] [Server thread/INFO]: 855_FOR_TRUTH was slain by Dallinator_X using [Dugless' Sword]
+[22:53:46] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:53:50] [Server thread/INFO]: Dallinator_X was slain by 855_FOR_TRUTH
+[22:53:51] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[22:54:10] [Server thread/INFO]: 855_FOR_TRUTH was slain by Dallinator_X using [Dugless' Sword]
+[22:54:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
+[22:54:23] [Server thread/INFO]: 855_FOR_TRUTH fell from a high place
+[22:54:28] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:54:30] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:54:32] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[22:54:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4160ms or 83 ticks behind
+[22:54:41] [Server thread/INFO]: Dallinator_X was doomed to fall by 855_FOR_TRUTH
+[22:55:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
+[22:55:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6289ms or 125 ticks behind
+[22:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6043ms or 120 ticks behind
+[22:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6129ms or 122 ticks behind
+[22:56:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8335ms or 166 ticks behind
+[22:56:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7190ms or 143 ticks behind
+[22:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6418ms or 128 ticks behind
+[22:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6054ms or 121 ticks behind
+[22:57:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5927ms or 118 ticks behind
+[22:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5982ms or 119 ticks behind
+[22:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5966ms or 119 ticks behind
+[22:58:44] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[22:58:44] [Server thread/INFO]: Dallinator_X left the game
+[22:58:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5744ms or 114 ticks behind
+[22:59:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5120ms or 102 ticks behind
+[22:59:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4780ms or 95 ticks behind
+[22:59:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5223ms or 104 ticks behind
+[23:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6490ms or 129 ticks behind
+[23:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4980ms or 99 ticks behind
+[23:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5410ms or 108 ticks behind
+[23:01:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6397ms or 127 ticks behind
+[23:01:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6112ms or 122 ticks behind
+[23:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6149ms or 122 ticks behind
+[23:02:02] [User Authenticator #9/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[23:02:03] [Server thread/INFO]: Dallinator_X[/24.116.111.52:47764] logged in with entity id 39480 at (-277.52380319452044, 15.0, 281.5687545762741)
+[23:02:03] [Server thread/INFO]: Dallinator_X joined the game
+[23:02:09] [Server thread/INFO]: [Dallinator_X: Saved the game]
+[23:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6983ms or 139 ticks behind
+[23:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6762ms or 135 ticks behind
+[23:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6525ms or 130 ticks behind
+[23:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6806ms or 136 ticks behind
+[23:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6545ms or 130 ticks behind
+[23:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6696ms or 133 ticks behind
+[23:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9103ms or 182 ticks behind
+[23:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9469ms or 189 ticks behind
+[23:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9758ms or 195 ticks behind
+[23:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9636ms or 192 ticks behind
+[23:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8366ms or 167 ticks behind
+[23:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7624ms or 152 ticks behind
