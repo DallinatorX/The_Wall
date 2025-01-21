@@ -1,47 +1,4 @@
-[00:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9673ms or 193 ticks behind
-[00:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10160ms or 203 ticks behind
-[00:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9697ms or 193 ticks behind
-[00:01:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8730ms or 174 ticks behind
-[00:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9034ms or 180 ticks behind
-[00:02:01] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
-[00:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10265ms or 205 ticks behind
-[00:02:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11467ms or 229 ticks behind
-[00:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10540ms or 210 ticks behind
-[00:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10260ms or 205 ticks behind
-[00:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9408ms or 188 ticks behind
-[00:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9330ms or 186 ticks behind
-[00:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9123ms or 182 ticks behind
-[00:05:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8447ms or 168 ticks behind
-[00:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8710ms or 174 ticks behind
-[00:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8794ms or 175 ticks behind
-[00:06:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9337ms or 186 ticks behind
-[00:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9155ms or 183 ticks behind
-[00:07:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9349ms or 186 ticks behind
-[00:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9529ms or 190 ticks behind
-[00:07:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9192ms or 183 ticks behind
-[00:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10336ms or 206 ticks behind
-[00:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9724ms or 194 ticks behind
-[00:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10135ms or 202 ticks behind
-[00:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9894ms or 197 ticks behind
-[00:09:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9359ms or 187 ticks behind
-[00:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9643ms or 192 ticks behind
-[00:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9370ms or 187 ticks behind
-[00:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8918ms or 178 ticks behind
-[00:11:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9497ms or 189 ticks behind
-[00:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9857ms or 197 ticks behind
-[00:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15077ms or 301 ticks behind
-[00:12:40] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
-[00:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12111ms or 242 ticks behind
-[00:13:05] [Server thread/INFO]: 855_FOR_TRUTH was slain by Iron Golem
-[00:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10548ms or 210 ticks behind
-[00:13:40] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
-[00:13:40] [Server thread/INFO]: 855_FOR_TRUTH left the game
-[00:13:42] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
-[00:13:42] [Server thread/INFO]: Dallinator_X left the game
-[00:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6568ms or 131 ticks behind
-[00:14:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:07:47] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:46018) lost connection: Disconnected
-[09:54:03] [Netty Epoll Server IO #6/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[07:02:02] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -80,4 +37,86 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[20:37:07] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:44854) lost connection: Disconnected
+[09:03:33] [Netty Epoll Server IO #7/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[12:01:06] [Netty Epoll Server IO #7/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[14:19:47] [User Authenticator #3/INFO]: UUID of player AvianBirdBrain is 74440533-32f3-4379-b29b-6258b5646717
+[14:19:47] [Server thread/INFO]: Disconnecting AvianBirdBrain (/96.29.229.22:59765): You are not white-listed on this server!
+[14:19:47] [Server thread/INFO]: AvianBirdBrain (/96.29.229.22:59765) lost connection: You are not white-listed on this server!
+[14:19:47] [Server thread/WARN]: handleDisconnection() called twice
+[15:14:58] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:44486) lost connection: Disconnected
