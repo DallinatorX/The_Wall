@@ -1,4 +1,4 @@
-[19:23:29] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[01:36:48] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
