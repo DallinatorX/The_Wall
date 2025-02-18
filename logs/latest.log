@@ -1,5 +1,5 @@
-[01:00:46] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:34998) lost connection: Disconnected
-[08:37:01] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[00:23:00] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:35950) lost connection: Disconnected
+[01:26:37] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -38,4 +38,3 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[20:20:57] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:51382) lost connection: Disconnected
