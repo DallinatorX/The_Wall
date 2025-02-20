@@ -1,5 +1,4 @@
-[00:23:00] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:35950) lost connection: Disconnected
-[01:26:37] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[00:26:40] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -38,7 +37,4 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[09:42:50] [User Authenticator #7/INFO]: Disconnecting Dallinator_X (/146.70.74.119:60080): Failed to verify username!
-[09:42:50] [User Authenticator #7/ERROR]: Username 'Dallinator_X' tried to join with an invalid session
-[09:42:50] [Server thread/INFO]: Dallinator_X (/146.70.74.119:60080) lost connection: Failed to verify username!
-[14:12:47] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:52948) lost connection: Disconnected
+[01:27:02] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:36066) lost connection: Disconnected
