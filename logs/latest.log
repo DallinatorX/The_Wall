@@ -1,5 +1,5 @@
-[01:40:24] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:54196) lost connection: Disconnected
-[02:04:42] [Netty Epoll Server IO #6/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[04:57:39] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:43804) lost connection: Disconnected
+[06:32:23] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -38,7 +38,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[04:34:34] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[07:15:31] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -77,8 +77,4 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[11:25:53] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:57818) lost connection: Disconnected
-[21:21:31] [User Authenticator #8/INFO]: UUID of player project_2025 is ca34dbd1-98de-4895-a89c-bfe2c37f96bc
-[21:21:31] [Server thread/INFO]: Disconnecting project_2025 (/37.46.113.164:37274): You are not white-listed on this server!
-[21:21:31] [Server thread/INFO]: project_2025 (/37.46.113.164:37274) lost connection: You are not white-listed on this server!
-[21:21:31] [Server thread/WARN]: handleDisconnection() called twice
+[20:12:32] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:35876) lost connection: Disconnected
