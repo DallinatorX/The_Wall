@@ -38,3 +38,4 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [02:25:53] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:37868) lost connection: Disconnected
+[18:02:38] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:38136) lost connection: Disconnected
