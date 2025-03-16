@@ -1,1 +1,5 @@
-[01:05:11] [Server thread/INFO]: /191.101.217.28:22367 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[00:40:29] [Server thread/INFO]: /191.101.217.28:32975 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[03:09:33] [User Authenticator #11/INFO]: Disconnecting Dallinator_X (/146.70.184.244:57732): Failed to verify username!
+[03:09:33] [User Authenticator #11/ERROR]: Username 'Dallinator_X' tried to join with an invalid session
+[03:09:33] [Server thread/INFO]: Dallinator_X (/146.70.184.244:57732) lost connection: Failed to verify username!
+[03:25:50] [Server thread/INFO]:  (/191.101.217.28:12403) lost connection: Disconnected
