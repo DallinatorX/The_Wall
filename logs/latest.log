@@ -1,5 +1,35 @@
-[03:51:37] [Server thread/INFO]:  (/156.146.63.199:38503) lost connection: Disconnected
-[03:56:02] [Netty Epoll Server IO #7/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[12:39:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:39:33] [ServerMain/INFO]: Loaded 1370 recipes
+[12:39:33] [ServerMain/INFO]: Loaded 1481 advancements
+[12:39:33] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[12:39:33] [Server thread/INFO]: Loading properties
+[12:39:33] [Server thread/INFO]: Default game type: SURVIVAL
+[12:39:33] [Server thread/INFO]: Generating keypair
+[12:39:34] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[12:39:34] [Server thread/INFO]: Using epoll channel type
+[12:39:34] [Server thread/INFO]: Preparing level "The-Wall-master"
+[12:39:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:41] [Server thread/INFO]: Time elapsed: 5682 ms
+[12:39:41] [Server thread/INFO]: Done (6.483s)! For help, type "help"
+[12:40:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:18:06] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:53142) lost connection: Disconnected
+[13:56:40] [User Authenticator #1/INFO]: UUID of player Snaekman is 1485e9df-24a1-4c41-9c62-abad647403e5
+[13:56:40] [Server thread/INFO]: Disconnecting Snaekman (/85.203.20.59:7582): You are not white-listed on this server!
+[13:56:40] [Server thread/INFO]: Snaekman (/85.203.20.59:7582) lost connection: You are not white-listed on this server!
+[13:56:40] [Server thread/WARN]: handleDisconnection() called twice
+[19:01:00] [Server thread/INFO]:  (/156.146.63.199:17763) lost connection: Disconnected
+[22:02:49] [Server thread/INFO]:  (/156.146.63.199:35923) lost connection: Disconnected
+[22:31:58] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
