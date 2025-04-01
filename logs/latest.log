@@ -1,4 +1,5 @@
-[01:13:29] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[00:27:24] [Server thread/INFO]:  (/156.146.63.199:15777) lost connection: Disconnected
+[01:53:38] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -26,16 +27,35 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:447) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202) ~[netty-handler-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164) ~[netty-handler-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289) ~[netty-handler-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[01:51:25] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:51526) lost connection: Disconnected
-[02:28:11] [Server thread/INFO]:  (/156.146.63.199:29409) lost connection: Disconnected
+[02:40:22] [User Authenticator #4/INFO]: Disconnecting Dallinator_X (/146.70.128.186:46052): Failed to verify username!
+[02:40:22] [User Authenticator #4/ERROR]: Username 'Dallinator_X' tried to join with an invalid session
+[02:40:22] [Server thread/INFO]: Dallinator_X (/146.70.128.186:46052) lost connection: Failed to verify username!
