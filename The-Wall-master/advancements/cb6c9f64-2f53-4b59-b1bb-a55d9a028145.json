@@ -274,6 +274,7 @@
       "minecraft:windswept_hills": "2019-05-18 00:05:17 -0600",
       "minecraft:snowy_beach": "2024-08-10 04:31:32 -0600",
       "minecraft:wooded_badlands": "2020-05-14 22:46:48 -0600",
+      "minecraft:warm_ocean": "2025-04-04 03:42:19 -0600",
       "minecraft:deep_lukewarm_ocean": "2020-05-14 22:46:14 -0600",
       "minecraft:badlands": "2020-05-14 22:46:46 -0600",
       "minecraft:flower_forest": "2022-08-05 20:28:38 -0600",
@@ -442,6 +443,7 @@
       "melon_slice": "2021-07-31 13:14:21 -0600",
       "cooked_rabbit": "2020-05-12 16:05:19 -0600",
       "cooked_chicken": "2019-05-18 00:18:36 -0600",
+      "enchanted_golden_apple": "2025-04-04 04:16:47 -0600",
       "mushroom_stew": "2022-01-20 15:42:44 -0700",
       "cod": "2020-05-11 23:03:29 -0600",
       "cooked_salmon": "2021-07-30 16:47:51 -0600",
@@ -466,27 +468,29 @@
       "minecraft:blaze": "2020-05-16 01:34:19 -0600",
       "minecraft:pillager": "2020-06-10 17:09:32 -0600",
       "minecraft:skeleton": "2020-05-11 20:58:45 -0600",
+      "minecraft:ghast": "2020-05-20 19:51:56 -0600",
+      "minecraft:hoglin": "2021-07-30 17:19:12 -0600",
+      "minecraft:guardian": "2020-05-11 22:59:57 -0600",
+      "minecraft:vindicator": "2020-06-10 17:24:06 -0600",
+      "minecraft:magma_cube": "2022-08-28 02:10:32 -0600",
+      "minecraft:spider": "2020-05-11 20:59:29 -0600",
+      "minecraft:piglin_brute": "2024-02-12 00:21:31 -0700",
+      "minecraft:creeper": "2020-05-11 20:59:54 -0600",
+      "minecraft:wither": "2025-04-05 03:49:15 -0600",
+      "minecraft:slime": "2020-05-14 02:03:37 -0600",
       "minecraft:phantom": "2021-08-09 22:07:13 -0600",
       "minecraft:zombified_piglin": "2020-05-16 01:36:13 -0600",
       "minecraft:witch": "2020-05-13 23:42:48 -0600",
       "minecraft:wither_skeleton": "2020-05-16 01:30:29 -0600",
       "minecraft:husk": "2020-05-11 21:00:34 -0600",
-      "minecraft:ghast": "2020-05-20 19:51:56 -0600",
-      "minecraft:hoglin": "2021-07-30 17:19:12 -0600",
+      "minecraft:ender_dragon": "2025-04-04 04:23:50 -0600",
       "minecraft:cave_spider": "2020-05-17 16:47:22 -0600",
       "minecraft:piglin": "2020-07-09 18:35:37 -0600",
-      "minecraft:guardian": "2020-05-11 22:59:57 -0600",
-      "minecraft:vindicator": "2020-06-10 17:24:06 -0600",
       "minecraft:enderman": "2020-05-11 21:00:40 -0600",
       "minecraft:silverfish": "2020-05-13 23:07:08 -0600",
-      "minecraft:magma_cube": "2022-08-28 02:10:32 -0600",
-      "minecraft:spider": "2020-05-11 20:59:29 -0600",
-      "minecraft:piglin_brute": "2024-02-12 00:21:31 -0700",
       "minecraft:zombie": "2019-05-18 00:21:59 -0600",
-      "minecraft:creeper": "2020-05-11 20:59:54 -0600",
       "minecraft:drowned": "2020-05-11 22:05:42 -0600",
-      "minecraft:zombie_villager": "2020-05-13 22:32:27 -0600",
-      "minecraft:slime": "2020-05-14 02:03:37 -0600"
+      "minecraft:zombie_villager": "2020-05-13 22:32:27 -0600"
     },
     "done": false
   },
@@ -5886,5 +5890,311 @@
     },
     "done": true
   },
-  "DataVersion": 3953
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-04 01:47:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-04-04 02:27:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-04 02:48:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-04 02:49:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-04 03:54:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-04 04:16:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-04 04:23:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-05 01:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/orange_bundle": {
+    "criteria": {
+      "has_orange_dye": "2025-04-05 03:24:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-04-05 02:46:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-04-05 02:51:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-04-05 02:51:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-05 02:49:59 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-05 03:20:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-05 02:51:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-04-05 03:24:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-05 03:20:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-04-05 03:24:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-05 02:51:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
 }
