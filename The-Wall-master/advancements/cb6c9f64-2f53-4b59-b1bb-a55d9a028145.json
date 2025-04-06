@@ -6034,69 +6034,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/orange_bundle": {
-    "criteria": {
-      "has_orange_dye": "2025-04-05 03:24:41 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_grate": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
-    },
-    "done": true
-  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2025-04-05 02:46:11 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/copper_bulb": {
-    "criteria": {
-      "has_copper_block": "2025-04-05 02:51:00 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
-    "criteria": {
-      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/waxed_copper_bulb": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_grate": {
-    "criteria": {
-      "has_copper_block": "2025-04-05 02:51:00 -0600"
     },
     "done": true
   },
@@ -6106,9 +6046,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
     "criteria": {
-      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
     },
     "done": true
   },
@@ -6118,39 +6070,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-04-05 03:20:49 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+  "minecraft:recipes/decorations/tuff_brick_wall": {
     "criteria": {
-      "has_copper_block": "2025-04-05 02:51:00 -0600"
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
     "criteria": {
-      "has_orange_tulip": "2025-04-05 03:24:38 -0600"
+      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
     "criteria": {
-      "has_wither_rose": "2025-04-05 03:20:49 -0600"
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
-      "has_orange_tulip": "2025-04-05 03:24:38 -0600"
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
     },
     "done": true
   },
@@ -6172,27 +6136,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-04-05 02:51:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-04-05 02:51:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-05 02:51:00 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-04-05 02:51:00 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/tuff_brick_wall": {
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
     "criteria": {
-      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+      "has_wither_rose": "2025-04-05 03:20:49 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "has_tuff_bricks": "2025-04-05 02:50:52 -0600"
+      "has_wither_rose": "2025-04-05 03:20:49 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
     "criteria": {
-      "has_waxed_copper_block": "2025-04-05 02:50:55 -0600"
+      "has_orange_tulip": "2025-04-05 03:24:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-04-05 03:24:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/orange_bundle": {
+    "criteria": {
+      "has_orange_dye": "2025-04-05 03:24:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2025-04-05 13:36:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-04-05 19:22:59 -0600"
     },
     "done": true
   },

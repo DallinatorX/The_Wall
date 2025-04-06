@@ -379,6 +379,7 @@
       "minecraft:lukewarm_ocean": "2024-02-25 01:35:55 -0700",
       "minecraft:stony_shore": "2024-02-22 20:05:19 -0700",
       "minecraft:dripstone_caves": "2023-01-13 22:18:47 -0700",
+      "minecraft:snowy_taiga": "2025-04-05 15:30:44 -0600",
       "minecraft:old_growth_birch_forest": "2023-01-14 15:23:04 -0700",
       "minecraft:deep_dark": "2024-02-24 18:23:55 -0700",
       "minecraft:swamp": "2023-01-27 18:36:35 -0700",
@@ -6127,15 +6128,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
-    "criteria": {
-      "summoned_golem": "2025-04-05 03:42:45 -0600"
-    },
-    "done": true
-  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-04-05 03:16:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-04-05 03:42:45 -0600"
     },
     "done": true
   },
