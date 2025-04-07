@@ -1,51 +1,5 @@
-[00:01:28] [Server thread/INFO]: N7fty was killed
-[00:01:28] [Server thread/INFO]: [N7fty: Killed N7fty]
-[00:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[00:01:40] [Server thread/WARN]: N7fty moved too quickly! 0.003243740629045533,-10.722248667987486,0.0
-[00:01:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6584ms or 131 ticks behind
-[00:02:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5635ms or 112 ticks behind
-[00:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6504ms or 130 ticks behind
-[00:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6924ms or 138 ticks behind
-[00:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7386ms or 147 ticks behind
-[00:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7939ms or 158 ticks behind
-[00:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8479ms or 169 ticks behind
-[00:04:33] [Server thread/INFO]: N7fty lost connection: Timed out
-[00:04:33] [Server thread/INFO]: N7fty left the game
-[00:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7673ms or 153 ticks behind
-[00:04:47] [User Authenticator #70/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[00:04:49] [Server thread/INFO]: N7fty[/206.83.121.102:27918] logged in with entity id 660664 at (-207.55659667846422, 11.0, 262.4081019265031)
-[00:04:49] [Server thread/INFO]: N7fty joined the game
-[00:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[00:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
-[00:05:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6254ms or 125 ticks behind
-[00:06:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6697ms or 133 ticks behind
-[00:06:04] [Server thread/INFO]: N7fty lost connection: Timed out
-[00:06:04] [Server thread/INFO]: N7fty left the game
-[00:06:12] [User Authenticator #71/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[00:06:14] [Server thread/INFO]: N7fty[/206.83.121.102:23121] logged in with entity id 662235 at (-211.88782358324343, 11.0, 262.3201709839462)
-[00:06:14] [Server thread/INFO]: N7fty joined the game
-[00:06:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:06:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4428ms or 88 ticks behind
-[00:06:44] [Server thread/INFO]: N7fty lost connection: Timed out
-[00:06:44] [Server thread/INFO]: N7fty left the game
-[00:06:50] [User Authenticator #72/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[00:06:52] [Server thread/INFO]: N7fty[/14.1.84.123:10951] logged in with entity id 663401 at (-212.08502857824084, 11.0, 262.69999998807907)
-[00:06:52] [Server thread/INFO]: N7fty joined the game
-[00:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[00:07:21] [Server thread/WARN]: N7fty moved too quickly! -9.253948569154602,1.5,-3.6346716782411477
-[00:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4126ms or 82 ticks behind
-[00:07:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4852ms or 97 ticks behind
-[00:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6543ms or 130 ticks behind
-[00:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6857ms or 137 ticks behind
-[00:08:25] [Server thread/INFO]: N7fty lost connection: Disconnected
-[00:08:25] [Server thread/INFO]: N7fty left the game
-[00:08:34] [User Authenticator #73/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[00:08:37] [Server thread/INFO]: N7fty[/206.83.121.102:27053] logged in with entity id 665181 at (-224.19880582960604, 11.0, 245.8806589736736)
-[00:08:37] [Server thread/INFO]: N7fty joined the game
-[00:08:50] [Server thread/INFO]: N7fty lost connection: Disconnected
-[00:08:50] [Server thread/INFO]: N7fty left the game
-[00:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[00:08:54] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[00:51:16] [Server thread/INFO]: ServerSeekerV2 (/198.54.132.37:44084) lost connection: Disconnected
+[02:44:50] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -84,5 +38,42 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[00:09:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:49:44] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:40320) lost connection: Disconnected
+[03:04:23] [Netty Epoll Server IO #6/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]

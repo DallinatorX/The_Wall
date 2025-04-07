@@ -444,6 +444,8 @@
       "minecraft:enderman": "2025-04-05 03:58:51 -0600",
       "minecraft:spider": "2025-04-05 02:07:55 -0600",
       "minecraft:zombie": "2019-01-13 17:29:34 -0700",
+      "minecraft:creeper": "2025-04-06 17:49:56 -0600",
+      "minecraft:bogged": "2025-04-06 17:49:10 -0600",
       "minecraft:ghast": "2025-04-05 03:16:30 -0600"
     },
     "done": false
@@ -2200,6 +2202,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-06 17:22:59 -0600",
       "minecraft:nether_wastes": "2025-04-05 03:08:56 -0600",
       "minecraft:soul_sand_valley": "2025-04-05 03:12:50 -0600"
     },
@@ -4116,6 +4119,24 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-04-05 23:55:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-06 17:23:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-06 17:23:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-06 17:49:57 -0600"
     },
     "done": true
   },
