@@ -1,14 +1,2 @@
-[00:18:31] [Server thread/INFO]: dc_sysadmin_best (/156.229.232.142:58596) lost connection: Internal Exception: java.lang.IllegalStateException: Protocol error
-[00:48:35] [Server thread/INFO]: dc_sysadmin_best (/156.229.232.142:49968) lost connection: Internal Exception: java.lang.IllegalStateException: Protocol error
-[01:02:13] [Server thread/INFO]:  (/156.146.63.199:49189) lost connection: Disconnected
-[01:09:09] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:50838) lost connection: Disconnected
-[01:18:46] [Server thread/INFO]: dc_sysadmin_best (/156.229.232.142:53986) lost connection: Internal Exception: java.lang.IllegalStateException: Protocol error
-[01:48:50] [Server thread/INFO]: dc_sysadmin_best (/156.229.232.142:42748) lost connection: Internal Exception: java.lang.IllegalStateException: Protocol error
-[02:18:58] [Server thread/INFO]: dc_sysadmin_best (/156.229.232.142:43568) lost connection: Internal Exception: java.lang.IllegalStateException: Protocol error
-[02:49:04] [Server thread/INFO]: dc_sysadmin_best (/156.229.232.142:54132) lost connection: Internal Exception: java.lang.IllegalStateException: Protocol error
-[03:19:06] [Server thread/INFO]: dc_sysadmin_best (/156.229.232.142:38450) lost connection: Internal Exception: java.lang.IllegalStateException: Protocol error
-[03:49:10] [Server thread/INFO]: dc_sysadmin_best (/156.229.232.142:41972) lost connection: Internal Exception: java.lang.IllegalStateException: Protocol error
-[03:49:46] [User Authenticator #75/INFO]: Disconnecting N7fty (/146.70.189.149:57158): Failed to verify username!
-[03:49:46] [User Authenticator #75/ERROR]: Username 'N7fty' tried to join with an invalid session
-[03:49:46] [Server thread/INFO]: N7fty (/146.70.189.149:57158) lost connection: Failed to verify username!
-[04:02:35] [Server thread/INFO]:  (/156.146.63.199:46761) lost connection: Disconnected
+[00:46:09] [Server thread/INFO]: ServerSeekerV2 (/141.98.255.145:60186) lost connection: Disconnected
+[00:57:08] [Server thread/INFO]:  (/156.146.63.199:8263) lost connection: Disconnected
