@@ -1,8 +1,1 @@
-[02:35:34] [Server thread/INFO]: /156.146.63.199:36731 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[03:16:52] [Server thread/INFO]: /156.146.63.199:24543 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[08:01:07] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:55090) lost connection: Disconnected
-[10:38:05] [Server thread/INFO]: /156.146.63.199:21015 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[14:00:26] [Server thread/INFO]: /156.146.63.199:43593 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[17:08:12] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:55752) lost connection: Disconnected
-[20:39:11] [Server thread/INFO]: /156.146.63.199:8239 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[23:21:09] [Server thread/INFO]: /156.146.63.199:54307 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[03:02:58] [Server thread/INFO]: /156.146.63.199:42963 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
