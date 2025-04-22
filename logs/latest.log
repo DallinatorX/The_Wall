@@ -1,1 +1,21 @@
 [00:14:59] [Server thread/INFO]: /176.65.149.246:41460 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[05:58:03] [Server thread/INFO]: /176.65.149.246:48454 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[08:01:06] [Server thread/INFO]: /176.65.149.246:37630 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[08:27:13] [Server thread/INFO]: /176.65.149.246:60488 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[08:54:33] [Server thread/INFO]: /156.146.63.199:27923 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[09:18:19] [Server thread/INFO]: /176.65.149.246:55682 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[10:18:59] [Server thread/INFO]: /176.65.149.246:54118 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[10:48:39] [Server thread/INFO]: /156.146.63.199:32021 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[11:03:55] [Server thread/INFO]: /176.65.149.246:53998 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:12:18] [Server thread/INFO]: /176.65.149.246:56178 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:35:32] [Server thread/INFO]: /176.65.149.246:35508 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[14:45:41] [Server thread/INFO]: /176.65.149.246:45274 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[15:18:58] [Server thread/INFO]: /176.65.149.246:36228 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[17:48:35] [Server thread/INFO]: /176.65.149.246:58266 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[18:34:32] [Server thread/INFO]: /176.65.149.246:44106 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[18:49:45] [Server thread/INFO]: /156.146.63.199:19845 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[19:27:44] [Server thread/INFO]: /176.65.149.246:33134 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[20:14:27] [Server thread/INFO]: /156.146.63.199:11325 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[21:54:15] [Server thread/INFO]: /156.146.63.199:33529 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[22:51:27] [Server thread/INFO]: /176.65.149.246:45164 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[23:41:28] [Server thread/INFO]: /176.65.149.246:54062 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
