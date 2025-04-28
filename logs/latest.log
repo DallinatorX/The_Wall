@@ -1,2 +1,7 @@
-[01:41:23] [Server thread/INFO]: /176.65.149.246:50336 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[03:11:32] [Server thread/INFO]: /176.65.149.246:46028 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[01:50:02] [User Authenticator #6/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[01:50:04] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[01:50:04] [Server thread/INFO]: N7fty joined the game
+[01:50:04] [Server thread/INFO]: N7fty[/206.83.121.102:7980] logged in with entity id 11067 at ([The-Wall-master]-244.8735017401669, 16.0, 273.26938972058167)
+[01:50:49] [Server thread/INFO]: N7fty lost connection: Timed out
+[01:50:49] [Server thread/INFO]: N7fty left the game
+[01:51:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
