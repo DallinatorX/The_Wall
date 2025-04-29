@@ -1,7 +1,22 @@
-[01:50:02] [User Authenticator #6/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[01:50:04] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[01:50:04] [Server thread/INFO]: N7fty joined the game
-[01:50:04] [Server thread/INFO]: N7fty[/206.83.121.102:7980] logged in with entity id 11067 at ([The-Wall-master]-244.8735017401669, 16.0, 273.26938972058167)
-[01:50:49] [Server thread/INFO]: N7fty lost connection: Timed out
-[01:50:49] [Server thread/INFO]: N7fty left the game
-[01:51:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:04:49] [User Authenticator #11/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[01:05:03] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[01:05:03] [Server thread/INFO]: N7fty joined the game
+[01:05:03] [Server thread/INFO]: N7fty[/157.132.100.20:60649] logged in with entity id 19260 at ([The-Wall-master]-241.98529521755097, 16.0, 281.0851628571104)
+[01:05:48] [Server thread/INFO]: N7fty lost connection: Timed out
+[01:05:48] [Server thread/INFO]: N7fty left the game
+[01:06:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:07:30] [User Authenticator #12/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[01:07:34] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[01:07:34] [Server thread/INFO]: N7fty joined the game
+[01:07:34] [Server thread/INFO]: N7fty[/157.132.100.20:17098] logged in with entity id 20093 at ([The-Wall-master]-241.98529521755097, 16.0, 281.0851628571104)
+[01:07:45] [Server thread/INFO]: Villager Villager['Farmer'/369, uuid='44694752-ffb7-4917-a68a-c691ef37b2cc', l='ServerLevel[The-Wall-master]', x=-250.50, y=65.20, z=187.51, cpos=[-16, 11], tl=27640, v=true] died, message: 'Farmer drowned'
+[01:08:19] [Server thread/INFO]: N7fty lost connection: Timed out
+[01:08:19] [Server thread/INFO]: N7fty left the game
+[01:08:56] [User Authenticator #13/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[01:09:02] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[01:09:02] [Server thread/INFO]: N7fty joined the game
+[01:09:02] [Server thread/INFO]: N7fty[/157.132.100.20:10312] logged in with entity id 20929 at ([The-Wall-master]-241.98529521755097, 16.0, 281.0851628571104)
+[01:09:47] [Server thread/INFO]: N7fty lost connection: Timed out
+[01:09:47] [Server thread/INFO]: N7fty left the game
+[01:09:49] [Server thread/INFO]: Villager Villager['Farmer'/200, uuid='63b9564b-8345-4477-aa8f-546de8badffb', l='ServerLevel[The-Wall-master]', x=-246.47, y=66.66, z=187.49, cpos=[-16, 11], tl=29354, v=true] died, message: 'Farmer drowned'
+[01:10:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
