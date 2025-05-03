@@ -1,1 +1,1 @@
-[06:45:23] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:50656) lost connection: Disconnected
+[17:34:06] [Server thread/INFO]: /156.146.63.199:9765 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
