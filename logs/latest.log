@@ -1,2 +1,1 @@
-[04:12:43] [Server thread/INFO]: /156.146.63.199:32477 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[21:34:01] [Server thread/INFO]: /156.146.63.199:38011 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[17:43:59] [Server thread/INFO]: /156.146.63.199:8207 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
