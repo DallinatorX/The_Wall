@@ -1,1 +1,14 @@
-[17:43:59] [Server thread/INFO]: /156.146.63.199:8207 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[02:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10699ms or 213 ticks behind
+[02:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 582369ms or 11647 ticks behind
+[02:23:02] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[02:36:54] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.5-4-f517267 (MC: 1.21.5) ---
+[02:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1281532ms or 25630 ticks behind
+[02:43:24] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[02:47:10] [Paper Watchdog Thread/ERROR]: The server has not responded for -1726 seconds! Creating thread dump
+[02:47:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:47:13] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[02:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 668191ms or 13363 ticks behind
+[02:57:28] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[03:00:59] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:01:37] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:07:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 999073ms or 19981 ticks behind
