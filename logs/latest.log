@@ -141,3 +141,475 @@
 [03:59:44] [Server thread/INFO]: N7fty lost connection: Disconnected
 [03:59:44] [Server thread/INFO]: N7fty left the game
 [04:00:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:22:30] [User Authenticator #16/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[18:22:32] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[18:22:32] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:11077] logged in with entity id 94344 at ([The-Wall-master]-52.82244160338229, 70.0, 511.48023548808777)
+[18:27:36] [Server thread/INFO]: 855_FOR_TRUTH was slain by Piglin
+[18:31:50] [Server thread/INFO]: 855_FOR_TRUTH was slain by Zombified Piglin
+[18:35:18] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /time set day
+[18:35:18] [Server thread/INFO]: [855_FOR_TRUTH: Set the time to 1000]
+[18:39:51] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[18:39:51] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[18:40:37] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[18:40:37] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[18:45:09] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[18:45:09] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[18:45:43] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[18:45:43] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[18:49:36] [User Authenticator #17/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[18:49:37] [Server thread/INFO]: Dallinator_X joined the game
+[18:49:37] [Server thread/INFO]: Dallinator_X[/192.168.1.2:51634] logged in with entity id 103194 at ([The-Wall-master]-299.5207481335423, 16.0, 281.23620823298825)
+[18:49:44] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[18:49:44] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[18:50:41] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[18:50:41] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[18:51:26] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[18:51:26] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[18:53:24] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[18:53:24] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[18:54:08] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[18:54:08] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[19:02:18] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[19:02:18] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[19:02:20] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[19:02:20] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[19:02:56] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:02:56] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:01] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:01] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:19] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:19] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:22] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:22] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:34] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:34] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:35] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:35] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:36] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:36] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:36] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:36] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:37] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:37] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:37] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:37] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:38] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:38] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:38] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:38] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:39] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:39] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:39] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:39] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:40] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:40] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:40] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~/
+[19:03:43] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~/
+[19:03:45] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:45] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:46] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:46] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:46] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:46] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:47] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:47] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:48] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:48] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:49] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:49] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:49] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:49] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:50] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:50] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:51] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:51] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:52] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:52] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:53] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:53] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:54] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:54] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:54] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:54] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:55] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:55] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:56] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:56] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:57] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:57] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:57] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:57] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:58] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:58] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:03:59] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:03:59] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:00] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:00] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:01] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:01] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:01] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:01] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:02] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:02] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:03] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:03] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:04] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:04] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:04] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:04] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:05] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:05] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:06] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:06] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:07] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:07] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:08] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:08] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:09] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:09] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:10] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:10] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:11] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:11] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:12] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:12] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:14] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~/
+[19:04:22] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~/
+[19:04:24] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:24] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:24] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:24] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:25] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:25] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:26] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:26] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:26] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:26] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:27] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:27] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:28] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:28] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:29] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:29] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:29] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:29] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:30] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:30] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:31] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:31] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:32] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:32] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:32] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:32] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:33] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:33] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:34] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:34] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:35] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:35] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:35] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:35] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:36] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:36] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:37] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:37] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:38] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:38] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:38] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:38] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:39] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:39] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:40] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:40] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:40] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:40] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:41] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:41] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:42] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~10 ~ ~
+[19:04:42] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:48] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~50 ~ ~
+[19:04:48] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:04:56] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:04:56] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:00] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:00] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:05] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:05] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:07] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:07] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:07] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:07] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:08] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:08] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:09] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:09] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:09] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:09] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:10] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:10] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:10] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:10] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:11] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:11] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:11] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:11] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:12] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~
+[19:05:12] [Server thread/INFO]: [Dallinator_X: Summoned new Lightning Bolt]
+[19:05:12] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~/
+[19:05:13] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:lightning_bolt ~30 ~ ~/
+[19:05:31] [Server thread/INFO]: Dallinator_X issued server command: /give Dallinator_X minecraft:command_block
+[19:05:31] [Server thread/INFO]: [Dallinator_X: Gave 1 [Command Block] to Dallinator_X]
+[19:05:35] [Server thread/INFO]: Dallinator_X issued server command: /gamemode creative
+[19:05:35] [Server thread/INFO]: [Dallinator_X: Set own game mode to Creative Mode]
+[19:06:32] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[19:06:32] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[19:07:20] [Server thread/INFO]: 855_FOR_TRUTH was struck by lightning
+[19:07:51] [Server thread/INFO]: Dallinator_X has made the advancement [Surge Protector]
+[19:08:46] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:08:46] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:09:30] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:09:30] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:09:45] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:09:45] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:10:03] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:10:03] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:10:31] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[19:10:31] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[19:10:56] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[19:10:56] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[19:11:00] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[19:11:00] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[19:11:17] [Server thread/INFO]: Dallinator_X issued server command: /time set midnight
+[19:11:17] [Server thread/INFO]: [Dallinator_X: Set the time to 18000]
+[19:13:41] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:13:41] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:13:56] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:13:56] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:14:36] [Server thread/INFO]: Villager Villager['Villager'/1321, uuid='790e8fe0-dd0e-41c6-9fdf-73eec594da1d', l='ServerLevel[The-Wall-master]', x=-244.65, y=75.00, z=251.90, cpos=[-16, 15], tl=169450, v=true] died, message: 'Villager was slain by Zombie'
+[19:15:18] [Server thread/INFO]: Dallinator_X issued server command: /time set midnight
+[19:15:18] [Server thread/INFO]: [Dallinator_X: Set the time to 18000]
+[19:15:19] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[19:15:19] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[19:15:24] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[19:15:24] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[19:16:22] [Server thread/INFO]: Villager Villager['Villager'/408, uuid='f0283aee-1436-419e-bfca-bc2086b52625', l='ServerLevel[The-Wall-master]', x=-278.95, y=69.00, z=303.30, cpos=[-18, 18], tl=172730, v=true] died, message: 'Villager was slain by Zombie'
+[19:16:48] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:16:48] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:17:02] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:17:02] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:17:28] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:17:28] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:17:39] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:17:39] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:18:37] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[19:18:37] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[19:18:39] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[19:18:39] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[19:19:00] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:19:00] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:19:18] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:19:18] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:21:15] [Server thread/INFO]: Dallinator_X issued server command: /time set midnight
+[19:21:15] [Server thread/INFO]: [Dallinator_X: Set the time to 18000]
+[19:21:17] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[19:21:17] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[19:21:45] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:21:45] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:21:58] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:21:58] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:22:05] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:22:05] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:22:12] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:22:12] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:24:26] [Server thread/INFO]: Villager Villager['Villager'/212, uuid='25896732-e526-488b-9c39-6dec413d0d75', l='ServerLevel[The-Wall-master]', x=-244.22, y=74.00, z=196.31, cpos=[-16, 12], tl=182195, v=true] was struck by lightning LightningBolt['Lightning Bolt'/121918, uuid='4d04eed1-f58b-4cdc-aa7f-b32ce21966de', l='ServerLevel[The-Wall-master]', x=-246.50, y=74.00, z=199.50, cpos=[-16, 12], tl=1, v=true].
+[19:24:26] [Server thread/INFO]: Villager Villager['Villager'/198, uuid='1845145c-5747-4dc2-ba85-860df4fcb1dd', l='ServerLevel[The-Wall-master]', x=-246.43, y=74.00, z=199.63, cpos=[-16, 12], tl=182093, v=true] was struck by lightning LightningBolt['Lightning Bolt'/121918, uuid='4d04eed1-f58b-4cdc-aa7f-b32ce21966de', l='ServerLevel[The-Wall-master]', x=-246.50, y=74.00, z=199.50, cpos=[-16, 12], tl=1, v=true].
+[19:24:26] [Server thread/INFO]: Villager Villager['Villager'/232, uuid='7db77260-a924-4da1-b23a-2f2e4d128b74', l='ServerLevel[The-Wall-master]', x=-244.41, y=74.00, z=199.00, cpos=[-16, 12], tl=182059, v=true] was struck by lightning LightningBolt['Lightning Bolt'/121918, uuid='4d04eed1-f58b-4cdc-aa7f-b32ce21966de', l='ServerLevel[The-Wall-master]', x=-246.50, y=74.00, z=199.50, cpos=[-16, 12], tl=1, v=true].
+[19:25:35] [Server thread/INFO]: Dallinator_X issued server command: /time set midnight
+[19:25:35] [Server thread/INFO]: [Dallinator_X: Set the time to 18000]
+[19:25:36] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[19:25:36] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[19:29:51] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[19:29:51] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[19:29:52] [Server thread/INFO]: Dallinator_X issued server command: /time set midnight
+[19:29:52] [Server thread/INFO]: [Dallinator_X: Set the time to 18000]
+[19:31:48] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:31:48] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:32:07] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:32:07] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:33:18] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:33:18] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:33:35] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:33:35] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:34:17] [Server thread/INFO]: Dallinator_X issued server command: /time set midnight
+[19:34:17] [Server thread/INFO]: [Dallinator_X: Set the time to 18000]
+[19:34:19] [Server thread/INFO]: Dallinator_X issued server command: /weather thunder
+[19:34:19] [Server thread/INFO]: [Dallinator_X: Set the weather to rain & thunder]
+[19:35:05] [Server thread/INFO]: 855_FOR_TRUTH has made the advancement [Surge Protector]
+[19:35:20] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[19:35:20] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[19:36:24] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[19:36:24] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[19:36:33] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[19:36:33] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[19:36:48] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[19:36:48] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[19:37:48] [Server thread/INFO]: Dallinator_X issued server command: /weather clear
+[19:37:48] [Server thread/INFO]: [Dallinator_X: Set the weather to clear]
+[19:38:57] [Server thread/INFO]: Villager Villager['Villager'/1152, uuid='b2fc8d67-3276-4a01-8efa-2dbe2fa15cdb', l='ServerLevel[The-Wall-master]', x=-266.04, y=63.00, z=280.09, cpos=[-17, 17], tl=196754, v=true] died, message: 'Villager was slain by Zombie'
+[19:41:21] [Server thread/INFO]: Villager Villager['Farmer'/1008, uuid='058b3eef-aa70-4f9f-b1e5-2f5d75651ce2', l='ServerLevel[The-Wall-master]', x=-248.52, y=48.53, z=187.48, cpos=[-16, 11], tl=200276, v=true] died, message: 'Farmer drowned'
+[19:44:54] [Server thread/INFO]: Villager Villager['Farmer'/343, uuid='6ac65df6-c3fb-4e2c-9a92-3edfe578b3b0', l='ServerLevel[The-Wall-master]', x=-248.49, y=43.83, z=187.46, cpos=[-16, 11], tl=205010, v=true] died, message: 'Farmer drowned'
+[19:50:33] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:50:37] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:50:37] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:50:51] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:50:51] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:53:41] [Server thread/INFO]: 855_FOR_TRUTH was slain by HANNIBAL
+[19:53:53] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[19:53:53] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[19:54:22] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[19:54:22] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[19:56:03] [Server thread/INFO]: Dallinator_X was slain by HANNIBAL
+[19:56:09] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[19:56:09] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[19:57:51] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[19:57:51] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[19:58:04] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[19:58:04] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[19:58:22] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[19:58:22] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[19:58:35] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[19:58:35] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[20:03:15] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[20:03:15] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[20:03:19] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[20:03:19] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[20:05:30] [Server thread/INFO]: Dallinator_X fell from a high place
+[20:05:39] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[20:05:39] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[20:06:51] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[20:06:51] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[20:07:19] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[20:07:19] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[20:08:54] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[20:08:54] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[20:09:13] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[20:09:13] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[20:09:32] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[20:09:32] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[20:12:30] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[20:12:30] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[20:13:40] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH Dallinator_X
+[20:13:40] [Server thread/INFO]: [Dallinator_X: Teleported 855_FOR_TRUTH to Dallinator_X]
+[20:13:44] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[20:13:44] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[20:13:53] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[20:13:53] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[20:14:04] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[20:14:04] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[20:15:30] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[20:15:30] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[20:15:48] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[20:15:48] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[20:16:02] [Server thread/INFO]: Villager Villager['Farmer'/954, uuid='624a2f5a-57ec-43eb-90bf-1e4b77c4762c', l='ServerLevel[The-Wall-master]', x=-246.51, y=51.82, z=187.51, cpos=[-16, 11], tl=243774, v=true] died, message: 'Farmer drowned'
+[20:16:39] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[20:16:39] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[20:19:40] [Server thread/INFO]: Villager Villager['Farmer'/952, uuid='59a7a8de-30d7-43b7-b7f9-ae7a6170b9b2', l='ServerLevel[The-Wall-master]', x=-248.50, y=62.73, z=187.50, cpos=[-16, 11], tl=248381, v=true] died, message: 'Farmer drowned'
+[20:24:01] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[20:24:01] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[20:24:44] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[20:24:44] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[20:25:28] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[20:25:28] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[20:26:23] [Server thread/INFO]: Dallinator_X issued server command: /gamemode spectator
+[20:26:23] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[20:27:52] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[20:27:52] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[20:27:57] [Server thread/INFO]: 855_FOR_TRUTH suffocated in a wall
+[20:28:23] [Server thread/INFO]: Dallinator_X has completed the challenge [Hot Tourist Destinations]
+[20:28:30] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:28:30] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:28:42] [User Authenticator #18/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:28:43] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:28:43] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:12039] logged in with entity id 142337 at ([The-Wall-master_nether]-31.466524451692475, 41.0, -1652.7644915922315)
+[20:28:53] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[20:28:53] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[20:29:06] [Server thread/INFO]: Dallinator_X issued server command: /gamemode survival
+[20:29:06] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[20:29:28] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:29:28] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:30:04] [User Authenticator #19/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:30:05] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:30:05] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:11077] logged in with entity id 144192 at ([The-Wall-master]-220.48750001192093, 26.609200261831184, 248.69999998807907)
+[20:30:18] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[20:30:18] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[20:30:50] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:30:50] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:31:30] [User Authenticator #20/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:31:32] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:31:32] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:11085] logged in with entity id 144460 at ([The-Wall-master_nether]-31.375881630141553, 85.0, -4.571644865545867)
+[20:32:00] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[20:32:00] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:32:49] [User Authenticator #21/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:32:50] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:32:50] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:11098] logged in with entity id 144828 at ([The-Wall-master_nether]-31.375881630141553, 85.0, -4.571644865545867)
+[20:33:50] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:33:50] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:33:59] [User Authenticator #22/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:34:00] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:34:00] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:11081] logged in with entity id 145364 at ([The-Wall-master]-270.3271395384216, 74.0, 167.79925364707975)
+[20:34:36] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[20:34:36] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:35:01] [User Authenticator #23/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:35:03] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:35:03] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:11094] logged in with entity id 145490 at ([The-Wall-master]-270.3271395384216, 74.0, 167.79925364707975)
+[20:35:36] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[20:35:36] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[20:35:48] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:35:48] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:36:13] [Server thread/INFO]: Dallinator_X issued server command: /summon minecraft:magma_cube
+[20:36:13] [Server thread/INFO]: [Dallinator_X: Summoned new Magma Cube]
+[20:36:17] [User Authenticator #24/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:36:18] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:36:18] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:11083] logged in with entity id 145658 at ([The-Wall-master_nether]-31.913617264472336, 85.0, 0.6545364510450741)
+[20:37:40] [Server thread/INFO]: Dallinator_X was slain by Magma Cube
+[20:37:45] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[20:37:45] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[20:37:48] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:37:48] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:38:47] [User Authenticator #25/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:38:48] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:38:48] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:11096] logged in with entity id 146229 at ([The-Wall-master]-287.5524417624268, 74.0, 76.13480028131299)
+[20:39:18] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[20:39:18] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[20:39:33] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:39:33] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:39:42] [User Authenticator #25/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:39:44] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:39:44] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:12050] logged in with entity id 146380 at ([The-Wall-master]-266.82270193915184, 74.0, 128.47426192335553)
+[20:40:14] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[20:40:14] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[20:40:27] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[20:41:45] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:41:45] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:41:55] [User Authenticator #26/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:41:55] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:41:55] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:11084] logged in with entity id 146728 at ([The-Wall-master]-272.31983354221126, 74.0, 74.14128139802555)
+[20:42:40] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:42:40] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:44:39] [User Authenticator #27/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:44:41] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:44:41] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:12047] logged in with entity id 147106 at ([The-Wall-master]-272.31983354221126, 74.0, 74.14128139802555)
+[20:45:22] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /viewdistance 3
+[20:45:26] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:45:27] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:45:36] [User Authenticator #27/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[20:45:39] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[20:45:39] [Server thread/INFO]: 855_FOR_TRUTH[/174.218.20.179:12060] logged in with entity id 147295 at ([The-Wall-master]-272.31983354221126, 74.0, 74.14128139802555)
+[20:45:53] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /viewdistance 3
+[20:46:06] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[20:46:06] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[20:46:24] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Timed out
+[20:46:24] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[20:47:01] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[20:47:02] [Server thread/INFO]: Dallinator_X left the game
+[20:48:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
