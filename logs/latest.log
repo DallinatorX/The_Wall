@@ -11,3 +11,4 @@
 [01:22:58] [Server thread/INFO]: N7fty lost connection: Timed out
 [01:22:58] [Server thread/INFO]: N7fty left the game
 [01:23:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:47:45] [Server thread/INFO]: /191.101.31.45:14387 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
