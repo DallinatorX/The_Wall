@@ -1,14 +1,4 @@
-[01:20:56] [User Authenticator #7/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[01:21:04] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[01:21:04] [Server thread/INFO]: N7fty joined the game
-[01:21:04] [Server thread/INFO]: N7fty[/24.116.111.52:51780] logged in with entity id 65538 at ([The-Wall-master]-243.77178140607418, 16.0, 274.43353142391425)
-[01:21:49] [Server thread/INFO]: N7fty lost connection: Timed out
-[01:21:49] [Server thread/INFO]: N7fty left the game
-[01:22:08] [User Authenticator #8/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[01:22:13] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[01:22:13] [Server thread/INFO]: N7fty joined the game
-[01:22:13] [Server thread/INFO]: N7fty[/24.116.111.52:56616] logged in with entity id 66474 at ([The-Wall-master]-243.77178140607418, 16.0, 274.43353142391425)
-[01:22:58] [Server thread/INFO]: N7fty lost connection: Timed out
-[01:22:58] [Server thread/INFO]: N7fty left the game
-[01:23:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:47:45] [Server thread/INFO]: /191.101.31.45:14387 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[12:43:28] [Server thread/INFO]: /191.101.31.45:28479 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[14:42:33] [User Authenticator #9/INFO]: UUID of player kons0las is bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+[14:42:33] [Server thread/INFO]: Disconnecting kons0las (/199.58.83.12:33810): Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
+[14:42:33] [Server thread/INFO]: kons0las (/199.58.83.12:33810) lost connection: Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
