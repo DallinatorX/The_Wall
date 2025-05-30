@@ -1,4 +1,1 @@
-[12:43:28] [Server thread/INFO]: /191.101.31.45:28479 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[14:42:33] [User Authenticator #9/INFO]: UUID of player kons0las is bc4f5a10-e49d-4b95-b50e-5e5b108166dd
-[14:42:33] [Server thread/INFO]: Disconnecting kons0las (/199.58.83.12:33810): Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
-[14:42:33] [Server thread/INFO]: kons0las (/199.58.83.12:33810) lost connection: Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
+[09:40:56] [Server thread/INFO]: /191.101.31.45:23211 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
