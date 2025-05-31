@@ -1,1 +1,1 @@
-[09:40:56] [Server thread/INFO]: /191.101.31.45:23211 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[00:42:36] [Server thread/INFO]: /191.101.31.45:17316 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
