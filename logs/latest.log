@@ -1,1 +1,1 @@
-[10:43:38] [Server thread/INFO]: /191.101.31.45:58634 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[16:51:12] [Server thread/INFO]: /195.154.199.60:9142 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
