@@ -1,21 +1,2 @@
-[00:55:55] [User Authenticator #21/INFO]: UUID of player KROD_DA_KROD is cb6c9f64-2f53-4b59-b1bb-a55d9a028145
-[00:55:55] [Server thread/INFO]: KROD_DA_KROD joined the game
-[00:55:55] [Server thread/INFO]: KROD_DA_KROD[/192.168.1.2:60994] logged in with entity id 193379 at ([The-Wall-master]-620.8134960777612, 70.0, 1033.3396238460214)
-[00:56:04] [Server thread/INFO]: KROD_DA_KROD fell from a high place
-[00:56:07] [Server thread/INFO]: KROD_DA_KROD lost connection: Disconnected
-[00:56:07] [Server thread/INFO]: KROD_DA_KROD left the game
-[00:57:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:40:57] [User Authenticator #22/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[03:40:59] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[03:40:59] [Server thread/INFO]: N7fty joined the game
-[03:40:59] [Server thread/INFO]: N7fty[/10.66.66.3:43344] logged in with entity id 193445 at ([The-Wall-master]-247.6721112043609, 16.0, 256.8217496477018)
-[03:52:54] [Server thread/INFO]: N7fty fell from a high place
-[03:54:44] [Server thread/INFO]: Villager Villager['Farmer'/348, uuid='d010fd12-e488-434d-bc66-4d39d27ce1ad', l='ServerLevel[The-Wall-master]', x=-249.50, y=49.78, z=187.51, cpos=[-16, 11], tl=317297, v=true] died, message: 'Farmer drowned'
-[03:55:38] [Server thread/INFO]: Villager Villager['Farmer'/225, uuid='1f373f6d-604d-4169-bc85-90618f5cd367', l='ServerLevel[The-Wall-master]', x=-248.51, y=63.38, z=187.49, cpos=[-16, 11], tl=318947, v=true] died, message: 'Farmer drowned'
-[03:58:47] [Server thread/INFO]: N7fty issued server command: /kill
-[03:58:47] [Server thread/INFO]: N7fty was killed
-[03:58:47] [Server thread/INFO]: [N7fty: Killed N7fty]
-[03:59:20] [Server thread/INFO]: Villager Villager['Farmer'/1652, uuid='21335034-541c-4302-8269-22f3e9a8b954', l='ServerLevel[The-Wall-master]', x=-247.50, y=35.29, z=187.49, cpos=[-16, 11], tl=322646, v=true] died, message: 'Farmer drowned'
-[04:00:00] [Server thread/INFO]: N7fty lost connection: Disconnected
-[04:00:00] [Server thread/INFO]: N7fty left the game
-[04:01:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:32:38] [Server thread/INFO]: MCScans (/193.218.118.187:54744) lost connection: Disconnected
+[13:43:18] [Server thread/INFO]: MCScans (/193.218.118.187:52002) lost connection: Disconnected
