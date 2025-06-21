@@ -1,2 +1,3 @@
-[13:32:38] [Server thread/INFO]: MCScans (/193.218.118.187:54744) lost connection: Disconnected
-[13:43:18] [Server thread/INFO]: MCScans (/193.218.118.187:52002) lost connection: Disconnected
+[08:59:04] [User Authenticator #23/INFO]: Disconnecting Acoder (/102.191.34.184:40754): Failed to verify username!
+[08:59:04] [User Authenticator #23/ERROR]: Username 'Acoder' tried to join with an invalid session
+[08:59:04] [Server thread/INFO]: Acoder (/102.191.34.184:40754) lost connection: Failed to verify username!
