@@ -1,3 +1,40 @@
-[08:59:04] [User Authenticator #23/INFO]: Disconnecting Acoder (/102.191.34.184:40754): Failed to verify username!
-[08:59:04] [User Authenticator #23/ERROR]: Username 'Acoder' tried to join with an invalid session
-[08:59:04] [Server thread/INFO]: Acoder (/102.191.34.184:40754) lost connection: Failed to verify username!
+[03:12:03] [User Authenticator #7/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[03:12:06] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[03:12:06] [Server thread/INFO]: N7fty joined the game
+[03:12:06] [Server thread/INFO]: N7fty[/10.66.66.3:43592] logged in with entity id 121422 at ([The-Wall-master]-212.87945545805405, 74.0, 148.76180089487488)
+[03:19:29] [Server thread/INFO]: N7fty issued server command: /time set 0
+[03:19:29] [Server thread/INFO]: [N7fty: Set the time to 0]
+[03:30:06] [Server thread/INFO]: N7fty issued server command: /tp -201 125 -4881
+[03:30:06] [Server thread/INFO]: [N7fty: Teleported N7fty to -200.500000, 125.000000, -4880.500000]
+[03:30:15] [Server thread/INFO]: N7fty issued server command: /time set 0
+[03:30:15] [Server thread/INFO]: [N7fty: Set the time to 0]
+[03:31:31] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
+[03:33:57] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
+[03:33:59] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
+[03:34:14] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
+[03:41:33] [Server thread/INFO]: N7fty issued server command: /time set 0
+[03:41:33] [Server thread/INFO]: [N7fty: Set the time to 0]
+[03:48:57] [Server thread/INFO]: N7fty issued server command: /time set 0
+[03:48:57] [Server thread/INFO]: [N7fty: Set the time to 0]
+[03:49:40] [Server thread/INFO]: N7fty fell from a high place
+[03:49:48] [Server thread/INFO]: N7fty issued server command: /tp -201 125 -4881
+[03:49:48] [Server thread/INFO]: [N7fty: Teleported N7fty to -200.500000, 125.000000, -4880.500000]
+[03:50:22] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
+[03:50:31] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
+[03:57:03] [Server thread/INFO]: N7fty fell from a high place
+[03:59:00] [Server thread/INFO]: N7fty issued server command: /tp -201 125 -4881
+[03:59:00] [Server thread/INFO]: [N7fty: Teleported N7fty to -200.500000, 125.000000, -4880.500000]
+[03:59:29] [Server thread/INFO]: N7fty issued server command: /time set 0
+[03:59:29] [Server thread/INFO]: [N7fty: Set the time to 0]
+[04:01:04] [Server thread/INFO]: [N7fty: Set own game mode to Creative Mode]
+[04:01:15] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
+[04:12:05] [Server thread/INFO]: N7fty issued server command: /kill
+[04:12:05] [Server thread/INFO]: N7fty was killed
+[04:12:05] [Server thread/INFO]: [N7fty: Killed N7fty]
+[04:15:29] [Server thread/INFO]: N7fty issued server command: /kill
+[04:15:29] [Server thread/INFO]: N7fty was killed
+[04:15:29] [Server thread/INFO]: [N7fty: Killed N7fty]
+[04:16:12] [Server thread/INFO]: Villager Villager['Villager'/556, uuid='4e5b4092-bcb2-4a05-8633-12934597c8b0', l='ServerLevel[The-Wall-master]', x=-281.96, y=69.00, z=303.30, cpos=[-18, 18], tl=193178, v=true] died, message: 'Villager was slain by Zombie'
+[04:19:50] [Server thread/INFO]: N7fty lost connection: Disconnected
+[04:19:51] [Server thread/INFO]: N7fty left the game
+[04:20:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
