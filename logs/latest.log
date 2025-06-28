@@ -1,1 +1,2 @@
-[08:56:06] [Server thread/INFO]: MCScans (/193.218.118.187:34874) lost connection: Disconnected
+[15:41:59] [Server thread/INFO]: /195.154.199.60:28886 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[15:49:54] [Server thread/INFO]: /195.154.199.60:29168 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
