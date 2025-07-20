@@ -1,1 +1,41 @@
-[10:21:57] [Server thread/INFO]: MCScans (/45.148.10.134:35534) lost connection: Disconnected
+[01:07:56] [User Authenticator #6/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[01:07:59] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[01:07:59] [Server thread/INFO]: N7fty joined the game
+[01:07:59] [Server thread/INFO]: N7fty[/10.66.66.3:40676] logged in with entity id 67400 at ([The-Wall-master]-253.1073299912873, 15.0, 280.9841628389368)
+[01:10:27] [Server thread/INFO]: N7fty issued server command: /tp -201 125 -4881
+[01:10:27] [Server thread/INFO]: [N7fty: Teleported N7fty to -200.500000, 125.000000, -4880.500000]
+[01:12:16] [Server thread/INFO]: N7fty issued server command: /time set 0
+[01:12:16] [Server thread/INFO]: [N7fty: Set the time to 0]
+[01:29:30] [Server thread/INFO]: N7fty issued server command: /time set 0
+[01:29:30] [Server thread/INFO]: [N7fty: Set the time to 0]
+[01:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4458ms or 89 ticks behind
+[01:32:18] [Server thread/INFO]: Villager Villager['Villager'/73359, uuid='f2fee125-9c7d-49e8-8065-6618a34273df', l='ServerLevel[The-Wall-master]', x=-417.25, y=83.00, z=-4045.76, cpos=[-27, -253], tl=10894, v=true] died, message: 'Villager hit the ground too hard'
+[01:41:09] [Server thread/INFO]: N7fty issued server command: /time set 0
+[01:41:09] [Server thread/INFO]: [N7fty: Set the time to 0]
+[01:52:21] [Server thread/INFO]: N7fty issued server command: /time set 0
+[01:52:21] [Server thread/INFO]: [N7fty: Set the time to 0]
+[02:03:07] [Server thread/INFO]: N7fty issued server command: /time set 0
+[02:03:07] [Server thread/INFO]: [N7fty: Set the time to 0]
+[02:17:26] [Server thread/INFO]: N7fty tried to swim in lava
+[02:20:32] [Server thread/INFO]: N7fty issued server command: /tp -201 125 -488
+[02:20:32] [Server thread/INFO]: [N7fty: Teleported N7fty to -200.500000, 125.000000, -487.500000]
+[02:20:38] [Server thread/INFO]: N7fty issued server command: /time set 0
+[02:20:38] [Server thread/INFO]: [N7fty: Set the time to 0]
+[02:20:58] [Server thread/INFO]: N7fty issued server command: /tp -201 125 -1000
+[02:20:58] [Server thread/INFO]: [N7fty: Teleported N7fty to -200.500000, 125.000000, -999.500000]
+[02:26:33] [Server thread/INFO]: N7fty issued server command: /kill
+[02:26:33] [Server thread/INFO]: N7fty was killed
+[02:26:33] [Server thread/INFO]: [N7fty: Killed N7fty]
+[02:28:16] [Server thread/INFO]: N7fty issued server command: /kill
+[02:28:16] [Server thread/INFO]: N7fty was killed
+[02:28:16] [Server thread/INFO]: [N7fty: Killed N7fty]
+[02:28:36] [Server thread/INFO]: N7fty issued server command: /tp -201 125 4649
+[02:28:36] [Server thread/INFO]: [N7fty: Teleported N7fty to -200.500000, 125.000000, 4649.500000]
+[02:31:16] [Server thread/INFO]: N7fty issued server command: /time set 0
+[02:31:16] [Server thread/INFO]: [N7fty: Set the time to 0]
+[02:31:40] [Server thread/INFO]: N7fty issued server command: /kill
+[02:31:40] [Server thread/INFO]: N7fty was killed
+[02:31:40] [Server thread/INFO]: [N7fty: Killed N7fty]
+[02:32:40] [Server thread/INFO]: N7fty lost connection: Disconnected
+[02:32:40] [Server thread/INFO]: N7fty left the game
+[02:33:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
