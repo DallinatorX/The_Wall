@@ -1,5 +1,52 @@
-[00:32:01] [Server thread/INFO]: Player (/156.146.63.150:36089) lost connection: Disconnected
-[01:22:26] [Server thread/INFO]: Player (/156.146.63.150:56055) lost connection: Disconnected
-[02:11:19] [Server thread/INFO]: Player (/156.146.63.150:15651) lost connection: Disconnected
-[03:01:51] [Server thread/INFO]: Player (/156.146.63.150:42167) lost connection: Disconnected
-[03:50:25] [Server thread/INFO]: Player (/156.146.63.150:18171) lost connection: Disconnected
+[00:00:33] [Server thread/INFO]: N7fty issued server command: /kill
+[00:00:33] [Server thread/INFO]: N7fty was killed
+[00:00:33] [Server thread/INFO]: [N7fty: Killed N7fty]
+[00:01:07] [Server thread/INFO]: Villager Villager['Fisherman'/282, uuid='5cb677bf-79f2-45da-906a-acd6a77463c8', l='ServerLevel[The-Wall-master]', x=-220.20, y=11.00, z=304.28, cpos=[-14, 19], tl=185886, v=true] died, message: 'Fisherman hit the ground too hard'
+[00:03:28] [Server thread/INFO]: Villager Villager['Villager'/1303, uuid='d8a64c3f-7d6a-4e94-90e0-006934f593ac', l='ServerLevel[The-Wall-master]', x=-256.52, y=75.25, z=240.23, cpos=[-17, 15], tl=188694, v=true] died, message: 'Villager was slain by Zombie'
+[00:11:42] [Server thread/INFO]: N7fty issued server command: /tp 7775 100 -281
+[00:11:42] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 100.000000, -280.500000]
+[00:16:53] [Server thread/INFO]: N7fty drowned
+[00:17:39] [Server thread/INFO]: Villager Villager['Villager'/1664, uuid='0edfcdbd-704e-4344-991a-5ac6c33190ee', l='ServerLevel[The-Wall-master]', x=-247.52, y=71.55, z=187.54, cpos=[-16, 11], tl=199596, v=true] died, message: 'Villager drowned'
+[00:18:31] [Server thread/INFO]: N7fty issued server command: /tp 7775 100 -281
+[00:18:31] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 100.000000, -280.500000]
+[00:23:00] [Server thread/INFO]: N7fty issued server command: /tp 7775 100 -281
+[00:23:00] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 100.000000, -280.500000]
+[00:23:02] [Server thread/INFO]: N7fty issued server command: /kill
+[00:23:02] [Server thread/INFO]: N7fty was killed
+[00:23:02] [Server thread/INFO]: [N7fty: Killed N7fty]
+[00:24:33] [Server thread/INFO]: N7fty issued server command: /tp 7775 100 -281
+[00:24:33] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 100.000000, -280.500000]
+[00:24:38] [Server thread/INFO]: N7fty issued server command: /time set 0
+[00:24:38] [Server thread/INFO]: [N7fty: Set the time to 0]
+[00:28:20] [Server thread/INFO]: N7fty was slain by Spider
+[00:28:28] [Server thread/INFO]: N7fty issued server command: /time set 0
+[00:28:28] [Server thread/INFO]: [N7fty: Set the time to 0]
+[00:28:31] [Server thread/INFO]: N7fty issued server command: /tp 7775 100 -281
+[00:28:31] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 100.000000, -280.500000]
+[00:32:56] [Server thread/INFO]: N7fty issued server command: /kill
+[00:32:56] [Server thread/INFO]: N7fty was killed
+[00:32:56] [Server thread/INFO]: [N7fty: Killed N7fty]
+[00:34:09] [Server thread/INFO]: N7fty issued server command: /tp 7775 100 -281
+[00:34:09] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 100.000000, -280.500000]
+[00:36:23] [Server thread/INFO]: N7fty issued server command: /tp 7775 100 -281
+[00:36:23] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 100.000000, -280.500000]
+[00:36:32] [Server thread/INFO]: N7fty fell from a high place
+[00:37:09] [Server thread/INFO]: N7fty issued server command: /tp 7775 100 -281
+[00:37:09] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 100.000000, -280.500000]
+[00:39:58] [Server thread/INFO]: N7fty issued server command: /tp 7775 10 -281
+[00:39:58] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 10.000000, -280.500000]
+[00:40:35] [Server thread/INFO]: N7fty was slain by Zombie
+[00:40:40] [Server thread/INFO]: N7fty issued server command: /tp 7775 10 -281
+[00:40:40] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 10.000000, -280.500000]
+[00:47:59] [Server thread/INFO]: N7fty issued server command: /kill
+[00:47:59] [Server thread/INFO]: N7fty was killed
+[00:47:59] [Server thread/INFO]: [N7fty: Killed N7fty]
+[00:48:36] [Server thread/INFO]: N7fty issued server command: /tp 7775 10 -281
+[00:48:36] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 10.000000, -280.500000]
+[00:48:49] [Server thread/INFO]: N7fty fell from a high place
+[00:48:53] [Server thread/INFO]: N7fty issued server command: /tp 7775 10 -281
+[00:48:53] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 10.000000, -280.500000]
+[00:49:55] [Server thread/INFO]: N7fty was slain by Breeze
+[00:50:35] [Server thread/INFO]: N7fty lost connection: Disconnected
+[00:50:35] [Server thread/INFO]: N7fty left the game
+[00:51:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
