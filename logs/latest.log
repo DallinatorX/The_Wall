@@ -1,5 +1,175 @@
-[00:18:35] [Server thread/INFO]: Player (/204.76.203.35:12165) lost connection: Disconnected
-[01:08:07] [Server thread/INFO]: Player (/204.76.203.35:11767) lost connection: Disconnected
-[01:57:09] [Server thread/INFO]: Player (/204.76.203.35:11183) lost connection: Disconnected
-[02:45:42] [Server thread/INFO]: Player (/204.76.203.35:11331) lost connection: Disconnected
-[04:02:22] [Server thread/INFO]: Player (/204.76.203.35:12107) lost connection: Disconnected
+[00:42:19] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu122.04.1; Ubuntu null) on Linux 6.8.0-78-generic (amd64)
+[00:42:19] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.6-26-main@186e9e3 (2025-06-21T18:49:57Z) for Minecraft 1.21.6
+[00:42:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:42:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[00:42:21] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - LANBroadcaster (1.6.2), NoMobGriefing (3.0.3), PlayerViewDistanceController (1.4.0)
+[00:42:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:42:32] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[00:42:34] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 2,060.8ms
+[00:42:37] [ServerMain/INFO]: Loaded 1407 recipes
+[00:42:37] [ServerMain/INFO]: Loaded 1520 advancements
+[00:42:37] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[00:42:37] [Server thread/INFO]: Loading properties
+[00:42:37] [Server thread/INFO]: This server is running Paper version 1.21.6-26-main@186e9e3 (2025-06-21T18:49:57Z) (Implementing API version 1.21.6-R0.1-SNAPSHOT)
+[00:42:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:42:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:42:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:42:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:42:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:42:39] [Server thread/INFO]: Default game type: SURVIVAL
+[00:42:39] [Server thread/INFO]: Generating keypair
+[00:42:39] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[00:42:39] [Server thread/INFO]: Using epoll channel type
+[00:42:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:42:39] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:42:40] [Server thread/INFO]: [PVDC] Loading server plugin PlayerViewDistanceController v1.4.0
+[00:42:40] [Server thread/INFO]: [NoMobGriefing] Loading server plugin NoMobGriefing v3.0.3
+[00:42:40] [Server thread/INFO]: [LANBroadcaster] Loading server plugin LANBroadcaster v1.6.2
+[00:42:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:42:40] [Server thread/INFO]: Preparing level "The-Wall-master"
+[00:42:40] [Server thread/INFO]: -------- World Settings For [The-Wall-master] --------
+[00:42:40] [Server thread/INFO]: View Distance: 32
+[00:42:40] [Server thread/INFO]: Simulation Distance: 32
+[00:42:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:42:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:42:40] [Server thread/INFO]: Mob Spawn Range: 6
+[00:42:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:42:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:42:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:42:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:42:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:42:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[00:42:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:42:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:42:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:42:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:42:40] [Server thread/INFO]: Max TNT Explosions: 100
+[00:42:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:42:41] [Server thread/INFO]: -------- World Settings For [The-Wall-master_nether] --------
+[00:42:41] [Server thread/INFO]: View Distance: 32
+[00:42:41] [Server thread/INFO]: Simulation Distance: 32
+[00:42:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:42:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:42:41] [Server thread/INFO]: Mob Spawn Range: 6
+[00:42:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:42:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:42:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:42:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:42:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:42:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:42:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:42:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:42:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:42:41] [Server thread/INFO]: Max TNT Explosions: 100
+[00:42:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:42:41] [Server thread/INFO]: -------- World Settings For [The-Wall-master_the_end] --------
+[00:42:41] [Server thread/INFO]: View Distance: 32
+[00:42:41] [Server thread/INFO]: Simulation Distance: 32
+[00:42:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:42:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:42:41] [Server thread/INFO]: Mob Spawn Range: 6
+[00:42:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:42:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:42:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:42:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:42:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:42:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[00:42:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:42:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:42:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:42:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:42:41] [Server thread/INFO]: Max TNT Explosions: 100
+[00:42:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:42:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:42:41] [Server thread/INFO]: Preparing spawn area: 0%
+[00:42:42] [Server thread/INFO]: Preparing spawn area: 0%
+[00:42:42] [Server thread/INFO]: Preparing spawn area: 0%
+[00:42:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:42:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:42:43] [Server thread/INFO]: Time elapsed: 2232 ms
+[00:42:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:42:44] [Server thread/INFO]: Preparing spawn area: 0%
+[00:42:44] [Server thread/INFO]: Preparing spawn area: 18%
+[00:42:44] [Server thread/INFO]: Time elapsed: 827 ms
+[00:42:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:42:44] [Server thread/INFO]: Preparing spawn area: 0%
+[00:42:44] [Server thread/INFO]: Time elapsed: 208 ms
+[00:42:44] [Server thread/INFO]: [PVDC] Enabling PlayerViewDistanceController v1.4.0
+[00:42:44] [Server thread/INFO]: [PVDC] Plugin started!
+[00:42:44] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
+[00:42:44] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[00:42:44] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
+[00:42:45] [Server thread/INFO]: [spark] Starting background profiler...
+[00:42:45] [Server thread/INFO]: Done preparing level "The-Wall-master" (5.321s)
+[00:42:45] [Server thread/INFO]: Running delayed init tasks
+[00:42:45] [Server thread/INFO]: Done (30.895s)! For help, type "help"
+[00:42:45] [Craft Scheduler Thread - 3 - LANBroadcaster/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
+[00:43:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:27:50] [Server thread/INFO]: Player (/204.76.203.35:9463) lost connection: Disconnected
+[02:41:06] [Server thread/INFO]: Player (/204.76.203.35:11421) lost connection: Disconnected
+[03:29:04] [Server thread/INFO]: Player (/204.76.203.35:10229) lost connection: Disconnected
