@@ -1,6 +1,5 @@
-[01:09:30] [Server thread/INFO]: Player (/204.76.203.35:9163) lost connection: Disconnected
-[01:55:54] [Server thread/INFO]: Player (/204.76.203.35:12605) lost connection: Disconnected
-[02:40:09] [Server thread/INFO]: Player (/204.76.203.35:13457) lost connection: Disconnected
-[03:03:39] [Server thread/INFO]: /51.158.65.133:1001 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[03:27:18] [Server thread/INFO]: Player (/204.76.203.35:11245) lost connection: Disconnected
-[03:38:32] [Server thread/INFO]: /51.158.65.133:1001 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[00:11:39] [Server thread/INFO]: Player (/204.76.203.35:13847) lost connection: Disconnected
+[00:58:44] [Server thread/INFO]: Player (/204.76.203.35:11113) lost connection: Disconnected
+[01:47:35] [Server thread/INFO]: Player (/204.76.203.35:25201) lost connection: Disconnected
+[02:34:54] [Server thread/INFO]: Player (/204.76.203.35:9811) lost connection: Disconnected
+[03:23:18] [Server thread/INFO]: Player (/204.76.203.35:10911) lost connection: Disconnected
