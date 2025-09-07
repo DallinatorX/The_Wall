@@ -1,1 +1,16 @@
-[00:14:56] [Server thread/INFO]: Player (/204.76.203.35:9521) lost connection: Disconnected
+[00:10:25] [Server thread/INFO]: N7fty issued server command: /kill
+[00:10:25] [Server thread/INFO]: N7fty was killed
+[00:10:25] [Server thread/INFO]: [N7fty: Killed N7fty]
+[00:11:35] [Server thread/INFO]: N7fty issued server command: /tp 11300 100 13000
+[00:11:35] [Server thread/INFO]: [N7fty: Teleported N7fty to 11300.500000, 100.000000, 13000.500000]
+[00:24:57] [Server thread/INFO]: N7fty was slain by Zombie Villager
+[00:35:20] [Server thread/INFO]: Villager Villager['Fisherman'/163, uuid='3e8072fe-4e02-4a50-a3a2-c0dffcd47fc2', l='ServerLevel[The-Wall-master]', x=-206.65, y=74.00, z=236.81, cpos=[-13, 14], tl=139920, v=true] died, message: 'Fisherman hit the ground too hard'
+[00:36:14] [Server thread/INFO]: N7fty issued server command: /tp 11300 100 13000
+[00:36:14] [Server thread/INFO]: [N7fty: Teleported N7fty to 11300.500000, 100.000000, 13000.500000]
+[00:47:11] [Server thread/INFO]: N7fty issued server command: /kill
+[00:47:11] [Server thread/INFO]: N7fty was killed
+[00:47:11] [Server thread/INFO]: [N7fty: Killed N7fty]
+[00:48:02] [Server thread/INFO]: N7fty lost connection: Disconnected
+[00:48:02] [Server thread/INFO]: N7fty left the game
+[00:49:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:18:05] [Server thread/INFO]: Player (/204.76.203.35:8811) lost connection: Disconnected
