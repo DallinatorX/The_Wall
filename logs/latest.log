@@ -1,24 +1,2 @@
-[01:09:48] [User Authenticator #2/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[01:09:51] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[01:09:51] [Server thread/INFO]: N7fty joined the game
-[01:09:51] [Server thread/INFO]: N7fty[/157.132.100.110:36395] logged in with entity id 58967 at ([The-Wall-master]-229.4580941665105, 11.0, 279.49497490626595)
-[01:11:34] [Server thread/INFO]: N7fty issued server command: /tp 11300 100 13000
-[01:11:34] [Server thread/INFO]: [N7fty: Teleported N7fty to 11300.500000, 100.000000, 13000.500000]
-[01:21:49] [Server thread/INFO]: N7fty was slain by Warden
-[01:27:11] [Server thread/INFO]: N7fty lost connection: Disconnected
-[01:27:11] [Server thread/INFO]: N7fty left the game
-[01:27:32] [User Authenticator #3/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[01:27:43] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[01:27:43] [Server thread/INFO]: N7fty joined the game
-[01:27:43] [Server thread/INFO]: N7fty[/157.132.100.110:38611] logged in with entity id 67916 at ([The-Wall-master]-279.0058207293547, 74.0, 267.8930151930634)
-[01:28:28] [Server thread/INFO]: N7fty lost connection: Timed out
-[01:28:28] [Server thread/INFO]: N7fty left the game
-[01:29:16] [User Authenticator #4/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[01:29:18] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[01:29:18] [Server thread/INFO]: N7fty joined the game
-[01:29:18] [Server thread/INFO]: N7fty[/157.132.100.110:59485] logged in with entity id 68766 at ([The-Wall-master]-279.0058207293547, 74.0, 267.8930151930634)
-[01:29:48] [Server thread/INFO]: Villager Villager['Villager'/823, uuid='1e4e62f0-7101-404d-93af-1c050b8f0978', l='ServerLevel[The-Wall-master]', x=-274.70, y=62.00, z=247.30, cpos=[-18, 15], tl=160843, v=true] died, message: 'Villager was slain by Zombie'
-[01:30:03] [Server thread/INFO]: N7fty lost connection: Timed out
-[01:30:04] [Server thread/INFO]: N7fty left the game
-[01:31:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:38:59] [Server thread/INFO]: Player (/204.76.203.35:29325) lost connection: Disconnected
+[07:40:05] [Server thread/INFO]: MCScans (/45.148.10.134:36416) lost connection: Disconnected
+[12:40:07] [Server thread/INFO]: Player (/204.76.203.35:13487) lost connection: Disconnected
