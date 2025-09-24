@@ -1,2 +1,4 @@
-[07:40:05] [Server thread/INFO]: MCScans (/45.148.10.134:36416) lost connection: Disconnected
-[12:40:07] [Server thread/INFO]: Player (/204.76.203.35:13487) lost connection: Disconnected
+[12:40:53] [Server thread/INFO]: Player (/204.76.203.35:8217) lost connection: Disconnected
+[13:31:57] [User Authenticator #5/INFO]: Disconnecting N7fty (/82.102.19.84:40344): Failed to verify username!
+[13:31:57] [User Authenticator #5/ERROR]: Username 'N7fty' tried to join with an invalid session
+[13:31:57] [Server thread/INFO]: N7fty (/82.102.19.84:40344) lost connection: Failed to verify username!
