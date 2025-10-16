@@ -1,5 +1,5 @@
-[14:48:22] [User Authenticator #4/INFO]: UUID of player KittyScanNya is 0235ffa8-ad25-4537-a3fd-535afff0987c
-[14:48:22] [Server thread/INFO]: Disconnecting KittyScanNya (/176.65.148.158:59704): Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
-[14:48:22] [Server thread/INFO]: Disconnecting KittyScanNya (/176.65.148.158:59704): Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
-[14:48:22] [Server thread/INFO]: KittyScanNya (/176.65.148.158:59704) lost connection: Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
-[22:40:56] [Server thread/INFO]: Player (/204.76.203.35:31595) lost connection: Disconnected
+[13:27:19] [Server thread/INFO]: ServerOverflow1 (/176.65.148.49:57578) lost connection: Disconnected
+[21:18:02] [User Authenticator #5/INFO]: Disconnecting Dallinator_X (/146.70.144.84:33838): Failed to verify username!
+[21:18:02] [User Authenticator #5/ERROR]: Username 'Dallinator_X' tried to join with an invalid session
+[21:18:02] [Server thread/INFO]: Dallinator_X (/146.70.144.84:33838) lost connection: Failed to verify username!
+[22:43:02] [Server thread/INFO]: Player (/204.76.203.35:8957) lost connection: Disconnected
