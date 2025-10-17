@@ -1,5 +1,3 @@
-[13:27:19] [Server thread/INFO]: ServerOverflow1 (/176.65.148.49:57578) lost connection: Disconnected
-[21:18:02] [User Authenticator #5/INFO]: Disconnecting Dallinator_X (/146.70.144.84:33838): Failed to verify username!
-[21:18:02] [User Authenticator #5/ERROR]: Username 'Dallinator_X' tried to join with an invalid session
-[21:18:02] [Server thread/INFO]: Dallinator_X (/146.70.144.84:33838) lost connection: Failed to verify username!
-[22:43:02] [Server thread/INFO]: Player (/204.76.203.35:8957) lost connection: Disconnected
+[10:50:06] [Server thread/INFO]: MCScans (/45.148.10.134:50496) lost connection: Disconnected
+[13:27:37] [Server thread/INFO]: ServerOverflow1 (/176.65.148.49:57110) lost connection: Disconnected
+[22:44:23] [Server thread/INFO]: Player (/204.76.203.35:17839) lost connection: Disconnected
