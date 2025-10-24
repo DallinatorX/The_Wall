@@ -1,4 +1,3 @@
-[12:52:37] [Server thread/INFO]: mcsrvstat (/159.89.2.158:55030) lost connection: Disconnected
-[12:54:55] [Server thread/INFO]: MCScans (/45.148.10.134:52152) lost connection: Disconnected
-[13:31:33] [Server thread/INFO]: ServerOverflow1 (/176.65.148.49:58618) lost connection: Disconnected
-[22:51:17] [Server thread/INFO]: Player (/204.76.203.35:8797) lost connection: Disconnected
+[13:31:53] [Server thread/INFO]: mcsrvstat (/159.89.2.158:44166) lost connection: Disconnected
+[13:32:33] [Server thread/INFO]: ServerOverflow1 (/176.65.148.49:60642) lost connection: Disconnected
+[22:52:07] [Server thread/INFO]: Player (/204.76.203.35:8803) lost connection: Disconnected
