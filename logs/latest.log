@@ -1,97 +1,12 @@
-[02:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27990ms or 559 ticks behind
-[02:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1845839ms or 36916 ticks behind
-[02:38:24] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.6-26-186e9e3 (MC: 1.21.6) ---
-[02:38:24] [Paper Watchdog Thread/ERROR]: The server has not responded for -1857 seconds! Creating thread dump
-[02:38:24] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:38:24] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[02:38:24] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:38:24] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[02:38:24] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:38:24] [Paper Watchdog Thread/ERROR]: 	Stack:
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/jdk.internal.misc.Unsafe.park(Native Method)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitForTasks(MinecraftServer.java:1399)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:140)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007eba70eed448.run(Unknown Source)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.runWith(Thread.java:1596)
-[02:38:24] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.run(Thread.java:1583)
-[02:38:24] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:38:24] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[02:38:24] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:39:21] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.6-26-186e9e3 (MC: 1.21.6) ---
-[02:39:24] [Paper Watchdog Thread/ERROR]: The server has not responded for 26 seconds! Creating thread dump
-[02:39:25] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:39:26] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[02:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 76250ms or 1525 ticks behind
-[02:45:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:45:21] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[02:45:22] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
-[02:45:24] [Paper Watchdog Thread/ERROR]: 	Stack:
-[02:45:26] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.math.BigDecimal.bigMultiplyPowerTen(BigDecimal.java:5362)
-[02:45:27] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.math.BigDecimal.add(BigDecimal.java:5341)
-[02:45:29] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.math.BigDecimal.add(BigDecimal.java:1394)
-[02:45:35] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.util.RollingAverage.add(RollingAverage.java:50)
-[02:45:36] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.monitor.tick.SparkTickStatistics.onTick(SparkTickStatistics.java:99)
-[02:45:37] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.tick.AbstractTickReporter.onTick(AbstractTickReporter.java:31)
-[02:45:37] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.PaperTickReporter.onTick(PaperTickReporter.java:43)
-[02:45:39] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.PaperSparkPlugin.onServerTickEnd(PaperSparkPlugin.java:110)
-[02:45:40] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly.tickEnd(SparksFly.java:162)
-[02:45:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1521)
-[02:45:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252)
-[02:45:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
-[02:46:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007eba70eed448.run(Unknown Source)
-[02:46:02] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.runWith(Thread.java:1596)
-[02:46:03] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.run(Thread.java:1583)
-[02:46:05] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:46:06] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[02:46:07] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:48:09] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.6-26-186e9e3 (MC: 1.21.6) ---
-[02:48:11] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
-[02:48:12] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:48:14] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[02:52:43] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:52:44] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[02:52:45] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
-[02:52:46] [Paper Watchdog Thread/ERROR]: 	Stack:
-[02:52:48] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/jdk.internal.misc.Unsafe.unpark(Native Method)
-[02:53:14] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.locks.LockSupport.unpark(LockSupport.java:181)
-[02:53:25] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.locks.AbstractQueuedSynchronizer.signalNext(AbstractQueuedSynchronizer.java:645)
-[02:53:26] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.locks.AbstractQueuedSynchronizer.release(AbstractQueuedSynchronizer.java:1060)
-[02:53:27] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.locks.ReentrantLock.unlock(ReentrantLock.java:494)
-[02:53:28] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.LinkedBlockingQueue.signalNotEmpty(LinkedBlockingQueue.java:179)
-[02:53:29] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.LinkedBlockingQueue.offer(LinkedBlockingQueue.java:423)
-[02:53:30] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1368)
-[02:53:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.util.concurrent.Executors$DelegatedExecutorService.execute(Executors.java:754)
-[02:53:32] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftAsyncScheduler.mainThreadHeartbeat(CraftAsyncScheduler.java:73)
-[02:53:33] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:457)
-[02:53:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1508)
-[02:53:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252)
-[02:53:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
-[02:53:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007eba70eed448.run(Unknown Source)
-[02:53:38] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.runWith(Thread.java:1596)
-[02:53:39] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.run(Thread.java:1583)
-[02:53:41] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:53:42] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[02:53:42] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:55:11] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.6-26-186e9e3 (MC: 1.21.6) ---
-[02:55:13] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
-[02:55:16] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:55:17] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[03:12:33] [Paper Watchdog Thread/ERROR]: ------------------------------
-[03:12:34] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[03:12:35] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
-[03:12:37] [Paper Watchdog Thread/ERROR]: 	Stack:
-[03:12:38] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager.tick(ChunkHolderManager.java:837)
-[03:12:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.TicketStorage.purgeStaleTickets(TicketStorage.java:254)
-[03:12:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:492)
-[03:12:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1516)
-[03:12:54] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252)
-[03:12:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
-[03:12:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007eba70eed448.run(Unknown Source)
-[03:12:59] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.runWith(Thread.java:1596)
-[03:13:01] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.8/java.lang.Thread.run(Thread.java:1583)
-[03:13:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 60425ms or 1208 ticks behind
+[02:08:09] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.6-26-186e9e3 (MC: 1.21.6) ---
+[02:21:44] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[02:29:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1351572ms or 27031 ticks behind
+[02:41:07] [Paper Watchdog Thread/ERROR]: The server has not responded for -145 seconds! Creating thread dump
+[02:41:09] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:41:09] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[02:42:05] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[03:30:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3665335ms or 73306 ticks behind
+[03:34:52] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:35:00] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
