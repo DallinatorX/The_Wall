@@ -1,224 +1,68 @@
-[10:55:57] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-122.04; Ubuntu null) on Linux 6.8.0-87-generic (amd64)
-[10:55:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-112-main@f393100 (2025-11-14T01:41:07Z) for Minecraft 1.21.10
-[10:55:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[10:55:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[10:55:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - LANBroadcaster (1.6.2), NoMobGriefing (3.0.3), PlayerViewDistanceController (1.4.0)
-[10:56:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[10:56:16] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[10:56:18] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 2,100.8ms
-[10:56:23] [ServerMain/INFO]: Loaded 1461 recipes
-[10:56:23] [ServerMain/INFO]: Loaded 1574 advancements
-[10:56:23] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[10:56:23] [Server thread/INFO]: Loading properties
-[10:56:23] [Server thread/INFO]: This server is running Paper version 1.21.10-112-main@f393100 (2025-11-14T01:41:07Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
-[10:56:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[10:56:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[10:56:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[10:56:25] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[10:56:25] [Server thread/INFO]: Default game type: SURVIVAL
-[10:56:25] [Server thread/INFO]: Generating keypair
-[10:56:25] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
-[10:56:25] [Server thread/INFO]: Using epoll channel type
-[10:56:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[10:56:25] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[10:56:25] [Server thread/INFO]: [PVDC] Loading server plugin PlayerViewDistanceController v1.4.0
-[10:56:25] [Server thread/INFO]: [NoMobGriefing] Loading server plugin NoMobGriefing v3.0.3
-[10:56:25] [Server thread/INFO]: [LANBroadcaster] Loading server plugin LANBroadcaster v1.6.2
-[10:56:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[10:56:25] [Server thread/INFO]: Preparing level "The-Wall-master"
-[10:56:25] [Server thread/INFO]: -------- World Settings For [The-Wall-master] --------
-[10:56:25] [Server thread/INFO]: View Distance: 32
-[10:56:25] [Server thread/INFO]: Simulation Distance: 32
-[10:56:25] [Server thread/INFO]: Item Merge Radius: 2.5
-[10:56:25] [Server thread/INFO]: Experience Merge Radius: 3.0
-[10:56:25] [Server thread/INFO]: Mob Spawn Range: 6
-[10:56:25] [Server thread/INFO]: Item Despawn Rate: 6000
-[10:56:25] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[10:56:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[10:56:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[10:56:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[10:56:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Cane Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Melon Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Potato Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Vine Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
-[10:56:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[10:56:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[10:56:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[10:56:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[10:56:25] [Server thread/INFO]: Max TNT Explosions: 100
-[10:56:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[10:56:26] [Server thread/INFO]: -------- World Settings For [The-Wall-master_nether] --------
-[10:56:26] [Server thread/INFO]: View Distance: 32
-[10:56:26] [Server thread/INFO]: Simulation Distance: 32
-[10:56:26] [Server thread/INFO]: Item Merge Radius: 2.5
-[10:56:26] [Server thread/INFO]: Experience Merge Radius: 3.0
-[10:56:26] [Server thread/INFO]: Mob Spawn Range: 6
-[10:56:26] [Server thread/INFO]: Item Despawn Rate: 6000
-[10:56:26] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[10:56:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[10:56:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[10:56:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[10:56:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Cane Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Melon Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Potato Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Vine Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[10:56:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[10:56:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[10:56:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[10:56:26] [Server thread/INFO]: Max TNT Explosions: 100
-[10:56:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[10:56:26] [Server thread/INFO]: -------- World Settings For [The-Wall-master_the_end] --------
-[10:56:26] [Server thread/INFO]: View Distance: 32
-[10:56:26] [Server thread/INFO]: Simulation Distance: 32
-[10:56:26] [Server thread/INFO]: Item Merge Radius: 2.5
-[10:56:26] [Server thread/INFO]: Experience Merge Radius: 3.0
-[10:56:26] [Server thread/INFO]: Mob Spawn Range: 6
-[10:56:26] [Server thread/INFO]: Item Despawn Rate: 6000
-[10:56:26] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[10:56:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[10:56:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[10:56:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[10:56:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Cane Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Melon Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Potato Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Vine Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
-[10:56:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[10:56:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[10:56:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[10:56:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[10:56:26] [Server thread/INFO]: Max TNT Explosions: 100
-[10:56:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[10:56:26] [Server thread/INFO]: Loading 74 persistent chunks for world 'minecraft:overworld'...
-[10:56:26] [Server thread/INFO]: Preparing spawn area: 11%
-[10:56:28] [Server thread/INFO]: Prepared spawn area in 1431 ms
-[10:56:28] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
-[10:56:28] [Server thread/INFO]: Prepared spawn area in 1 ms
-[10:56:28] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
-[10:56:28] [Server thread/INFO]: Preparing spawn area: 100%
-[10:56:28] [Server thread/INFO]: Prepared spawn area in 2 ms
-[10:56:28] [Server thread/INFO]: Done preparing level "The-Wall-master" (2.367s)
-[10:56:28] [Server thread/INFO]: [PVDC] Enabling PlayerViewDistanceController v1.4.0
-[10:56:28] [Server thread/INFO]: [PVDC] Plugin started!
-[10:56:28] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
-[10:56:28] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
-[10:56:28] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
-[10:56:28] [Server thread/INFO]: [spark] Starting background profiler...
-[10:56:28] [Server thread/INFO]: Running delayed init tasks
-[10:56:28] [Server thread/INFO]: Done (35.359s)! For help, type "help"
-[10:56:28] [Craft Scheduler Thread - 3 - LANBroadcaster/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
-[10:57:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:12:53] [User Authenticator #0/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: bd9d6856-9d7f-4b45-8c32-f2052d48ef7f, mapped to Sheep['Sheep'/365, uuid='bd9d6856-9d7f-4b45-8c32-f2052d48ef7f', l='ServerLevel[The-Wall-master]', x=-274.01, y=69.00, z=303.55, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/565, uuid='bd9d6856-9d7f-4b45-8c32-f2052d48ef7f', l='ServerLevel[The-Wall-master]', x=-264.09, y=69.00, z=292.07, cpos=[-17, 18], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: fe2106b1-87a2-4790-9f2f-51cd70e6c26e, mapped to Sheep['Sheep'/360, uuid='fe2106b1-87a2-4790-9f2f-51cd70e6c26e', l='ServerLevel[The-Wall-master]', x=-279.45, y=69.00, z=302.27, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/567, uuid='fe2106b1-87a2-4790-9f2f-51cd70e6c26e', l='ServerLevel[The-Wall-master]', x=-271.31, y=69.00, z=301.19, cpos=[-17, 18], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 723103f1-811b-438a-8763-7c2db6d681c0, mapped to Sheep['Sheep'/351, uuid='723103f1-811b-438a-8763-7c2db6d681c0', l='ServerLevel[The-Wall-master]', x=-274.17, y=69.00, z=300.15, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/568, uuid='723103f1-811b-438a-8763-7c2db6d681c0', l='ServerLevel[The-Wall-master]', x=-264.52, y=69.00, z=295.18, cpos=[-17, 18], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: c9631545-e9da-48e6-abc3-52a3471aa717, mapped to Sheep['Sheep'/359, uuid='c9631545-e9da-48e6-abc3-52a3471aa717', l='ServerLevel[The-Wall-master]', x=-276.15, y=69.00, z=295.16, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/575, uuid='c9631545-e9da-48e6-abc3-52a3471aa717', l='ServerLevel[The-Wall-master]', x=-264.12, y=69.00, z=293.02, cpos=[-17, 18], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b381f3ba-763e-45cc-8a5a-f602b3298cce, mapped to Sheep['Sheep'/349, uuid='b381f3ba-763e-45cc-8a5a-f602b3298cce', l='ServerLevel[The-Wall-master]', x=-278.49, y=69.00, z=298.74, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/579, uuid='b381f3ba-763e-45cc-8a5a-f602b3298cce', l='ServerLevel[The-Wall-master]', x=-266.77, y=69.00, z=293.79, cpos=[-17, 18], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1e2d45e6-575e-4906-ab86-ece877f2cd1e, mapped to Sheep['Sheep'/362, uuid='1e2d45e6-575e-4906-ab86-ece877f2cd1e', l='ServerLevel[The-Wall-master]', x=-279.51, y=69.00, z=293.74, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/581, uuid='1e2d45e6-575e-4906-ab86-ece877f2cd1e', l='ServerLevel[The-Wall-master]', x=-266.93, y=69.00, z=292.84, cpos=[-17, 18], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 65dfe1bd-3327-4c15-98e0-efa7067593b2, mapped to Sheep['Sheep'/332, uuid='65dfe1bd-3327-4c15-98e0-efa7067593b2', l='ServerLevel[The-Wall-master]', x=-277.95, y=69.00, z=293.00, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/582, uuid='65dfe1bd-3327-4c15-98e0-efa7067593b2', l='ServerLevel[The-Wall-master]', x=-265.16, y=69.00, z=293.10, cpos=[-17, 18], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e43d9c22-1b10-4974-9b39-2b3d5e419084, mapped to Sheep['Sheep'/340, uuid='e43d9c22-1b10-4974-9b39-2b3d5e419084', l='ServerLevel[The-Wall-master]', x=-279.58, y=69.00, z=300.16, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/584, uuid='e43d9c22-1b10-4974-9b39-2b3d5e419084', l='ServerLevel[The-Wall-master]', x=-269.64, y=69.00, z=299.73, cpos=[-17, 18], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b3094a5c-8da9-4e52-bf0c-1bc46601d237, mapped to Sheep['Sheep'/366, uuid='b3094a5c-8da9-4e52-bf0c-1bc46601d237', l='ServerLevel[The-Wall-master]', x=-274.97, y=69.00, z=292.61, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/586, uuid='b3094a5c-8da9-4e52-bf0c-1bc46601d237', l='ServerLevel[The-Wall-master]', x=-267.09, y=69.00, z=296.00, cpos=[-17, 18], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 477953ed-c689-4149-b31d-de624be85804, mapped to Sheep['Sheep'/427, uuid='477953ed-c689-4149-b31d-de624be85804', l='ServerLevel[The-Wall-master]', x=-277.87, y=69.00, z=311.55, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/591, uuid='477953ed-c689-4149-b31d-de624be85804', l='ServerLevel[The-Wall-master]', x=-264.06, y=69.00, z=305.07, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 895af277-ae9e-4bd7-95fa-78b065f7577d, mapped to Sheep['Sheep'/468, uuid='895af277-ae9e-4bd7-95fa-78b065f7577d', l='ServerLevel[The-Wall-master]', x=-276.22, y=69.00, z=329.27, cpos=[-18, 20], tl=0, v=true], can't add Sheep['Sheep'/605, uuid='895af277-ae9e-4bd7-95fa-78b065f7577d', l='ServerLevel[The-Wall-master]', x=-264.76, y=69.00, z=318.52, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 235deb4f-5aa6-4317-8827-48aefb647f8c, mapped to Sheep['Sheep'/415, uuid='235deb4f-5aa6-4317-8827-48aefb647f8c', l='ServerLevel[The-Wall-master]', x=-277.86, y=69.00, z=314.80, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/606, uuid='235deb4f-5aa6-4317-8827-48aefb647f8c', l='ServerLevel[The-Wall-master]', x=-265.55, y=69.00, z=315.95, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: fdb340b9-4bef-4390-8db8-c8d062d428e1, mapped to Sheep['Sheep'/418, uuid='fdb340b9-4bef-4390-8db8-c8d062d428e1', l='ServerLevel[The-Wall-master]', x=-277.19, y=69.00, z=319.76, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/613, uuid='fdb340b9-4bef-4390-8db8-c8d062d428e1', l='ServerLevel[The-Wall-master]', x=-266.47, y=69.00, z=318.07, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d341d02f-2f1f-4801-844c-44975b4ff7d0, mapped to Sheep['Sheep'/420, uuid='d341d02f-2f1f-4801-844c-44975b4ff7d0', l='ServerLevel[The-Wall-master]', x=-274.76, y=69.00, z=312.67, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/614, uuid='d341d02f-2f1f-4801-844c-44975b4ff7d0', l='ServerLevel[The-Wall-master]', x=-269.89, y=69.00, z=316.38, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 24b5b3d8-0eea-4457-8b4f-aba51ed93367, mapped to Sheep['Sheep'/431, uuid='24b5b3d8-0eea-4457-8b4f-aba51ed93367', l='ServerLevel[The-Wall-master]', x=-275.53, y=69.00, z=315.87, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/615, uuid='24b5b3d8-0eea-4457-8b4f-aba51ed93367', l='ServerLevel[The-Wall-master]', x=-264.88, y=69.00, z=316.93, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: cf01d948-bf90-4b1b-a827-3fa6f62830fe, mapped to Sheep['Sheep'/402, uuid='cf01d948-bf90-4b1b-a827-3fa6f62830fe', l='ServerLevel[The-Wall-master]', x=-279.00, y=69.00, z=316.56, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/617, uuid='cf01d948-bf90-4b1b-a827-3fa6f62830fe', l='ServerLevel[The-Wall-master]', x=-265.62, y=69.00, z=306.05, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 06edb2fc-ff27-4178-b69d-c238ca6ccc5b, mapped to Sheep['Sheep'/424, uuid='06edb2fc-ff27-4178-b69d-c238ca6ccc5b', l='ServerLevel[The-Wall-master]', x=-276.45, y=69.00, z=315.75, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/618, uuid='06edb2fc-ff27-4178-b69d-c238ca6ccc5b', l='ServerLevel[The-Wall-master]', x=-263.07, y=69.00, z=307.55, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 22b9db05-0772-405e-a593-c7af6faf5001, mapped to Sheep['Sheep'/380, uuid='22b9db05-0772-405e-a593-c7af6faf5001', l='ServerLevel[The-Wall-master]', x=-279.93, y=69.00, z=310.63, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/619, uuid='22b9db05-0772-405e-a593-c7af6faf5001', l='ServerLevel[The-Wall-master]', x=-265.00, y=69.00, z=305.07, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ef74a6e5-9fd2-4ca3-aa4f-79fe43c84bde, mapped to Sheep['Sheep'/408, uuid='ef74a6e5-9fd2-4ca3-aa4f-79fe43c84bde', l='ServerLevel[The-Wall-master]', x=-274.57, y=69.00, z=305.72, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/620, uuid='ef74a6e5-9fd2-4ca3-aa4f-79fe43c84bde', l='ServerLevel[The-Wall-master]', x=-263.30, y=69.00, z=309.14, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 458c1fe3-35f1-4e80-a06d-55d67bbe5fe3, mapped to Sheep['Sheep'/374, uuid='458c1fe3-35f1-4e80-a06d-55d67bbe5fe3', l='ServerLevel[The-Wall-master]', x=-277.24, y=69.00, z=316.93, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/621, uuid='458c1fe3-35f1-4e80-a06d-55d67bbe5fe3', l='ServerLevel[The-Wall-master]', x=-265.78, y=69.00, z=316.86, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: abe18ae8-4966-459f-9001-bcd2e2982a69, mapped to Sheep['Sheep'/428, uuid='abe18ae8-4966-459f-9001-bcd2e2982a69', l='ServerLevel[The-Wall-master]', x=-273.70, y=69.00, z=319.46, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/622, uuid='abe18ae8-4966-459f-9001-bcd2e2982a69', l='ServerLevel[The-Wall-master]', x=-268.82, y=69.00, z=318.77, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d1bbbde4-0366-4f77-a390-fd60fe485fe1, mapped to Sheep['Sheep'/393, uuid='d1bbbde4-0366-4f77-a390-fd60fe485fe1', l='ServerLevel[The-Wall-master]', x=-279.23, y=69.00, z=315.66, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/624, uuid='d1bbbde4-0366-4f77-a390-fd60fe485fe1', l='ServerLevel[The-Wall-master]', x=-264.75, y=69.00, z=311.32, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 30ba744e-a101-42e8-9432-716000778ff8, mapped to Sheep['Sheep'/421, uuid='30ba744e-a101-42e8-9432-716000778ff8', l='ServerLevel[The-Wall-master]', x=-274.24, y=69.00, z=316.54, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/626, uuid='30ba744e-a101-42e8-9432-716000778ff8', l='ServerLevel[The-Wall-master]', x=-264.48, y=69.00, z=315.90, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: bd890b5d-b24b-4704-bc6c-776932a4afc6, mapped to Sheep['Sheep'/412, uuid='bd890b5d-b24b-4704-bc6c-776932a4afc6', l='ServerLevel[The-Wall-master]', x=-278.10, y=69.00, z=312.93, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/627, uuid='bd890b5d-b24b-4704-bc6c-776932a4afc6', l='ServerLevel[The-Wall-master]', x=-266.33, y=69.00, z=307.21, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d6f073c6-f74b-4e5a-955a-9031fada83b2, mapped to Sheep['Sheep'/425, uuid='d6f073c6-f74b-4e5a-955a-9031fada83b2', l='ServerLevel[The-Wall-master]', x=-275.84, y=69.00, z=313.57, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/628, uuid='d6f073c6-f74b-4e5a-955a-9031fada83b2', l='ServerLevel[The-Wall-master]', x=-263.26, y=69.00, z=314.58, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b422c7bd-0a2e-4e94-8fad-2b33c6e29e44, mapped to Sheep['Sheep'/426, uuid='b422c7bd-0a2e-4e94-8fad-2b33c6e29e44', l='ServerLevel[The-Wall-master]', x=-277.17, y=69.00, z=309.59, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/631, uuid='b422c7bd-0a2e-4e94-8fad-2b33c6e29e44', l='ServerLevel[The-Wall-master]', x=-267.91, y=69.00, z=305.07, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 178ba1f0-dec2-4bfc-b22e-d23096e7bb7b, mapped to Sheep['Sheep'/404, uuid='178ba1f0-dec2-4bfc-b22e-d23096e7bb7b', l='ServerLevel[The-Wall-master]', x=-274.59, y=69.00, z=313.67, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/635, uuid='178ba1f0-dec2-4bfc-b22e-d23096e7bb7b', l='ServerLevel[The-Wall-master]', x=-271.13, y=69.00, z=311.90, cpos=[-17, 19], tl=0, v=false]
-[11:12:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9f07dcdc-140d-4b02-80d7-d5ee81210e79, mapped to Sheep['Sheep'/485, uuid='9f07dcdc-140d-4b02-80d7-d5ee81210e79', l='ServerLevel[The-Wall-master]', x=-272.78, y=69.00, z=320.44, cpos=[-18, 20], tl=0, v=true], can't add Sheep['Sheep'/648, uuid='9f07dcdc-140d-4b02-80d7-d5ee81210e79', l='ServerLevel[The-Wall-master]', x=-264.81, y=69.00, z=326.19, cpos=[-17, 20], tl=0, v=false]
-[11:12:55] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[11:12:55] [Server thread/INFO]: N7fty joined the game
-[11:12:55] [Server thread/INFO]: N7fty[/24.116.111.52:60088] logged in with entity id 854 at ([The-Wall-master]-240.09375551699938, 14.0, 277.3667847666325)
-[11:12:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5b941181-397c-425d-ac82-2e8e6a7d777c, mapped to Sheep['Sheep'/480, uuid='5b941181-397c-425d-ac82-2e8e6a7d777c', l='ServerLevel[The-Wall-master]', x=-282.18, y=69.00, z=335.92, cpos=[-18, 20], tl=0, v=true], can't add Sheep['Sheep'/1279, uuid='5b941181-397c-425d-ac82-2e8e6a7d777c', l='ServerLevel[The-Wall-master]', x=-294.22, y=69.00, z=339.83, cpos=[-19, 21], tl=0, v=false]
-[11:12:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1f9d4c82-7453-4906-acc8-fee35ac2f4ae, mapped to Chicken['Chicken'/269, uuid='1f9d4c82-7453-4906-acc8-fee35ac2f4ae', l='ServerLevel[The-Wall-master]', x=-381.75, y=32.00, z=328.10, cpos=[-24, 20], tl=0, v=true], can't add Chicken['Chicken'/1757, uuid='1f9d4c82-7453-4906-acc8-fee35ac2f4ae', l='ServerLevel[The-Wall-master]', x=-384.37, y=34.00, z=320.16, cpos=[-25, 20], tl=0, v=false]
-[11:13:01] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5d350ce9-b5dc-467c-a57f-dc4c6dfd6aa3, mapped to Ghast['kill your self'/2059, uuid='5d350ce9-b5dc-467c-a57f-dc4c6dfd6aa3', l='ServerLevel[The-Wall-master]', x=-282.55, y=75.97, z=51.51, cpos=[-18, 3], tl=0, v=true], can't add Ghast['kill your self'/2104, uuid='5d350ce9-b5dc-467c-a57f-dc4c6dfd6aa3', l='ServerLevel[The-Wall-master]', x=-282.51, y=78.00, z=46.08, cpos=[-18, 2], tl=0, v=false]
-[11:13:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e994bad2-d8a3-48a8-9cad-817e48667516, mapped to Pig['Pig'/2119, uuid='e994bad2-d8a3-48a8-9cad-817e48667516', l='ServerLevel[The-Wall-master]', x=-333.85, y=70.00, z=510.51, cpos=[-21, 31], tl=0, v=true], can't add Pig['Pig'/2133, uuid='e994bad2-d8a3-48a8-9cad-817e48667516', l='ServerLevel[The-Wall-master]', x=-334.40, y=69.57, z=514.00, cpos=[-21, 32], tl=0, v=false]
-[11:13:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 06397158-68ab-445e-b0a6-752fb40d685b, mapped to Pig['Pig'/2117, uuid='06397158-68ab-445e-b0a6-752fb40d685b', l='ServerLevel[The-Wall-master]', x=-331.61, y=69.65, z=511.51, cpos=[-21, 31], tl=0, v=true], can't add Pig['Pig'/2138, uuid='06397158-68ab-445e-b0a6-752fb40d685b', l='ServerLevel[The-Wall-master]', x=-335.53, y=70.00, z=518.29, cpos=[-21, 32], tl=0, v=false]
-[11:14:50] [Server thread/INFO]: N7fty issued server command: /kill
-[11:14:50] [Server thread/INFO]: N7fty was killed
-[11:14:50] [Server thread/INFO]: [N7fty: Killed N7fty]
-[11:15:54] [Server thread/INFO]: N7fty was doomed to fall
-[11:18:51] [Server thread/INFO]: N7fty was shot by Skeleton
-[11:19:39] [Server thread/INFO]: N7fty issued server command: /kill
-[11:19:39] [Server thread/INFO]: N7fty was killed
-[11:19:39] [Server thread/INFO]: [N7fty: Killed N7fty]
-[11:44:31] [Server thread/INFO]: N7fty drowned
-[11:48:31] [Server thread/INFO]: N7fty issued server command: /kill
-[11:48:31] [Server thread/INFO]: N7fty was killed
-[11:48:31] [Server thread/INFO]: [N7fty: Killed N7fty]
-[11:48:52] [Server thread/INFO]: N7fty issued server command: /time set 0
-[11:48:52] [Server thread/INFO]: [N7fty: Set the time to 0]
-[11:58:36] [Server thread/INFO]: /176.65.134.12:61914 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
-[12:03:20] [Server thread/INFO]: N7fty was blown up by Creeper
-[12:15:05] [Server thread/INFO]: N7fty issued server command: /kill
-[12:15:05] [Server thread/INFO]: N7fty was killed
-[12:15:05] [Server thread/INFO]: [N7fty: Killed N7fty]
-[12:17:28] [Server thread/INFO]: N7fty lost connection: Disconnected
-[12:17:28] [Server thread/INFO]: N7fty left the game
-[12:18:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:02:43] [User Authenticator #1/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[10:02:44] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[10:02:44] [Server thread/INFO]: N7fty joined the game
+[10:02:44] [Server thread/INFO]: N7fty[/24.116.111.52:58966] logged in with entity id 28749 at ([The-Wall-master]-368.69999998807907, 64.0, -3284.551339390095)
+[10:10:43] [Server thread/INFO]: N7fty was blown up by Creeper
+[10:37:52] [Server thread/INFO]: N7fty issued server command: /kill
+[10:37:52] [Server thread/INFO]: N7fty was killed
+[10:37:52] [Server thread/INFO]: [N7fty: Killed N7fty]
+[10:41:49] [Server thread/INFO]: Villager Villager['Farmer'/758, uuid='9cff3ab5-4a2c-45fe-a79f-0da901ec2e54', l='ServerLevel[The-Wall-master]', x=-246.52, y=53.56, z=187.50, cpos=[-16, 11], tl=62043, v=true] died, message: 'Farmer drowned'
+[10:47:48] [Server thread/INFO]: N7fty issued server command: /kill
+[10:47:48] [Server thread/INFO]: N7fty was killed
+[10:47:48] [Server thread/INFO]: [N7fty: Killed N7fty]
+[10:49:41] [Server thread/INFO]: N7fty issued server command: /kill
+[10:49:41] [Server thread/INFO]: N7fty was killed
+[10:49:41] [Server thread/INFO]: [N7fty: Killed N7fty]
+[10:58:52] [Server thread/INFO]: N7fty issued server command: /kill
+[10:58:52] [Server thread/INFO]: N7fty was killed
+[10:58:52] [Server thread/INFO]: [N7fty: Killed N7fty]
+[11:01:25] [Server thread/INFO]: N7fty issued server command: /time set 0
+[11:01:25] [Server thread/INFO]: [N7fty: Set the time to 0]
+[11:16:17] [Server thread/INFO]: N7fty issued server command: /kill
+[11:16:17] [Server thread/INFO]: N7fty was killed
+[11:16:17] [Server thread/INFO]: [N7fty: Killed N7fty]
+[11:16:25] [Server thread/INFO]: N7fty issued server command: /time set 0
+[11:16:25] [Server thread/INFO]: [N7fty: Set the time to 0]
+[11:19:25] [Server thread/INFO]: N7fty issued server command: /time set 0
+[11:19:25] [Server thread/INFO]: [N7fty: Set the time to 0]
+[11:19:27] [Server thread/INFO]: N7fty issued server command: /kill
+[11:19:27] [Server thread/INFO]: N7fty was killed
+[11:19:27] [Server thread/INFO]: [N7fty: Killed N7fty]
+[11:31:40] [Server thread/INFO]: N7fty issued server command: /kill
+[11:31:40] [Server thread/INFO]: N7fty was killed
+[11:31:40] [Server thread/INFO]: [N7fty: Killed N7fty]
+[11:33:19] [Server thread/INFO]: N7fty issued server command: /time set 0
+[11:33:19] [Server thread/INFO]: [N7fty: Set the time to 0]
+[11:52:07] [Server thread/INFO]: N7fty issued server command: /kill
+[11:52:07] [Server thread/INFO]: N7fty was killed
+[11:52:07] [Server thread/INFO]: [N7fty: Killed N7fty]
+[11:54:38] [Server thread/INFO]: N7fty issued server command: /kill
+[11:54:38] [Server thread/INFO]: N7fty was killed
+[11:54:38] [Server thread/INFO]: [N7fty: Killed N7fty]
+[11:58:41] [Server thread/INFO]: Villager Villager['Villager'/505, uuid='9243ebc0-9769-42d6-aea3-2287f23996da', l='ServerLevel[The-Wall-master]', x=-277.62, y=70.92, z=211.72, cpos=[-18, 13], tl=151453, v=true] died, message: 'Villager was slain by Zombie'
+[12:10:13] [Server thread/INFO]: N7fty lost connection: Disconnected
+[12:10:13] [Server thread/INFO]: N7fty left the game
+[12:11:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:48:28] [User Authenticator #2/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[22:48:29] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[22:48:29] [Server thread/INFO]: N7fty joined the game
+[22:48:29] [Server thread/INFO]: N7fty[/24.116.111.52:50548] logged in with entity id 81315 at ([The-Wall-master]-204.66890027697744, 11.0, 271.23750001192093)
+[22:51:04] [Server thread/INFO]: N7fty issued server command: /kill
+[22:51:04] [Server thread/INFO]: N7fty was killed
+[22:51:04] [Server thread/INFO]: [N7fty: Killed N7fty]
+[22:54:49] [Server thread/INFO]: N7fty issued server command: /kill
+[22:54:49] [Server thread/INFO]: N7fty was killed
+[22:54:49] [Server thread/INFO]: [N7fty: Killed N7fty]
+[23:17:38] [Server thread/INFO]: Villager Villager['Farmer'/1023, uuid='94dcf469-4d72-4628-ad5f-d7cbf22555d6', l='ServerLevel[The-Wall-master]', x=-247.48, y=44.51, z=187.50, cpos=[-16, 11], tl=198889, v=true] died, message: 'Farmer drowned'
+[23:18:24] [Server thread/INFO]: Villager Villager['Farmer'/1205, uuid='70f8d085-c8bf-4dac-a50b-8ea23ea83315', l='ServerLevel[The-Wall-master]', x=-247.51, y=52.91, z=187.50, cpos=[-16, 11], tl=199753, v=true] died, message: 'Farmer drowned'
+[23:19:08] [Server thread/INFO]: N7fty issued server command: /kill
+[23:19:08] [Server thread/INFO]: N7fty was killed
+[23:19:08] [Server thread/INFO]: [N7fty: Killed N7fty]
+[23:19:40] [Server thread/INFO]: Villager Villager['Farmer'/1066, uuid='73a6b4ad-e5c8-4f62-929f-dbb2fc7a9bf2', l='ServerLevel[The-Wall-master]', x=-247.49, y=54.95, z=187.52, cpos=[-16, 11], tl=201298, v=true] died, message: 'Farmer drowned'
+[23:20:08] [Server thread/INFO]: Villager Villager['Farmer'/78654, uuid='fa792c55-a18e-470f-9be3-022dc706799b', l='ServerLevel[The-Wall-master]', x=-247.49, y=51.60, z=187.51, cpos=[-16, 11], tl=44485, v=true] died, message: 'Farmer drowned'
+[23:21:11] [Server thread/INFO]: N7fty issued server command: /kill
+[23:21:11] [Server thread/INFO]: N7fty was killed
+[23:21:11] [Server thread/INFO]: [N7fty: Killed N7fty]
+[23:37:25] [Server thread/INFO]: N7fty lost connection: Disconnected
+[23:37:25] [Server thread/INFO]: N7fty left the game
+[23:38:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
