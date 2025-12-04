@@ -1,68 +1,66 @@
-[10:02:43] [User Authenticator #1/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[10:02:44] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[10:02:44] [Server thread/INFO]: N7fty joined the game
-[10:02:44] [Server thread/INFO]: N7fty[/24.116.111.52:58966] logged in with entity id 28749 at ([The-Wall-master]-368.69999998807907, 64.0, -3284.551339390095)
-[10:10:43] [Server thread/INFO]: N7fty was blown up by Creeper
-[10:37:52] [Server thread/INFO]: N7fty issued server command: /kill
-[10:37:52] [Server thread/INFO]: N7fty was killed
-[10:37:52] [Server thread/INFO]: [N7fty: Killed N7fty]
-[10:41:49] [Server thread/INFO]: Villager Villager['Farmer'/758, uuid='9cff3ab5-4a2c-45fe-a79f-0da901ec2e54', l='ServerLevel[The-Wall-master]', x=-246.52, y=53.56, z=187.50, cpos=[-16, 11], tl=62043, v=true] died, message: 'Farmer drowned'
-[10:47:48] [Server thread/INFO]: N7fty issued server command: /kill
-[10:47:48] [Server thread/INFO]: N7fty was killed
-[10:47:48] [Server thread/INFO]: [N7fty: Killed N7fty]
-[10:49:41] [Server thread/INFO]: N7fty issued server command: /kill
-[10:49:41] [Server thread/INFO]: N7fty was killed
-[10:49:41] [Server thread/INFO]: [N7fty: Killed N7fty]
-[10:58:52] [Server thread/INFO]: N7fty issued server command: /kill
-[10:58:52] [Server thread/INFO]: N7fty was killed
-[10:58:52] [Server thread/INFO]: [N7fty: Killed N7fty]
-[11:01:25] [Server thread/INFO]: N7fty issued server command: /time set 0
-[11:01:25] [Server thread/INFO]: [N7fty: Set the time to 0]
-[11:16:17] [Server thread/INFO]: N7fty issued server command: /kill
-[11:16:17] [Server thread/INFO]: N7fty was killed
-[11:16:17] [Server thread/INFO]: [N7fty: Killed N7fty]
-[11:16:25] [Server thread/INFO]: N7fty issued server command: /time set 0
-[11:16:25] [Server thread/INFO]: [N7fty: Set the time to 0]
-[11:19:25] [Server thread/INFO]: N7fty issued server command: /time set 0
-[11:19:25] [Server thread/INFO]: [N7fty: Set the time to 0]
-[11:19:27] [Server thread/INFO]: N7fty issued server command: /kill
-[11:19:27] [Server thread/INFO]: N7fty was killed
-[11:19:27] [Server thread/INFO]: [N7fty: Killed N7fty]
-[11:31:40] [Server thread/INFO]: N7fty issued server command: /kill
-[11:31:40] [Server thread/INFO]: N7fty was killed
-[11:31:40] [Server thread/INFO]: [N7fty: Killed N7fty]
-[11:33:19] [Server thread/INFO]: N7fty issued server command: /time set 0
-[11:33:19] [Server thread/INFO]: [N7fty: Set the time to 0]
-[11:52:07] [Server thread/INFO]: N7fty issued server command: /kill
-[11:52:07] [Server thread/INFO]: N7fty was killed
-[11:52:07] [Server thread/INFO]: [N7fty: Killed N7fty]
-[11:54:38] [Server thread/INFO]: N7fty issued server command: /kill
-[11:54:38] [Server thread/INFO]: N7fty was killed
-[11:54:38] [Server thread/INFO]: [N7fty: Killed N7fty]
-[11:58:41] [Server thread/INFO]: Villager Villager['Villager'/505, uuid='9243ebc0-9769-42d6-aea3-2287f23996da', l='ServerLevel[The-Wall-master]', x=-277.62, y=70.92, z=211.72, cpos=[-18, 13], tl=151453, v=true] died, message: 'Villager was slain by Zombie'
-[12:10:13] [Server thread/INFO]: N7fty lost connection: Disconnected
-[12:10:13] [Server thread/INFO]: N7fty left the game
-[12:11:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:48:28] [User Authenticator #2/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[22:48:29] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[22:48:29] [Server thread/INFO]: N7fty joined the game
-[22:48:29] [Server thread/INFO]: N7fty[/24.116.111.52:50548] logged in with entity id 81315 at ([The-Wall-master]-204.66890027697744, 11.0, 271.23750001192093)
-[22:51:04] [Server thread/INFO]: N7fty issued server command: /kill
-[22:51:04] [Server thread/INFO]: N7fty was killed
-[22:51:04] [Server thread/INFO]: [N7fty: Killed N7fty]
-[22:54:49] [Server thread/INFO]: N7fty issued server command: /kill
-[22:54:49] [Server thread/INFO]: N7fty was killed
-[22:54:49] [Server thread/INFO]: [N7fty: Killed N7fty]
-[23:17:38] [Server thread/INFO]: Villager Villager['Farmer'/1023, uuid='94dcf469-4d72-4628-ad5f-d7cbf22555d6', l='ServerLevel[The-Wall-master]', x=-247.48, y=44.51, z=187.50, cpos=[-16, 11], tl=198889, v=true] died, message: 'Farmer drowned'
-[23:18:24] [Server thread/INFO]: Villager Villager['Farmer'/1205, uuid='70f8d085-c8bf-4dac-a50b-8ea23ea83315', l='ServerLevel[The-Wall-master]', x=-247.51, y=52.91, z=187.50, cpos=[-16, 11], tl=199753, v=true] died, message: 'Farmer drowned'
-[23:19:08] [Server thread/INFO]: N7fty issued server command: /kill
-[23:19:08] [Server thread/INFO]: N7fty was killed
-[23:19:08] [Server thread/INFO]: [N7fty: Killed N7fty]
-[23:19:40] [Server thread/INFO]: Villager Villager['Farmer'/1066, uuid='73a6b4ad-e5c8-4f62-929f-dbb2fc7a9bf2', l='ServerLevel[The-Wall-master]', x=-247.49, y=54.95, z=187.52, cpos=[-16, 11], tl=201298, v=true] died, message: 'Farmer drowned'
-[23:20:08] [Server thread/INFO]: Villager Villager['Farmer'/78654, uuid='fa792c55-a18e-470f-9be3-022dc706799b', l='ServerLevel[The-Wall-master]', x=-247.49, y=51.60, z=187.51, cpos=[-16, 11], tl=44485, v=true] died, message: 'Farmer drowned'
-[23:21:11] [Server thread/INFO]: N7fty issued server command: /kill
-[23:21:11] [Server thread/INFO]: N7fty was killed
-[23:21:11] [Server thread/INFO]: [N7fty: Killed N7fty]
-[23:37:25] [Server thread/INFO]: N7fty lost connection: Disconnected
-[23:37:25] [Server thread/INFO]: N7fty left the game
-[23:38:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:33:14] [User Authenticator #3/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[08:33:15] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[08:33:15] [Server thread/INFO]: N7fty joined the game
+[08:33:15] [Server thread/INFO]: N7fty[/24.116.111.52:52728] logged in with entity id 102391 at ([The-Wall-master]-200.2147874894048, 11.0, 269.23750001192093)
+[09:14:12] [Server thread/INFO]: Villager Villager['Farmer'/1186, uuid='5f11d3d8-18de-4e79-b1d1-b0212d9f29ae', l='ServerLevel[The-Wall-master]', x=-249.48, y=52.51, z=187.50, cpos=[-16, 11], tl=269514, v=true] died, message: 'Farmer drowned'
+[09:54:35] [Server thread/INFO]: Villager Villager['Farmer'/1200, uuid='9ed85dfd-7320-4638-82d2-a3054ad3b743', l='ServerLevel[The-Wall-master]', x=-246.53, y=44.82, z=187.52, cpos=[-16, 11], tl=315692, v=true] died, message: 'Farmer drowned'
+[09:57:38] [Server thread/INFO]: N7fty issued server command: /tp 9608 75 4209
+[09:57:38] [Server thread/INFO]: [N7fty: Teleported N7fty to 9608.500000, 75.000000, 4209.500000]
+[09:57:41] [Server thread/WARN]: N7fty moved too quickly! 0.0,-10.806526110008988,0.0
+[09:58:27] [Server thread/INFO]: N7fty issued server command: /kill
+[09:58:27] [Server thread/INFO]: N7fty was killed
+[09:58:27] [Server thread/INFO]: [N7fty: Killed N7fty]
+[09:59:07] [Server thread/INFO]: N7fty issued server command: /kill
+[09:59:07] [Server thread/INFO]: N7fty was killed
+[09:59:07] [Server thread/INFO]: [N7fty: Killed N7fty]
+[10:04:59] [Server thread/INFO]: N7fty issued server command: /kill
+[10:04:59] [Server thread/INFO]: N7fty was killed
+[10:04:59] [Server thread/INFO]: [N7fty: Killed N7fty]
+[10:08:32] [Server thread/INFO]: N7fty issued server command: /kill
+[10:08:32] [Server thread/INFO]: N7fty was killed
+[10:08:32] [Server thread/INFO]: [N7fty: Killed N7fty]
+[10:09:21] [Server thread/INFO]: N7fty fell from a high place
+[10:17:04] [Server thread/INFO]: N7fty issued server command: /kill
+[10:17:04] [Server thread/INFO]: N7fty was killed
+[10:17:04] [Server thread/INFO]: [N7fty: Killed N7fty]
+[10:19:34] [Server thread/INFO]: N7fty issued server command: /tp 7775 75 -281
+[10:19:34] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 75.000000, -280.500000]
+[10:19:40] [Server thread/INFO]: N7fty issued server command: /time set 0
+[10:19:40] [Server thread/INFO]: [N7fty: Set the time to 0]
+[10:24:18] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
+[10:24:40] [Server thread/INFO]: N7fty issued server command: /tp 7775 75 -281
+[10:24:40] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 75.000000, -280.500000]
+[10:24:53] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
+[10:25:04] [Server thread/INFO]: N7fty has made the advancement [Wax Off]
+[10:28:49] [Server thread/INFO]: N7fty issued server command: /tp 7775 75 -281
+[10:28:49] [Server thread/INFO]: [N7fty: Teleported N7fty to 7775.500000, 75.000000, -280.500000]
+[10:28:50] [Server thread/INFO]: N7fty issued server command: /time set 0
+[10:28:50] [Server thread/INFO]: [N7fty: Set the time to 0]
+[10:28:53] [Server thread/INFO]: N7fty issued server command: /kill
+[10:28:53] [Server thread/INFO]: N7fty was killed
+[10:28:53] [Server thread/INFO]: [N7fty: Killed N7fty]
+[10:53:06] [Server thread/INFO]: Villager Villager['Farmer'/872, uuid='e0a49fb9-99b1-4afe-9586-17873f9824df', l='ServerLevel[The-Wall-master]', x=-247.49, y=53.33, z=187.51, cpos=[-16, 11], tl=355744, v=true] died, message: 'Farmer drowned'
+[10:53:08] [Server thread/INFO]: Villager Villager['Farmer'/97768, uuid='24973667-20f2-4db1-8861-1a4287035ee0', l='ServerLevel[The-Wall-master]', x=-246.51, y=57.70, z=187.52, cpos=[-16, 11], tl=151128, v=true] died, message: 'Farmer drowned'
+[11:15:51] [Server thread/INFO]: Villager Villager['Farmer'/97638, uuid='5465ea2c-ed5b-4033-9c3d-cffb89bf9431', l='ServerLevel[The-Wall-master]', x=-249.55, y=51.59, z=187.52, cpos=[-16, 11], tl=176659, v=true] died, message: 'Farmer drowned'
+[12:25:09] [Server thread/INFO]: Villager Villager['Farmer'/1203, uuid='b452027f-ecf2-42d7-82f3-0e02c3161491', l='ServerLevel[The-Wall-master]', x=-247.51, y=48.56, z=187.51, cpos=[-16, 11], tl=456146, v=true] died, message: 'Farmer drowned'
+[12:32:44] [Server thread/INFO]: Villager Villager['Villager'/1334, uuid='3ad67af7-6b83-4b34-995f-b00ef53f57ce', l='ServerLevel[The-Wall-master]', x=-317.65, y=76.00, z=284.86, cpos=[-20, 17], tl=463703, v=true] died, message: 'Villager was slain by Zombie'
+[12:38:55] [Server thread/INFO]: N7fty was slain by Zombie
+[13:43:58] [Server thread/INFO]: Villager Villager['Farmer'/62166, uuid='37ece2a1-e331-423b-a3bd-1719617becdc', l='ServerLevel[The-Wall-master]', x=-247.49, y=58.19, z=187.52, cpos=[-16, 11], tl=373290, v=true] died, message: 'Farmer drowned'
+[13:46:20] [Server thread/INFO]: Villager Villager['Farmer'/1049, uuid='4aef0014-6068-49c6-9581-88d6b7880dc7', l='ServerLevel[The-Wall-master]', x=-248.52, y=48.26, z=187.47, cpos=[-16, 11], tl=481980, v=true] died, message: 'Farmer drowned'
+[14:24:01] [Server thread/INFO]: N7fty issued server command: /kill
+[14:24:01] [Server thread/INFO]: N7fty was killed
+[14:24:01] [Server thread/INFO]: [N7fty: Killed N7fty]
+[14:26:11] [Server thread/INFO]: N7fty issued server command: /kill
+[14:26:11] [Server thread/INFO]: N7fty was killed
+[14:26:11] [Server thread/INFO]: [N7fty: Killed N7fty]
+[14:50:56] [Server thread/INFO]: Villager Villager['Farmer'/26027, uuid='00d8fdcc-5a5e-413f-a190-a5c16b917031', l='ServerLevel[The-Wall-master]', x=-247.52, y=52.29, z=187.50, cpos=[-16, 11], tl=529650, v=true] died, message: 'Farmer drowned'
+[14:51:46] [Server thread/INFO]: Villager Villager['Farmer'/1175, uuid='99d0ebe9-1054-4c2d-a6f4-c12e68d9f15a', l='ServerLevel[The-Wall-master]', x=-247.50, y=53.07, z=187.52, cpos=[-16, 11], tl=551923, v=true] died, message: 'Farmer drowned'
+[14:52:00] [Server thread/INFO]: Villager Villager['Farmer'/1145, uuid='440b0a8d-5187-43a5-8d9d-a2d5af183148', l='ServerLevel[The-Wall-master]', x=-247.49, y=49.78, z=187.51, cpos=[-16, 11], tl=552208, v=true] died, message: 'Farmer drowned'
+[14:55:18] [Server thread/INFO]: Villager Villager['Farmer'/1069, uuid='12d7aadc-82b3-43d2-ab5f-247176503901', l='ServerLevel[The-Wall-master]', x=-247.52, y=48.67, z=187.50, cpos=[-16, 11], tl=555521, v=true] died, message: 'Farmer drowned'
+[14:55:25] [Server thread/INFO]: Villager Villager['Villager'/1166, uuid='95fb8450-9b6f-4c52-87f2-d6e7b42df937', l='ServerLevel[The-Wall-master]', x=-247.49, y=50.80, z=187.51, cpos=[-16, 11], tl=555659, v=true] died, message: 'Villager drowned'
+[14:56:33] [Server thread/INFO]: Villager Villager['Farmer'/1187, uuid='874e8d7f-9b44-4f4c-b310-8a4e40ebd65c', l='ServerLevel[The-Wall-master]', x=-246.33, y=12.00, z=211.49, cpos=[-16, 13], tl=556808, v=true] died, message: 'Farmer hit the ground too hard'
+[15:14:45] [Server thread/INFO]: Villager Villager['Farmer'/52607, uuid='df4db51b-d2f6-41e0-969b-f9203fa1cd60', l='ServerLevel[The-Wall-master]', x=-250.51, y=56.48, z=187.51, cpos=[-16, 11], tl=493139, v=true] died, message: 'Farmer drowned'
+[17:21:08] [Server thread/INFO]: Villager Villager['Villager'/1349, uuid='b772b9c4-1a43-4cee-9f79-82da2facab05', l='ServerLevel[The-Wall-master]', x=-297.84, y=69.00, z=302.39, cpos=[-19, 18], tl=706669, v=true] died, message: 'Villager was slain by Zombie'
+[17:22:20] [Server thread/INFO]: N7fty lost connection: Disconnected
+[17:22:20] [Server thread/INFO]: N7fty left the game
+[17:23:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
