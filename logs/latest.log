@@ -1,71 +1,8 @@
-[14:52:11] [User Authenticator #5/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[14:52:12] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[14:52:12] [Server thread/INFO]: N7fty joined the game
-[14:52:12] [Server thread/INFO]: N7fty[/24.116.111.52:35124] logged in with entity id 272810 at ([The-Wall-master]49.7985129212482, -13.0, 4647.119330269443)
-[14:52:50] [Server thread/INFO]: N7fty was slain by Zombie
-[14:56:05] [Server thread/INFO]: Villager Villager['Farmer'/112519, uuid='14a4eea8-6b7c-4242-8cd5-d755c371c153', l='ServerLevel[The-Wall-master]', x=-248.48, y=49.53, z=187.48, cpos=[-16, 11], tl=475261, v=true] died, message: 'Farmer drowned'
-[14:59:32] [Server thread/INFO]: N7fty issued server command: /kill
-[14:59:32] [Server thread/INFO]: N7fty was killed
-[14:59:32] [Server thread/INFO]: [N7fty: Killed N7fty]
-[14:59:53] [Server thread/INFO]: N7fty issued server command: /kill
-[14:59:53] [Server thread/INFO]: N7fty was killed
-[14:59:53] [Server thread/INFO]: [N7fty: Killed N7fty]
-[15:00:10] [Server thread/INFO]: [N7fty: Set own game mode to Creative Mode]
-[15:00:29] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
-[15:04:40] [Server thread/INFO]: N7fty issued server command: /kill
-[15:04:40] [Server thread/INFO]: N7fty was killed
-[15:04:40] [Server thread/INFO]: [N7fty: Killed N7fty]
-[15:05:06] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
-[15:05:19] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
-[15:05:41] [Server thread/INFO]: N7fty issued server command: /time set 0
-[15:05:41] [Server thread/INFO]: [N7fty: Set the time to 0]
-[15:10:11] [Server thread/INFO]: N7fty has made the advancement [Remote Getaway]
-[15:15:32] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
-[15:15:57] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
-[15:17:53] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
-[15:18:06] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
-[15:18:39] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
-[15:19:14] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
-[15:19:32] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
-[15:19:34] [Server thread/INFO]: N7fty fell out of the world
-[15:19:38] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
-[15:29:34] [Server thread/INFO]: N7fty issued server command: /kill
-[15:29:34] [Server thread/INFO]: N7fty was killed
-[15:29:34] [Server thread/INFO]: [N7fty: Killed N7fty]
-[15:31:09] [Server thread/INFO]: Villager Villager['Farmer'/1015, uuid='9ee43640-86f3-47ed-85fa-66921a903b34', l='ServerLevel[The-Wall-master]', x=-248.53, y=44.74, z=187.48, cpos=[-16, 11], tl=748060, v=true] died, message: 'Farmer drowned'
-[15:34:36] [Server thread/INFO]: N7fty issued server command: /kill
-[15:34:36] [Server thread/INFO]: N7fty was killed
-[15:34:36] [Server thread/INFO]: [N7fty: Killed N7fty]
-[15:36:01] [Server thread/INFO]: N7fty issued server command: /kill
-[15:36:01] [Server thread/INFO]: N7fty was killed
-[15:36:01] [Server thread/INFO]: [N7fty: Killed N7fty]
-[15:37:04] [Server thread/INFO]: N7fty issued server command: /kill
-[15:37:04] [Server thread/INFO]: N7fty was killed
-[15:37:04] [Server thread/INFO]: [N7fty: Killed N7fty]
-[15:39:02] [Server thread/INFO]: N7fty fell from a high place
-[15:43:33] [Server thread/INFO]: N7fty issued server command: /kill
-[15:43:33] [Server thread/INFO]: N7fty was killed
-[15:43:33] [Server thread/INFO]: [N7fty: Killed N7fty]
-[15:43:59] [Server thread/INFO]: N7fty issued server command: /kill
-[15:43:59] [Server thread/INFO]: N7fty was killed
-[15:43:59] [Server thread/INFO]: [N7fty: Killed N7fty]
-[15:44:14] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
-[15:44:27] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
-[15:50:03] [Server thread/INFO]: N7fty was blown up by Creeper
-[15:50:56] [Server thread/INFO]: N7fty issued server command: /kill
-[15:50:56] [Server thread/INFO]: N7fty was killed
-[15:50:56] [Server thread/INFO]: [N7fty: Killed N7fty]
-[15:51:19] [Server thread/INFO]: [N7fty: Set own game mode to Spectator Mode]
-[15:51:41] [Server thread/INFO]: [N7fty: Set own game mode to Survival Mode]
-[16:01:00] [Server thread/INFO]: N7fty issued server command: /time set 0
-[16:01:00] [Server thread/INFO]: [N7fty: Set the time to 0]
-[16:12:14] [Server thread/INFO]: N7fty lost connection: Disconnected
-[16:12:14] [Server thread/INFO]: N7fty left the game
-[16:13:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:40:23] [User Authenticator #6/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[16:40:24] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[16:40:24] [Server thread/INFO]: N7fty joined the game
-[16:40:24] [Server thread/INFO]: N7fty[/24.116.111.52:39322] logged in with entity id 308718 at ([The-Wall-master]-541.851410695542, 64.0, -5045.614418870795)
-[16:40:29] [Server thread/INFO]: N7fty lost connection: Disconnected
-[16:40:29] [Server thread/INFO]: N7fty left the game
-[16:41:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:30:49] [Server thread/INFO]: MCScans (/45.148.10.134:46884) lost connection: Disconnected
+[20:45:37] [User Authenticator #9/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
+[20:45:38] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[20:45:38] [Server thread/INFO]: N7fty joined the game
+[20:45:38] [Server thread/INFO]: N7fty[/24.116.111.52:34692] logged in with entity id 119693 at ([The-Wall-master]-222.12740616972283, 11.0, 273.303053535184)
+[21:31:50] [Server thread/INFO]: N7fty lost connection: Timed out
+[21:31:50] [Server thread/INFO]: N7fty left the game
+[21:32:50] [Server thread/INFO]: Server empty for 60 seconds, pausing

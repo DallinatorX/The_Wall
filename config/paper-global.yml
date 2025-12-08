@@ -130,7 +130,7 @@ spark:
   enabled: true
 unsupported-settings:
   allow-headless-pistons: false
-  allow-permanent-block-break-exploits: false
+  allow-permanent-block-break-exploits: true
   allow-piston-duplication: false
   allow-unsafe-end-portal-teleportation: false
   compression-format: ZLIB
