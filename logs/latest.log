@@ -1,8 +1,1 @@
-[10:30:49] [Server thread/INFO]: MCScans (/45.148.10.134:46884) lost connection: Disconnected
-[20:45:37] [User Authenticator #9/INFO]: UUID of player N7fty is 24e0a04c-e2e4-4be2-8f37-92875a2a1add
-[20:45:38] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
-[20:45:38] [Server thread/INFO]: N7fty joined the game
-[20:45:38] [Server thread/INFO]: N7fty[/24.116.111.52:34692] logged in with entity id 119693 at ([The-Wall-master]-222.12740616972283, 11.0, 273.303053535184)
-[21:31:50] [Server thread/INFO]: N7fty lost connection: Timed out
-[21:31:50] [Server thread/INFO]: N7fty left the game
-[21:32:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:28:08] [Server thread/INFO]: /176.65.134.6:63953 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
