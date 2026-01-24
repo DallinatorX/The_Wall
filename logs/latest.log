@@ -1,1 +1,19 @@
-[08:05:37] [Server thread/INFO]: MCScans (/45.148.10.134:59742) lost connection: Disconnected
+[15:54:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-97-b5e7257 (MC: 1.21.11) ---
+[15:54:59] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[15:54:59] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:54:59] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:54:59] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:54:59] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[15:54:59] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: TIMED_WAITING
+[15:54:59] [Paper Watchdog Thread/ERROR]: 	Stack:
+[15:54:59] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
+[15:54:59] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[15:54:59] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.recordTaskExecutionTimeWhileWaiting(MinecraftServer.java:1240)
+[15:54:59] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1346)
+[15:54:59] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+[15:54:59] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007e1338fa2578.run(Unknown Source)
+[15:54:59] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[15:54:59] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[15:54:59] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:54:59] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[15:54:59] [Paper Watchdog Thread/ERROR]: ------------------------------
