@@ -1,11 +1,1 @@
-[04:35:23] [Server thread/INFO]: /37.187.251.92:41078 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[13:04:51] [Server thread/INFO]: /37.187.251.92:28690 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[13:10:16] [Server thread/INFO]: /37.187.251.92:27238 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[13:15:59] [Server thread/INFO]: /37.187.251.92:30000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[13:20:14] [Server thread/INFO]: /37.187.251.92:31424 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[13:25:31] [Server thread/INFO]: /37.187.251.92:59236 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[13:30:54] [Server thread/INFO]: /37.187.251.92:19444 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[13:36:37] [Server thread/INFO]: /37.187.251.92:5338 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[23:38:04] [User Authenticator #2/INFO]: UUID of player BreakBlocksClub is fa4e4a5f-9124-4265-8213-2a8962a9e9b8
-[23:38:04] [Server thread/INFO]: Disconnecting BreakBlocksClub (/95.173.217.70:48002): Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
-[23:38:04] [Server thread/INFO]: BreakBlocksClub (/95.173.217.70:48002) lost connection: Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
+[07:35:04] [Server thread/INFO]: MCScans (/45.148.10.134:45952) lost connection: Disconnected
