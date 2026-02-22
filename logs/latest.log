@@ -1,169 +1,287 @@
-[02:43:07] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
-[02:43:47] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-97-b5e7257 (MC: 1.21.11) ---
-[02:43:47] [Paper Watchdog Thread/ERROR]: The server has not responded for -2228 seconds! Creating thread dump
-[02:43:47] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:43:47] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[02:43:48] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:43:48] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[02:43:49] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: TIMED_WAITING
-[02:43:49] [Paper Watchdog Thread/ERROR]: 	Stack:
-[02:43:49] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
-[02:43:49] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[02:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.recordTaskExecutionTimeWhileWaiting(MinecraftServer.java:1240)
-[02:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1346)
-[02:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
-[02:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007ea9d2fa32c0.run(Unknown Source)
-[02:43:49] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
-[02:43:49] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
-[02:43:49] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:43:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[02:43:49] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:44:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-97-b5e7257 (MC: 1.21.11) ---
-[02:44:52] [Paper Watchdog Thread/ERROR]: The server has not responded for 25 seconds! Creating thread dump
-[02:44:53] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:45:20] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[02:48:47] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:48:48] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[02:49:15] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: RUNNABLE
-[02:49:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[02:49:50] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.unpark(Native Method)
-[02:51:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.unpark(LockSupport.java:181)
-[02:55:09] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.AbstractQueuedSynchronizer.signalNext(AbstractQueuedSynchronizer.java:645)
-[02:56:08] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.AbstractQueuedSynchronizer.release(AbstractQueuedSynchronizer.java:1094)
-[02:56:53] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.ReentrantLock.unlock(ReentrantLock.java:494)
-[02:56:53] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.LinkedBlockingQueue.signalNotEmpty(LinkedBlockingQueue.java:179)
-[02:56:59] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.LinkedBlockingQueue.offer(LinkedBlockingQueue.java:423)
-[02:57:01] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1368)
-[02:57:03] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.Executors$DelegatedExecutorService.execute(Executors.java:754)
-[02:57:04] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftAsyncScheduler.mainThreadHeartbeat(CraftAsyncScheduler.java:73)
-[02:57:07] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:457)
-[02:57:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1594)
-[02:57:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:427)
-[02:57:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1672)
-[02:57:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1340)
-[02:57:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
-[02:57:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007ea9d2fa32c0.run(Unknown Source)
-[02:57:25] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
-[02:57:26] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
-[02:57:27] [Paper Watchdog Thread/ERROR]: ------------------------------
-[02:57:29] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[02:57:30] [Paper Watchdog Thread/ERROR]: ------------------------------
-[03:01:05] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-97-b5e7257 (MC: 1.21.11) ---
-[03:01:06] [Paper Watchdog Thread/ERROR]: The server has not responded for 13 seconds! Creating thread dump
-[03:01:08] [Paper Watchdog Thread/ERROR]: ------------------------------
-[03:01:09] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[03:03:37] [Paper Watchdog Thread/ERROR]: ------------------------------
-[03:03:39] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[03:03:41] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: RUNNABLE
-[03:03:42] [Paper Watchdog Thread/ERROR]: 	Stack:
-[03:04:14] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.unpark(Native Method)
-[03:04:23] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.unpark(LockSupport.java:181)
-[03:04:24] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.AbstractQueuedSynchronizer.signalNext(AbstractQueuedSynchronizer.java:645)
-[03:04:26] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.AbstractQueuedSynchronizer.release(AbstractQueuedSynchronizer.java:1094)
-[03:04:27] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.ReentrantLock.unlock(ReentrantLock.java:494)
-[03:04:30] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.LinkedBlockingQueue.signalNotEmpty(LinkedBlockingQueue.java:179)
-[03:04:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.LinkedBlockingQueue.offer(LinkedBlockingQueue.java:423)
-[03:04:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1368)
-[03:04:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.Executors$DelegatedExecutorService.execute(Executors.java:754)
-[03:04:37] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftAsyncScheduler.mainThreadHeartbeat(CraftAsyncScheduler.java:73)
-[03:04:39] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:457)
-[03:04:40] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1594)
-[03:04:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:427)
-[03:04:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1672)
-[03:04:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1340)
-[03:04:50] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
-[03:04:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007ea9d2fa32c0.run(Unknown Source)
-[03:04:54] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
-[03:04:57] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
-[03:05:00] [Paper Watchdog Thread/ERROR]: ------------------------------
-[03:05:01] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[03:05:02] [Paper Watchdog Thread/ERROR]: ------------------------------
-[03:05:55] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-97-b5e7257 (MC: 1.21.11) ---
-[03:05:58] [Paper Watchdog Thread/ERROR]: The server has not responded for 14 seconds! Creating thread dump
-[03:05:59] [Paper Watchdog Thread/ERROR]: ------------------------------
-[03:05:59] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[03:07:35] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
-[03:16:43] [Paper Watchdog Thread/ERROR]: ------------------------------
-[03:16:49] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[03:16:53] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: RUNNABLE
-[03:16:56] [Paper Watchdog Thread/ERROR]: 	Stack:
-[03:19:28] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.math.BigInteger.multiplyToLen(BigInteger.java:1797)
-[04:03:10] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.math.BigInteger.multiply(BigInteger.java:1656)
-[04:03:11] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.math.BigInteger.multiply(BigInteger.java:1600)
-[04:03:13] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.math.BigDecimal.bigMultiplyPowerTen(BigDecimal.java:5362)
-[04:03:14] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.math.BigDecimal.add(BigDecimal.java:5341)
-[04:03:15] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.math.BigDecimal.add(BigDecimal.java:1394)
-[04:03:16] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.util.RollingAverage.add(RollingAverage.java:50)
-[04:03:17] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.monitor.tick.SparkTickStatistics.onTick(SparkTickStatistics.java:104)
-[04:03:18] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.tick.AbstractTickReporter.onTick(AbstractTickReporter.java:31)
-[04:03:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.PaperTickReporter.onTick(PaperTickReporter.java:43)
-[04:03:22] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.PaperSparkPlugin.onServerTickEnd(PaperSparkPlugin.java:110)
-[04:03:24] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly.tickEnd(SparksFly.java:162)
-[04:03:24] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1607)
-[04:03:25] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:427)
-[04:03:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1672)
-[04:03:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1340)
-[04:03:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
-[04:03:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007ea9d2fa32c0.run(Unknown Source)
-[04:03:26] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
-[04:03:26] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
-[04:03:26] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:03:26] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[04:03:26] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:03:30] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-97-b5e7257 (MC: 1.21.11) ---
-[04:03:33] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
-[04:03:34] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:03:35] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[04:03:46] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:03:46] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[04:03:46] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: TIMED_WAITING
-[04:03:46] [Paper Watchdog Thread/ERROR]: 	Stack:
-[04:03:46] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
-[04:03:46] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[04:03:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.recordTaskExecutionTimeWhileWaiting(MinecraftServer.java:1240)
-[04:03:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1346)
-[04:03:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
-[04:03:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007ea9d2fa32c0.run(Unknown Source)
-[04:03:46] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
-[04:03:46] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
-[04:03:46] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:03:46] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[04:03:46] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:04:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-97-b5e7257 (MC: 1.21.11) ---
-[04:04:41] [Paper Watchdog Thread/ERROR]: The server has not responded for 13 seconds! Creating thread dump
-[04:04:42] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:04:44] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[04:09:55] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:09:56] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[04:09:57] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: RUNNABLE
-[04:09:59] [Paper Watchdog Thread/ERROR]: 	Stack:
-[04:10:02] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.ReentrantLock$Sync.lock(ReentrantLock.java:152)
-[04:10:03] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.ReentrantLock.lock(ReentrantLock.java:322)
-[04:10:04] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.LinkedBlockingQueue.signalNotEmpty(LinkedBlockingQueue.java:175)
-[04:10:05] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.LinkedBlockingQueue.offer(LinkedBlockingQueue.java:423)
-[04:10:16] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1368)
-[04:10:17] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.Executors$DelegatedExecutorService.execute(Executors.java:754)
-[04:10:19] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftAsyncScheduler.mainThreadHeartbeat(CraftAsyncScheduler.java:73)
-[04:10:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:457)
-[04:10:24] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1594)
-[04:10:25] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:427)
-[04:10:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1672)
-[04:10:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1340)
-[04:11:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
-[04:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007ea9d2fa32c0.run(Unknown Source)
-[04:11:11] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
-[04:11:28] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
-[04:11:29] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:11:55] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[04:13:02] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:16:16] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:17:13] [Paper Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Paper bug.
-[04:17:46] [Paper Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
-[04:17:47] [Paper Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
-[04:17:49] [Paper Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
-[04:18:13] [Paper Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
-[04:18:14] [Paper Watchdog Thread/ERROR]: If you are unsure or still think this is a Paper bug, please report this to https://github.com/PaperMC/Paper/issues
-[04:18:15] [Paper Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
-[04:18:23] [Paper Watchdog Thread/ERROR]: Paper version: 1.21.11-97-b5e7257 (MC: 1.21.11)
-[04:18:29] [Paper Watchdog Thread/ERROR]: ------------------------------
-[04:18:29] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[13:59:06] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-122.04; Ubuntu null) on Linux 6.8.0-100-generic (amd64)
+[13:59:06] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-97-main@b5e7257 (2026-01-17T17:43:43Z) for Minecraft 1.21.11
+[13:59:06] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[13:59:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[13:59:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - LANBroadcaster (1.6.2), NoMobGriefing (3.0.3), PlayerViewDistanceController (1.4.0)
+[13:59:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:59:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[13:59:30] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 2,088.6ms
+[13:59:37] [ServerMain/INFO]: Loaded 1470 recipes
+[13:59:37] [ServerMain/INFO]: Loaded 1584 advancements
+[13:59:37] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[13:59:37] [Server thread/INFO]: Loading properties
+[13:59:37] [Server thread/INFO]: This server is running Paper version 1.21.11-97-main@b5e7257 (2026-01-17T17:43:43Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[13:59:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[13:59:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:59:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:59:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[13:59:39] [Server thread/INFO]: Default game type: SURVIVAL
+[13:59:39] [Server thread/INFO]: Generating keypair
+[13:59:39] [Server thread/INFO]: Starting Minecraft server on 192.168.1.200:25565
+[13:59:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:59:39] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[13:59:40] [Server thread/INFO]: [PVDC] Loading server plugin PlayerViewDistanceController v1.4.0
+[13:59:40] [Server thread/INFO]: [NoMobGriefing] Loading server plugin NoMobGriefing v3.0.3
+[13:59:40] [Server thread/INFO]: [LANBroadcaster] Loading server plugin LANBroadcaster v1.6.2
+[13:59:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:59:40] [Server thread/INFO]: Preparing level "The-Wall-master"
+[13:59:40] [Server thread/INFO]: -------- World Settings For [The-Wall-master] --------
+[13:59:40] [Server thread/INFO]: View Distance: 32
+[13:59:40] [Server thread/INFO]: Simulation Distance: 32
+[13:59:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:59:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:59:40] [Server thread/INFO]: Mob Spawn Range: 6
+[13:59:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:59:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:59:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:59:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:59:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:59:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[13:59:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[13:59:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[13:59:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[13:59:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:59:40] [Server thread/INFO]: Max TNT Explosions: 100
+[13:59:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:59:40] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[13:59:40] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[13:59:42] [Server thread/INFO]: -------- World Settings For [The-Wall-master_nether] --------
+[13:59:42] [Server thread/INFO]: View Distance: 32
+[13:59:42] [Server thread/INFO]: Simulation Distance: 32
+[13:59:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:59:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:59:42] [Server thread/INFO]: Mob Spawn Range: 6
+[13:59:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:59:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:59:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:59:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:59:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:59:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[13:59:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[13:59:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[13:59:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:59:42] [Server thread/INFO]: Max TNT Explosions: 100
+[13:59:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:59:42] [Server thread/INFO]: -------- World Settings For [The-Wall-master_the_end] --------
+[13:59:42] [Server thread/INFO]: View Distance: 32
+[13:59:42] [Server thread/INFO]: Simulation Distance: 32
+[13:59:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:59:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:59:42] [Server thread/INFO]: Mob Spawn Range: 6
+[13:59:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:59:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:59:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:59:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:59:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:59:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[13:59:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[13:59:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[13:59:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[13:59:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:59:42] [Server thread/INFO]: Max TNT Explosions: 100
+[13:59:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:59:43] [Server thread/INFO]: Loading 74 persistent chunks for world 'minecraft:overworld'...
+[13:59:43] [Server thread/INFO]: Preparing spawn area: 11%
+[13:59:43] [Server thread/INFO]: Preparing spawn area: 11%
+[13:59:44] [Server thread/INFO]: Preparing spawn area: 11%
+[13:59:46] [Server thread/INFO]: Prepared spawn area in 3184 ms
+[13:59:46] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[13:59:46] [Server thread/INFO]: Prepared spawn area in 2 ms
+[13:59:46] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[13:59:46] [Server thread/INFO]: Prepared spawn area in 0 ms
+[13:59:46] [Server thread/INFO]: Done preparing level "The-Wall-master" (6.136s)
+[13:59:46] [Server thread/INFO]: [PVDC] Enabling PlayerViewDistanceController v1.4.0
+[13:59:46] [Server thread/INFO]: [PVDC] Plugin started!
+[13:59:46] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v3.0.3
+[13:59:46] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[13:59:46] [Server thread/INFO]: [LANBroadcaster] Enabling LANBroadcaster v1.6.2
+[13:59:46] [Server thread/INFO]: [spark] Starting background profiler...
+[13:59:47] [Server thread/INFO]: Running delayed init tasks
+[13:59:47] [Server thread/INFO]: Done (45.362s)! For help, type "help"
+[13:59:47] [Craft Scheduler Thread - 3 - LANBroadcaster/INFO]: [LANBroadcaster] Broadcasting server with port 25565 over LAN.
+[13:59:47] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 20 build(s) behind ***
+[13:59:47] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[13:59:50] [User Authenticator #0/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[13:59:50] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 723103f1-811b-438a-8763-7c2db6d681c0, mapped to Sheep['Sheep'/351, uuid='723103f1-811b-438a-8763-7c2db6d681c0', l='ServerLevel[The-Wall-master]', x=-275.84, y=69.00, z=297.40, cpos=[-18, 18], tl=0, v=true], can't add Sheep['Sheep'/537, uuid='723103f1-811b-438a-8763-7c2db6d681c0', l='ServerLevel[The-Wall-master]', x=-271.03, y=69.00, z=303.41, cpos=[-17, 18], tl=0, v=false]
+[13:59:50] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 178ba1f0-dec2-4bfc-b22e-d23096e7bb7b, mapped to Sheep['Sheep'/405, uuid='178ba1f0-dec2-4bfc-b22e-d23096e7bb7b', l='ServerLevel[The-Wall-master]', x=-278.40, y=69.00, z=311.91, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/565, uuid='178ba1f0-dec2-4bfc-b22e-d23096e7bb7b', l='ServerLevel[The-Wall-master]', x=-267.63, y=69.00, z=315.43, cpos=[-17, 19], tl=0, v=false]
+[13:59:50] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: c0ba44b1-b749-44a1-9b7d-4c59cb960af4, mapped to Sheep['Sheep'/368, uuid='c0ba44b1-b749-44a1-9b7d-4c59cb960af4', l='ServerLevel[The-Wall-master]', x=-278.90, y=69.00, z=316.93, cpos=[-18, 19], tl=0, v=true], can't add Sheep['Sheep'/571, uuid='c0ba44b1-b749-44a1-9b7d-4c59cb960af4', l='ServerLevel[The-Wall-master]', x=-266.76, y=69.00, z=311.28, cpos=[-17, 19], tl=0, v=false]
+[13:59:52] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[13:59:52] [Server thread/INFO]: Dallinator_X joined the game
+[13:59:52] [Server thread/INFO]: Dallinator_X[/192.168.1.2:46346] logged in with entity id 2105 at ([The-Wall-master]-219.38712265413568, 11.0, 260.2478400350051)
+[13:59:53] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d7f97ac0-fe2b-48bc-af93-844725d2b1fd, mapped to Sheep['Sheep'/860, uuid='d7f97ac0-fe2b-48bc-af93-844725d2b1fd', l='ServerLevel[The-Wall-master]', x=-241.16, y=69.00, z=318.07, cpos=[-16, 19], tl=0, v=true], can't add Sheep['Sheep'/2163, uuid='d7f97ac0-fe2b-48bc-af93-844725d2b1fd', l='ServerLevel[The-Wall-master]', x=-240.07, y=69.00, z=320.31, cpos=[-16, 20], tl=0, v=false]
+[13:59:53] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 2ae407c1-8f8b-46fb-bc1c-44d1d03cfbfc, mapped to Sheep['Sheep'/866, uuid='2ae407c1-8f8b-46fb-bc1c-44d1d03cfbfc', l='ServerLevel[The-Wall-master]', x=-240.07, y=69.00, z=319.08, cpos=[-16, 19], tl=0, v=true], can't add Sheep['Sheep'/2167, uuid='2ae407c1-8f8b-46fb-bc1c-44d1d03cfbfc', l='ServerLevel[The-Wall-master]', x=-240.47, y=69.00, z=321.23, cpos=[-16, 20], tl=0, v=false]
+[13:59:53] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 22ad6380-8cfe-42d0-bfb6-d15047489ed4, mapped to Sheep['Sheep'/875, uuid='22ad6380-8cfe-42d0-bfb6-d15047489ed4', l='ServerLevel[The-Wall-master]', x=-248.98, y=69.00, z=318.62, cpos=[-16, 19], tl=0, v=true], can't add Sheep['Sheep'/2168, uuid='22ad6380-8cfe-42d0-bfb6-d15047489ed4', l='ServerLevel[The-Wall-master]', x=-242.63, y=69.00, z=321.59, cpos=[-16, 20], tl=0, v=false]
+[13:59:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d0559ae7-2ae1-4d7c-8287-376ff79da1f5, mapped to Sheep['Sheep'/573, uuid='d0559ae7-2ae1-4d7c-8287-376ff79da1f5', l='ServerLevel[The-Wall-master]', x=-264.82, y=69.00, z=318.55, cpos=[-17, 19], tl=0, v=true], can't add Sheep['Sheep'/2319, uuid='d0559ae7-2ae1-4d7c-8287-376ff79da1f5', l='ServerLevel[The-Wall-master]', x=-267.21, y=69.00, z=326.20, cpos=[-17, 20], tl=0, v=false]
+[13:59:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: c2e9752d-0d47-4391-9eb3-b82922e8d706, mapped to Sheep['Sheep'/438, uuid='c2e9752d-0d47-4391-9eb3-b82922e8d706', l='ServerLevel[The-Wall-master]', x=-276.97, y=69.00, z=329.93, cpos=[-18, 20], tl=0, v=true], can't add Sheep['Sheep'/2326, uuid='c2e9752d-0d47-4391-9eb3-b82922e8d706', l='ServerLevel[The-Wall-master]', x=-269.01, y=69.00, z=321.33, cpos=[-17, 20], tl=0, v=false]
+[13:59:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f496f8c1-08e0-4186-ad8f-9ff642d768df, mapped to Sheep['Sheep'/448, uuid='f496f8c1-08e0-4186-ad8f-9ff642d768df', l='ServerLevel[The-Wall-master]', x=-278.26, y=69.00, z=335.50, cpos=[-18, 20], tl=0, v=true], can't add Sheep['Sheep'/2417, uuid='f496f8c1-08e0-4186-ad8f-9ff642d768df', l='ServerLevel[The-Wall-master]', x=-263.91, y=69.00, z=336.30, cpos=[-17, 21], tl=0, v=false]
+[13:59:55] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5b941181-397c-425d-ac82-2e8e6a7d777c, mapped to Sheep['Sheep'/445, uuid='5b941181-397c-425d-ac82-2e8e6a7d777c', l='ServerLevel[The-Wall-master]', x=-283.27, y=69.00, z=335.84, cpos=[-18, 20], tl=0, v=true], can't add Sheep['Sheep'/2550, uuid='5b941181-397c-425d-ac82-2e8e6a7d777c', l='ServerLevel[The-Wall-master]', x=-282.18, y=69.00, z=336.24, cpos=[-18, 21], tl=0, v=false]
+[14:00:07] [User Authenticator #0/INFO]: UUID of player 855_FOR_TRUTH is cc451e9c-6e62-4f2b-b7a6-45ea7305d961
+[14:00:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7a28be0d-6419-43e7-bb41-78a7777af0be, mapped to Bat['Bat'/4164, uuid='7a28be0d-6419-43e7-bb41-78a7777af0be', l='ServerLevel[The-Wall-master]', x=-1616.16, y=-23.71, z=1719.37, cpos=[-102, 107], tl=0, v=false], can't add Bat['Bat'/4184, uuid='7a28be0d-6419-43e7-bb41-78a7777af0be', l='ServerLevel[The-Wall-master]', x=-1615.50, y=-24.00, z=1719.72, cpos=[-101, 107], tl=0, v=false]
+[14:00:09] [Server thread/INFO]: 855_FOR_TRUTH joined the game
+[14:00:09] [Server thread/INFO]: 855_FOR_TRUTH[/174.240.19.117:5708] logged in with entity id 4228 at ([The-Wall-master]-1629.7385153342268, 58.18548543289789, 1706.6519458170983)
+[14:01:58] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[14:01:58] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[14:02:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 899f9fdc-5a44-4b61-ba33-f05dce16c24b, mapped to Drowned['Drowned'/5329, uuid='899f9fdc-5a44-4b61-ba33-f05dce16c24b', l='ServerLevel[The-Wall-master]', x=-1871.70, y=-27.00, z=1747.53, cpos=[-117, 109], tl=0, v=true], can't add Drowned['Drowned'/5343, uuid='899f9fdc-5a44-4b61-ba33-f05dce16c24b', l='ServerLevel[The-Wall-master]', x=-1897.11, y=-31.00, z=1736.83, cpos=[-119, 108], tl=0, v=false]
+[14:02:04] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 567c8782-a68f-4e23-9d5c-f95dc7fdd57b, mapped to Drowned['Drowned'/5355, uuid='567c8782-a68f-4e23-9d5c-f95dc7fdd57b', l='ServerLevel[The-Wall-master]', x=-1885.85, y=38.39, z=1762.28, cpos=[-118, 110], tl=0, v=true], can't add Drowned['Drowned'/5360, uuid='567c8782-a68f-4e23-9d5c-f95dc7fdd57b', l='ServerLevel[The-Wall-master]', x=-1902.05, y=30.00, z=1758.75, cpos=[-119, 109], tl=0, v=false]
+[14:02:05] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9dad4a35-7c4a-4428-b96d-c7f907452299, mapped to Drowned['Drowned'/5366, uuid='9dad4a35-7c4a-4428-b96d-c7f907452299', l='ServerLevel[The-Wall-master]', x=-1878.82, y=44.00, z=1781.40, cpos=[-118, 111], tl=0, v=true], can't add Drowned['Drowned'/5374, uuid='9dad4a35-7c4a-4428-b96d-c7f907452299', l='ServerLevel[The-Wall-master]', x=-1890.40, y=44.00, z=1768.14, cpos=[-119, 110], tl=0, v=false]
+[14:05:46] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[14:05:46] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[14:13:59] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[14:14:05] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[14:14:24] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[14:14:38] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[14:18:11] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[14:18:11] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[14:21:03] [Server thread/WARN]: Dallinator_X moved wrongly!
+[14:21:12] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[14:21:12] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[14:33:44] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[14:33:44] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[14:34:00] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[14:34:00] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[14:38:46] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[14:39:41] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[14:39:41] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[14:39:58] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[14:42:13] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[14:42:13] [Server thread/INFO]: Dallinator_X left the game
+[15:04:19] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode creative
+[15:04:19] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Creative Mode]
+[15:08:03] [Server thread/INFO]: Villager Villager['Farmer'/2285, uuid='e61649bd-33cf-457d-a286-2cb658ebb480', l='ServerLevel[The-Wall-master]', x=-250.70, y=20.00, z=210.71, cpos=[-16, 13], tl=48474, v=true] died, message: 'Farmer hit the ground too hard'
+[15:24:57] [User Authenticator #1/INFO]: UUID of player Dallinator_X is 6c8f437a-5e18-4a44-8660-2924cba35c90
+[15:24:58] [Server thread/INFO]: [PVDC] Loaded prefixes: [dot, another_prefix]
+[15:24:58] [Server thread/INFO]: Dallinator_X joined the game
+[15:24:58] [Server thread/INFO]: Dallinator_X[/192.168.1.2:51760] logged in with entity id 26122 at ([The-Wall-master]-207.69999998807907, 74.0, 257.66203557272075)
+[15:25:08] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[15:25:08] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[15:26:33] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[15:26:33] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[15:27:07] [Server thread/WARN]: Nautilus (vehicle of 855_FOR_TRUTH) moved wrongly! 0.31395838527865294
+[15:27:52] [Server thread/INFO]: Villager Villager['Farmer'/2261, uuid='89c04ad3-46e6-4d43-b245-a69a6bafc31d', l='ServerLevel[The-Wall-master]', x=-248.52, y=66.90, z=187.48, cpos=[-16, 11], tl=62101, v=true] died, message: 'Farmer drowned'
+[15:32:04] [Server thread/INFO]: Villager Villager['Villager'/967, uuid='0e18ee61-e589-47e5-ab7b-09daa89ebb12', l='ServerLevel[The-Wall-master]', x=-246.28, y=16.00, z=214.07, cpos=[-16, 13], tl=44658, v=true] died, message: 'Villager hit the ground too hard'
+[15:39:15] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[15:39:15] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[15:41:29] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode spectator
+[15:41:29] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Spectator Mode]
+[15:41:52] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /gamemode survival
+[15:41:52] [Server thread/INFO]: [855_FOR_TRUTH: Set own game mode to Survival Mode]
+[15:47:11] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[15:47:11] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[15:47:30] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[15:47:36] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[15:48:46] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[15:48:46] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[15:51:24] [Server thread/INFO]: Dallinator_X issued server command: /time set
+[15:51:27] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[15:51:27] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[15:52:31] [Server thread/INFO]: Dallinator_X issued server command: /difficulty hard
+[15:52:31] [Server thread/INFO]: [Dallinator_X: The difficulty has been set to Hard]
+[15:59:11] [Server thread/INFO]: Villager Villager['Librarian'/466, uuid='03739783-ad3c-4240-b390-df9662f7fac8', l='ServerLevel[The-Wall-master]', x=-284.87, y=74.00, z=229.86, cpos=[-18, 14], tl=48349, v=true] died, message: 'Librarian was speared by Zombie'
+[16:01:10] [Server thread/INFO]: 855_FOR_TRUTH was shot by Skeleton
+[16:01:12] [Server thread/INFO]: Dallinator_X issued server command: /difficulty normal
+[16:01:12] [Server thread/INFO]: [Dallinator_X: The difficulty has been set to Normal]
+[16:01:17] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[16:01:17] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[16:06:32] [Server thread/INFO]: Villager Villager['Farmer'/718, uuid='7bbbfa3c-7abf-4885-8f06-91acb6e13eca', l='ServerLevel[The-Wall-master]', x=-246.50, y=56.38, z=187.48, cpos=[-16, 11], tl=55463, v=true] died, message: 'Farmer drowned'
+[16:09:33] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[16:09:45] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[16:09:48] [Server thread/INFO]: Dallinator_X issued server command: /difficulty hard
+[16:09:48] [Server thread/INFO]: [Dallinator_X: The difficulty has been set to Hard]
+[16:09:55] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[16:09:55] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[16:10:25] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[16:10:25] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[16:10:30] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[16:10:30] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[16:12:03] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[16:12:03] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[16:12:48] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[16:12:48] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[16:12:54] [Server thread/INFO]: 855_FOR_TRUTH was burned to a crisp while fighting Zombie
+[16:16:32] [Server thread/INFO]: Dallinator_X issued server command: /time set night
+[16:16:32] [Server thread/INFO]: [Dallinator_X: Set the time to 13000]
+[16:16:48] [Server thread/INFO]: Dallinator_X issued server command: /difficulty hard
+[16:20:52] [Server thread/INFO]: Villager Villager['Librarian'/37712, uuid='ce2e2d62-ccf9-4bd9-ac95-2059c68cd4bd', l='ServerLevel[The-Wall-master]', x=-284.26, y=74.19, z=229.59, cpos=[-18, 14], tl=9940, v=true] died, message: 'Librarian was slain by Zombie'
+[16:21:21] [Server thread/INFO]: [Dallinator_X: Set own game mode to Spectator Mode]
+[16:21:27] [Server thread/INFO]: [Dallinator_X: Set own game mode to Survival Mode]
+[16:21:47] [Server thread/INFO]: Dallinator_X issued server command: /tp 855_FOR_TRUTH
+[16:21:47] [Server thread/INFO]: [Dallinator_X: Teleported Dallinator_X to 855_FOR_TRUTH]
+[16:22:22] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /time set day
+[16:22:22] [Server thread/INFO]: [855_FOR_TRUTH: Set the time to 1000]
+[16:29:26] [Server thread/INFO]: Villager Villager['Librarian'/42242, uuid='4647fa2a-8a03-4222-be9f-5c80110bdc27', l='ServerLevel[The-Wall-master]', x=-286.50, y=74.19, z=230.10, cpos=[-18, 14], tl=1175, v=true] died, message: 'Librarian was slain by Zombie'
+[16:36:32] [Server thread/INFO]: 855_FOR_TRUTH issued server command: /tp Dallinator_X
+[16:36:32] [Server thread/INFO]: [855_FOR_TRUTH: Teleported 855_FOR_TRUTH to Dallinator_X]
+[16:37:17] [Server thread/INFO]: Dallinator_X issued server command: /difficulty normal
+[16:37:17] [Server thread/INFO]: [Dallinator_X: The difficulty has been set to Normal]
+[16:37:45] [Server thread/INFO]: Dallinator_X issued server command: /time set day
+[16:37:45] [Server thread/INFO]: [Dallinator_X: Set the time to 1000]
+[16:39:24] [Server thread/INFO]: Dallinator_X lost connection: Disconnected
+[16:39:24] [Server thread/INFO]: Dallinator_X left the game
+[16:39:41] [Server thread/INFO]: 855_FOR_TRUTH lost connection: Disconnected
+[16:39:41] [Server thread/INFO]: 855_FOR_TRUTH left the game
+[16:40:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
