@@ -1,1 +1,4 @@
-[04:52:48] [Server thread/INFO]: MCScans (/45.148.10.134:41398) lost connection: Disconnected
+[20:52:47] [Server thread/INFO]: /176.65.134.27:62263 lost connection: Disconnected
+[20:53:10] [Server thread/INFO]: /176.65.134.24:64120 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[20:58:47] [Server thread/INFO]: /176.65.134.27:62263 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[20:59:37] [Server thread/INFO]: /176.65.134.24:64120 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
