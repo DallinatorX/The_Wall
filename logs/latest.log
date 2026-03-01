@@ -1,4 +1,8 @@
-[20:52:47] [Server thread/INFO]: /176.65.134.27:62263 lost connection: Disconnected
-[20:53:10] [Server thread/INFO]: /176.65.134.24:64120 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
-[20:58:47] [Server thread/INFO]: /176.65.134.27:62263 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
-[20:59:37] [Server thread/INFO]: /176.65.134.24:64120 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[02:10:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-97-b5e7257 (MC: 1.21.11) ---
+[02:55:50] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[02:57:21] [Paper Watchdog Thread/ERROR]: The server has not responded for -125 seconds! Creating thread dump
+[02:57:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:57:22] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[03:14:20] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:15:23] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:21:40] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
