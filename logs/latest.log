@@ -1,13 +1,3 @@
-[03:11:46] [User Authenticator #6/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:42896): Failed to verify username!
-[03:11:46] [User Authenticator #6/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
-[03:11:46] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:42896) lost connection: Failed to verify username!
-[06:52:26] [Server thread/INFO]: MCScans (/87.121.84.28:58434) lost connection: Disconnected
-[12:53:41] [User Authenticator #7/INFO]: UUID of player KittyScanNya is 0235ffa8-ad25-4537-a3fd-535afff0987c
-[12:53:41] [Server thread/INFO]: Disconnecting KittyScanNya (/176.65.148.158:54300): Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
-[12:53:41] [Server thread/INFO]: KittyScanNya (/176.65.148.158:54300) lost connection: Unfortunately, some junk fellows decided to break the Wall. This was no bueno. Now we have a whitelist! Let Dallin or Colby know if you're seeing this message and we'll get you on pronto. If you don't know who Dallin or Colby are, you can ask nicely at dallinspam@gmail.com
-[15:35:03] [User Authenticator #8/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:53306): Failed to verify username!
-[15:35:03] [User Authenticator #8/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
-[15:35:03] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:53306) lost connection: Failed to verify username!
-[23:31:10] [User Authenticator #9/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:48826): Failed to verify username!
-[23:31:10] [User Authenticator #9/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
-[23:31:10] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:48826) lost connection: Failed to verify username!
+[03:17:24] [User Authenticator #12/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:48810): Failed to verify username!
+[03:17:24] [User Authenticator #12/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
+[03:17:24] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:48810) lost connection: Failed to verify username!
