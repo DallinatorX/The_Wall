@@ -1,3 +1,12 @@
 [03:34:53] [User Authenticator #20/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:54892): Failed to verify username!
 [03:34:53] [User Authenticator #20/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
 [03:34:53] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:54892) lost connection: Failed to verify username!
+[04:54:00] [Server thread/INFO]: MCScans (/87.121.84.28:48172) lost connection: Disconnected
+[09:03:45] [Server thread/INFO]: MCScans (/87.121.84.28:59800) lost connection: Disconnected
+[10:50:40] [User Authenticator #21/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:57866): Failed to verify username!
+[10:50:40] [User Authenticator #21/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
+[10:50:40] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:57866) lost connection: Failed to verify username!
+[19:49:10] [User Authenticator #22/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:46114): Failed to verify username!
+[19:49:10] [User Authenticator #22/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
+[19:49:10] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:46114) lost connection: Failed to verify username!
+[20:15:38] [Server thread/INFO]: McSeeker (/45.194.92.2:51018) lost connection: Disconnected
