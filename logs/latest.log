@@ -1,1 +1,3 @@
-[00:23:26] [Server thread/INFO]: Test100073 (/103.44.174.155:62475) lost connection: Disconnected
+[01:09:39] [User Authenticator #22/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:57442): Failed to verify username!
+[01:09:39] [User Authenticator #22/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
+[01:09:39] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:57442) lost connection: Failed to verify username!
