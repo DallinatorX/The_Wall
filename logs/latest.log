@@ -1,10 +1,14 @@
-[01:09:39] [User Authenticator #22/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:57442): Failed to verify username!
-[01:09:39] [User Authenticator #22/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
-[01:09:39] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:57442) lost connection: Failed to verify username!
-[08:26:52] [User Authenticator #23/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:38956): Failed to verify username!
-[08:26:52] [User Authenticator #23/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
-[08:26:52] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:38956) lost connection: Failed to verify username!
-[19:10:41] [User Authenticator #24/INFO]: Disconnecting BreakBlocksClub (/169.40.135.30:46318): Failed to verify username!
-[19:10:41] [User Authenticator #24/ERROR]: Username 'BreakBlocksClub' tried to join with an invalid session
-[19:10:41] [Server thread/INFO]: BreakBlocksClub (/169.40.135.30:46318) lost connection: Failed to verify username!
-[22:30:15] [Server thread/INFO]: Test247425 (/103.44.174.155:7039) lost connection: Disconnected
+[02:06:13] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:06:36] [Paper Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Paper bug.
+[02:07:28] [Paper Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[02:07:29] [Paper Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[02:07:30] [Paper Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[02:07:42] [Paper Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[02:07:42] [Paper Watchdog Thread/ERROR]: If you are unsure or still think this is a Paper bug, please report this to https://github.com/PaperMC/Paper/issues
+[02:07:43] [Paper Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[02:09:55] [Paper Watchdog Thread/ERROR]: Paper version: 1.21.11-97-b5e7257 (MC: 1.21.11)
+[02:10:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:10:08] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[02:23:04] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:24:15] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[02:47:20] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
